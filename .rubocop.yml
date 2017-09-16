@@ -1,0 +1,271 @@
+AllCops:
+  TargetRubyVersion: 2.4
+  Include:
+    - '**/Rakefile'
+    - '**/config.ru'
+  Exclude:
+    - 'db/schema.rb'
+    - 'db/archive/*'
+    - 'db/seeds/*'
+    - 'db/migrate/*'
+    - 'vendor/**/*'
+
+require:
+ - ./spec/support/cops/empty_lines_between_defs.rb
+
+
+## Enabled
+#
+
+Rails:
+  Enabled: true
+
+Rails/Output:
+  Enabled: true
+  Exclude:
+    - 'db/seeds.rb'
+    - 'lib/console/print_helpers.rb'
+
+Rails/SkipsModelValidations:
+  Enabled: true
+  Blacklist:
+    - decrement!
+    - decrement_counter
+    - increment!
+    - increment_counter
+    - toggle!
+    - update_attribute
+    - update_counters
+  Exclude:
+    - 'app/models/setting.rb'
+    - 'app/operations/settings_operations.rb'
+
+Style/AutoResourceCleanup:
+  Enabled: true
+
+Style/CollectionMethods:
+  Enabled: true
+
+Style/Encoding:
+  Enabled: true
+
+Style/MethodCalledOnDoEndBlock:
+  Enabled: true
+
+Style/MultilineAssignmentLayout:
+  Enabled: true
+
+Style/StringMethods:
+  Enabled: true
+
+Style/EmptyLinesBetweenDefs: # custom cop
+  Enabled: true
+  AllowAdjacentOneLineDefs: true
+  NumberOfEmptyLines: 2
+  Exclude:
+    - 'spec/support/cops/empty_lines_between_defs.rb'
+
+
+## Disabled
+#
+#
+Rails/DynamicFindBy:
+  Enabled: false
+
+Rails/OutputSafety:
+  Enabled: false
+
+Rails/HttpPositionalArguments:
+  Enabled: false
+
+Lint/UnusedBlockArgument:
+  Enabled: false
+
+Lint/EmptyWhen:
+  Enabled: false
+
+Rails/Delegate:
+  Enabled: false
+
+Style/ModuleFunction:
+  Enabled: false
+
+Style/DoubleNegation:
+  Enabled: false
+
+Style/NumericLiterals:
+  Enabled: false
+
+Style/SingleLineBlockParams:
+  Enabled: false
+
+Style/NestedParenthesizedCalls:
+  Enabled: false
+
+Style/GuardClause:
+  Enabled: false
+
+Style/IfUnlessModifier:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/SingleLineMethods:
+  Enabled: false
+
+Style/RescueModifier:
+  Enabled: false
+
+Style/CommentIndentation:
+  Enabled: false
+
+Style/MultilineOperationIndentation:
+  Enabled: false
+
+Style/MultilineHashBraceLayout:
+  Enabled: false
+
+Style/SpaceInsideBrackets:
+  Enabled: false
+
+Style/BlockEndNewline:
+  Enabled: false
+
+Style/StructInheritance:
+  Enabled: false
+
+Style/AccessorMethodName:
+  Enabled: false
+
+Style/AlignParameters:
+  Enabled: false
+
+Style/TrailingUnderscoreVariable:
+  Enabled: false
+
+Style/EmptyLines:
+  Enabled: false
+
+Style/EmptyLineBetweenDefs:
+  Enabled: false
+  AllowAdjacentOneLineDefs: true
+
+Style/EmptyLinesAroundClassBody:
+  Enabled: false
+
+Style/EmptyLinesAroundModuleBody:
+  Enabled: false
+
+Style/EmptyLinesAroundBlockBody:
+  Enabled: false
+
+Style/NumericPredicate:
+  Enabled: false
+
+Style/MethodMissing:
+  Enabled: false
+
+Style/ParallelAssignment:
+  Enabled: false
+
+Performance/RegexpMatch:
+  Enabled: false
+
+
+# Selective
+#
+
+Style/BlockDelimiters:
+  EnforcedStyle: braces_for_chaining
+  Exclude:
+    - 'spec/**/*'
+
+Style/MultilineBlockLayout:
+  Exclude:
+    - 'spec/**/*'
+
+Style/IndentHash:
+  Exclude:
+    - 'spec/**/*'
+
+Style/ClassAndModuleChildren:
+  EnforcedStyle: compact
+  Exclude:
+    - 'lib/**/*'
+    - 'config/application.rb'
+    - 'app/concerns/acts_as_zone_scoped.rb'
+    - 'spec/support/cops/*'
+    - 'spec/concerns/acts_as_*_spec.rb'
+
+Style/Lambda:
+  EnforcedStyle: line_count_dependent
+  Exclude:
+    - 'app/models/**/*'
+
+
+## Custom
+#
+
+
+Metrics/LineLength:
+  Max: 130
+
+Metrics/ClassLength:
+  Max: 250
+
+Metrics/PerceivedComplexity:
+  Max: 15
+
+Metrics/CyclomaticComplexity:
+  Max: 15
+
+Metrics/AbcSize:
+  Max: 40
+
+Metrics/MethodLength:
+  Max: 30
+
+Metrics/BlockLength:
+  Max: 700
+
+Metrics/ParameterLists:
+  CountKeywordArgs: false
+
+Style/AccessModifierIndentation:
+  EnforcedStyle: outdent
+
+Style/MultilineMethodCallBraceLayout:
+  EnforcedStyle: same_line
+
+Style/RegexpLiteral:
+  AllowInnerSlashes: true
+
+Style/GlobalVars:
+  AllowedVariables: ['$dry', '$verbose']
+
+Style/Alias:
+  EnforcedStyle: prefer_alias_method
+
+Style/SymbolProc:
+  IgnoredMethods:
+    - respond_to
+    - define_method
+    - override
+    - compute
+
+Style/PredicateName:
+  Exclude:
+    - '**/*_presenter.rb'
+  NameWhitelist:
+    - is_a?
+    - has_one
+    - has_many
+    - has_transitioned_to?
+
+Security/MarshalLoad:
+  Exclude:
+    - 'app/proxies/gapps_proxy.rb'

@@ -1,0 +1,39 @@
+## Misc
+**.orig
+*.rbc
+/coverage/
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/db/*.dump
+*.dump
+/log
+/public/system
+/spec/tmp
+/spec/support/cassettes/features.yml
+/tmp
+/vendor
+capybara-*.html
+pickle-email-*.html
+rerun.txt
+.DS_Store
+TODO.md
+.byebug_history
+
+## Secrets
+.env*
+config/database.yml
+
+## Environment
+.powenv
+.rvmrc
+/.bundle
+/vendor/bundle
+/vendor/ruby
+
+# Editor
+/.idea
+cscope.files
+cscope.out
+tags
+*.swp
+*.cache
