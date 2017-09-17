@@ -21,7 +21,6 @@ TODO.md
 
 ## Secrets
 .env*
-config/database.yml
 
 ## Environment
 .powenv

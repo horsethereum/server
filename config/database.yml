@@ -1,0 +1,14 @@
+test:
+  adapter: postgresql
+  database: horsethereum-test
+  host: localhost
+
+development:
+  adapter: postgresql
+  database: horsethereum-dev
+  host: localhost
+
+production:
+  adapter: postgresql
+  database: horsethereum
+  host: localhost
