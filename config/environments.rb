@@ -1,4 +1,5 @@
 configure :development do
+ require 'sinatra/reloader'
  set :show_exceptions, true
 end
 

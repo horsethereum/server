@@ -8,6 +8,7 @@ class Init < ActiveRecord::Migration[5.1]
       t.integer  :race_number, null: false
       t.datetime :start_time,  null: false
       t.datetime :end_time,    null: false
+      t.boolean  :settled,     null: false, index: true, default: false
     end
 
     add_index :races, [:date, :race_number], unique: true
@@ -40,7 +41,7 @@ class Init < ActiveRecord::Migration[5.1]
     # Bettors
     #
     create_table :bettors do |t|
-      t.string :user_id, null: false
+      t.string  :user_id, null: false
     end
 
     add_index :bettors, :user_id, unique: true
@@ -53,6 +54,7 @@ class Init < ActiveRecord::Migration[5.1]
       t.integer  :race_id,    null: false, index: true
       t.integer  :horse_id,   null: false, index: true
       t.decimal  :amount,     null: false
+      t.decimal  :profit,     null: false, default: 0
       t.datetime :created_at, null: false, index: true
     end
 

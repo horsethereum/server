@@ -20,6 +20,7 @@ ActiveRecord::Schema.define(version: 20170916211431) do
     t.integer "race_id", null: false
     t.integer "horse_id", null: false
     t.decimal "amount", null: false
+    t.decimal "profit", default: "0.0", null: false
     t.datetime "created_at", null: false
     t.index ["bettor_id", "race_id", "horse_id"], name: "index_bets_on_bettor_id_and_race_id_and_horse_id"
     t.index ["bettor_id"], name: "index_bets_on_bettor_id"
@@ -43,7 +44,9 @@ ActiveRecord::Schema.define(version: 20170916211431) do
     t.integer "race_number", null: false
     t.datetime "start_time", null: false
     t.datetime "end_time", null: false
+    t.boolean "settled", default: false, null: false
     t.index ["date", "race_number"], name: "index_races_on_date_and_race_number", unique: true
+    t.index ["settled"], name: "index_races_on_settled"
   end
 
   create_table "races_horses", force: :cascade do |t|

@@ -30,6 +30,61 @@ describe 'my example app' do
     end
   end
 
+  context 'GET /profile' do
+
+    let!(:u1) { Bettor.create(user_id: '12345') }
+
+    it 'should return the user profile if the user exists' do
+      get '/profile', user_id: u1.user_id
+      expect(body['user_id']).to_not be_nil
+      expect(body['profit'].to_f).to eq(0)
+    end
+
+
+    it 'should return the user profile if the user does not exist' do
+      get '/profile', user_id: 'not_here'
+      expect(body['user_id']).to_not be_nil
+      expect(body['profit'].to_f).to eq(0)
+    end
+
+  end
+
+
+  context 'PUT /profile' do
+
+    let!(:u1)   { Bettor.create(user_id: '12345') }
+
+    context 'win' do
+
+      let!(:bet1) { Bet.create(race: r1, horse: h1, bettor: u1, amount: 1) }
+
+      it 'should return the user profile with profits' do
+        Timecop.travel(r1.start_time + 30.minutes) do
+          put '/profile', user_id: u1.user_id
+          expect(body['user_id']).to eq(u1.user_id)
+          expect(body['profit'].to_f).to_not eq(0)
+        end
+      end
+
+    end
+
+    context 'loss' do
+
+      let!(:bet1) { Bet.create(race: r1, horse: h2, bettor: u1, amount: 1) }
+
+      it 'should return the user profile with no profits' do
+        Timecop.travel(r1.start_time + 30.minutes) do
+          put '/profile', user_id: u1.user_id
+          expect(body['user_id']).to eq(u1.user_id)
+          expect(body['profit'].to_f).to eq(0)
+        end
+      end
+
+    end
+
+  end
+
+
   context '/races_today' do
 
     context 'valid' do
@@ -88,19 +143,17 @@ describe 'my example app' do
         expect(body['id']).to_not be_nil
       end
 
-
-      it 'should create user if one does not exist' do
-        expect {
-          post "/races/#{r1.id}/bets",
-            user_id: 'another_user', horse_id: h1.id, amount: 100
-        }.to change{Bettor.count}.by(1)
-
-        expect(body['id']).to_not be_nil
-      end
-
     end
 
     context 'invalid' do
+
+      it 'should not place a bet without a user' do
+        post "/races/#{r1.id}/bets",
+          user_id: 'another_user', horse_id: h1.id, amount: 100
+
+        expect(body['error']).to eq('not_found')
+      end
+
 
       it 'should not place a bet without an amount' do
         post "/races/#{r1.id}/bets",

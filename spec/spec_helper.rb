@@ -5,21 +5,21 @@ require_relative './test_helpers'
 require 'rspec'
 require 'rack/test'
 require 'pry'
+require 'timecop'
 require 'database_cleaner'
 
 RSpec.configure do |config|
   config.include Rack::Test::Methods
   config.include TestHelpers
 
-  config.before(:each) do
+  config.before(:suite) do
     DatabaseCleaner.strategy = :transaction
+    DatabaseCleaner.clean_with(:truncation)
   end
 
-  config.before(:each) do
-    DatabaseCleaner.start
-  end
-
-  config.append_after(:each) do
-    DatabaseCleaner.clean
+  config.around(:each) do |example|
+    DatabaseCleaner.cleaning do
+      example.run
+    end
   end
 end

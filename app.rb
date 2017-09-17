@@ -1,5 +1,6 @@
 require 'sinatra'
 require 'sinatra/activerecord'
+require 'dotenv/load'
 require './config/environments'
 
 before do
@@ -40,6 +41,26 @@ def respond(response)
     halt(response.status, response.to_json)
   else response.to_json
   end
+end
+
+
+get '/profile' do
+  user_id = params[:user_id]
+
+  user = Bettor.find_or_create_by(user_id: user_id)
+
+  respond user
+end
+
+
+put '/profile' do
+  user_id = params[:user_id]
+
+  Race.update_all! # update race balances
+
+  user = Bettor.find_or_create_by(user_id: user_id)
+
+  respond user
 end
 
 
@@ -91,6 +112,17 @@ end
 
 get '/races/:race_id/horses' do
   race_id = params[:race_id]
+  results = params[:results] ? true : false
+
+  race = Race.find_by(id: race_id)
+
+  unless race
+    return respond Error.new(error: 'not_found')
+  end
+
+  if results && !race.over?
+    return respond Error.new(error: 'race_not_over')
+  end
 
   races_horses = RaceHorseJoin.includes(:horse)
                               .where(race_id: race_id)
@@ -99,7 +131,8 @@ get '/races/:race_id/horses' do
   horses = \
     races_horses.map do |race_horse|
       race_horse.horse.as_json.tap do |json|
-        json[:odds] = race_horse.odds
+        json[:odds]   = race_horse.odds
+        json[:finish] = race_horse.finish if results
       end
     end
 
@@ -110,11 +143,23 @@ end
 get '/races/:race_id/bets' do
   race_id  = params[:race_id].to_i
   user_id  = params[:user_id].to_i
+  scope    = (params[:scope] || :all).to_sym
 
   race   = Race.find_by(id: race_id)
   bettor = Bettor.find_by(user_id: user_id)
-  bets   = Bet.where(race: race, bettor: bettor)
-              .order('created_at asc')
+  bets   =\
+    case scope
+    when :all
+      Bet.where(race: race, bettor: bettor)
+         .order('created_at asc')
+    when :settled
+      Bet.settled.where(race: race, bettor: bettor)
+         .order('created_at asc')
+    when :winning
+      Bet.settled.winning
+         .where(race: race, bettor: bettor)
+         .order('created_at asc')
+    end
 
   unless race && bettor
     return respond Error.new(error: 'not_found')
@@ -140,7 +185,7 @@ post '/races/:race_id/bets' do
 
   race   = Race.find_by(id: race_id)
   horse  = Horse.find_by(id: horse_id)
-  bettor = Bettor.find_or_create_by(user_id: user_id)
+  bettor = Bettor.find_by(user_id: user_id)
 
   unless race && horse && bettor
     return respond Error.new(error: 'not_found')
