@@ -1,12 +1,18 @@
 # Init
 
-Install Ruby 2.4
+Install rbenv and Ruby 2.4
 ```
-brew install rbenv ruby-build postgresql
-brew services start postgresql
+brew install rbenv ruby-build
+echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bash_profile
+echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
 rbenv install 2.4.0
 ```
 
+Install Postgres
+```
+brew install postgres
+brew services start postgresql
+```
 
 Install gems
 ```
