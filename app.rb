@@ -2,38 +2,13 @@ require 'sinatra'
 require 'sinatra/activerecord'
 require 'dotenv/load'
 require './config/environments'
+require './lib/error'
+require 'pry'
 
 
 before do
   Time.zone = 'Pacific Time (US & Canada)'
   content_type :json
-end
-
-class Error
-  attr_reader :status, :error, :message
-
-  def initialize(obj = {})
-      case obj
-      when Hash
-        @status  = obj[:status]  || 400
-        @error   = obj[:error]   || 'error'
-        @message = obj[:message] || 'error'
-      when String
-        @status  = 400
-        @error   = 'error'
-        @message = obj
-      when ActiveModel::Validations
-        @status  = 400,
-        @error   = 'validation_error'
-        @message = obj.errors.messages.to_a.map(&:flatten).map { |l| l.join(' ') }.join(', ')
-      else
-        raise TypeError, "#{obj.class} not supported"
-      end
-  end
-
-  def to_json
-    { status: @status, error: @error, message: @message }.to_json
-  end
 end
 
 
@@ -49,6 +24,10 @@ end
 get '/profile' do
   user_id = params[:user_id]
 
+  unless user_id
+    return respond Error.new(error: 'not_valid')
+  end
+
   user = Bettor.find_or_create_by(user_id: user_id)
 
   respond user
@@ -57,6 +36,10 @@ end
 
 put '/profile' do
   user_id = params[:user_id]
+
+  unless user_id
+    return respond Error.new(error: 'not_valid')
+  end
 
   Race.update_all! # update race balances
 
@@ -113,7 +96,7 @@ end
 
 
 get '/races/:race_id/horses' do
-  race_id = params[:race_id]
+  race_id = params[:race_id].to_i
   results = params[:results] ? true : false
 
   race = Race.find_by(id: race_id)
@@ -144,12 +127,17 @@ end
 
 get '/races/:race_id/bets' do
   race_id  = params[:race_id].to_i
-  user_id  = params[:user_id].to_i
+  user_id  = params[:user_id]
   scope    = (params[:scope] || :all).to_sym
 
   race   = Race.find_by(id: race_id)
   bettor = Bettor.find_by(user_id: user_id)
-  bets   =\
+
+  unless race && bettor
+    return respond Error.new(error: 'not_found')
+  end
+
+  bets =\
     case scope
     when :all
       Bet.where(race: race, bettor: bettor)
@@ -162,11 +150,6 @@ get '/races/:race_id/bets' do
          .where(race: race, bettor: bettor)
          .order('created_at asc')
     end
-
-  unless race && bettor
-    return respond Error.new(error: 'not_found')
-  end
-
 
   results =\
     bets.map do |bet|
@@ -182,7 +165,7 @@ end
 post '/races/:race_id/bets' do
   race_id  = params[:race_id].to_i
   horse_id = params[:horse_id].to_i
-  user_id  = params[:user_id].to_i
+  user_id  = params[:user_id]
   amount   = params[:amount].to_f
 
   race   = Race.find_by(id: race_id)

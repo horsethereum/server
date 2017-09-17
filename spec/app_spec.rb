@@ -34,17 +34,30 @@ describe 'my example app' do
 
     let!(:u1) { Bettor.create(user_id: '12345') }
 
-    it 'should return the user profile if the user exists' do
-      get '/profile', user_id: u1.user_id
-      expect(body['user_id']).to_not be_nil
-      expect(body['profit'].to_f).to eq(0)
+    context 'valid' do
+
+      it 'should return the user profile if the user exists' do
+        get '/profile', user_id: u1.user_id
+        expect(body['user_id']).to_not be_nil
+        expect(body['profit'].to_f).to eq(0)
+      end
+
+
+      it 'should return the user profile if the user does not exist' do
+        get '/profile', user_id: 'not_here'
+        expect(body['user_id']).to_not be_nil
+        expect(body['profit'].to_f).to eq(0)
+      end
+
     end
 
+    context 'invalid' do
 
-    it 'should return the user profile if the user does not exist' do
-      get '/profile', user_id: 'not_here'
-      expect(body['user_id']).to_not be_nil
-      expect(body['profit'].to_f).to eq(0)
+      it 'should return the user profile if the user does not exist' do
+        get '/profile'
+        expect(body['error']).to eq('not_valid')
+      end
+
     end
 
   end
