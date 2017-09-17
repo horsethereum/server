@@ -36,3 +36,9 @@ Start port forwarding
 brew cask install ngrok
 ngrok http 9292
 ```
+
+Re-Init DB (on schema change)
+```
+bundle exec rake db:drop db:create db:migrate db:import
+```
+
