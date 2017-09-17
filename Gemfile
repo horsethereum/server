@@ -7,6 +7,9 @@ gem 'pg'
 gem 'activerecord'
 gem 'sinatra-activerecord'
 
+group :development do
+  gem 'pry'
+end
 
 group :test do
   gem 'minitest'

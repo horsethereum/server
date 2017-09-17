@@ -20,7 +20,7 @@ ActiveRecord::Schema.define(version: 20170916211431) do
     t.integer "race_id", null: false
     t.integer "horse_id", null: false
     t.decimal "amount", null: false
-    t.index ["bettor_id", "race_id"], name: "index_bets_on_bettor_id_and_race_id"
+    t.index ["bettor_id", "race_id", "horse_id"], name: "index_bets_on_bettor_id_and_race_id_and_horse_id"
     t.index ["bettor_id"], name: "index_bets_on_bettor_id"
     t.index ["horse_id"], name: "index_bets_on_horse_id"
     t.index ["race_id"], name: "index_bets_on_race_id"
@@ -29,17 +29,20 @@ ActiveRecord::Schema.define(version: 20170916211431) do
   create_table "bettors", force: :cascade do |t|
     t.string "name", null: false
     t.string "email", null: false
-    t.index ["email"], name: "index_bettors_on_email"
+    t.index ["email"], name: "index_bettors_on_email", unique: true
   end
 
   create_table "horses", force: :cascade do |t|
     t.string "name", null: false
+    t.index ["name"], name: "index_horses_on_name", unique: true
   end
 
   create_table "races", force: :cascade do |t|
-    t.string "race_number", null: false
+    t.date "date", null: false
+    t.integer "race_number", null: false
     t.datetime "start_time", null: false
     t.datetime "end_time", null: false
+    t.index ["date", "race_number"], name: "index_races_on_date_and_race_number", unique: true
   end
 
   create_table "races_horses", force: :cascade do |t|
@@ -48,7 +51,7 @@ ActiveRecord::Schema.define(version: 20170916211431) do
     t.decimal "odds", null: false
     t.integer "finish"
     t.index ["horse_id"], name: "index_races_horses_on_horse_id"
-    t.index ["race_id", "horse_id"], name: "index_races_horses_on_race_id_and_horse_id"
+    t.index ["race_id", "horse_id"], name: "index_races_horses_on_race_id_and_horse_id", unique: true
     t.index ["race_id"], name: "index_races_horses_on_race_id"
   end
 

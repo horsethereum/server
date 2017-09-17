@@ -1,0 +1,682 @@
+RACE,DATE,COND,DIST,SURF,FIN,ODDS,HORSE,JOCKEY,TRAINER,SIRE,BR-SIRE,LAST RACE,WATCH,NOTES,START_TIME,END_TIME
+2,2016-07-22,MSW-F-NY,5.5,D,1,8.8,Bliss to You,"Cancel, Eric","Cash, Russell",Freud,Candy Stripes,MTH 6-6/18/16 4,,,2016-07-22 14:00:00,2016-07-22 14:01:11.500
+2,2016-07-22,MSW-F-NY,5.5,D,2,6.2,Ribbonite,"Davis, Dylan","Davis, Robbie",Griffinite,Western Expression,,,,2016-07-22 14:00:00,2016-07-22 14:01:11.500
+2,2016-07-22,MSW-F-NY,5.5,D,3,0.45,Seattle Ice Queen,"Ortiz, Jose","Levine, Bruce",Frost Giant,Indian Charlie,,,,2016-07-22 14:00:00,2016-07-22 14:01:11.500
+2,2016-07-22,MSW-F-NY,5.5,D,4,4.0,Messer Misfit,"Carmouche, Kendrick","Smith, Guy",Drosselmeyer,Sea of Secrets,,,,2016-07-22 14:00:00,2016-07-22 14:01:11.500
+2,2016-07-22,MSW-F-NY,5.5,D,5,12.4,Icy Girl,"Lezcano, Jose","Hertler, John",Frost Giant,Mass Media,,,,2016-07-22 14:00:00,2016-07-22 14:01:11.500
+6,2016-07-22,MSW-F,5.5,D,1,2.85,Bowie,"Geroux, Florent","Asmussen, Steven",Malibu Moon,Unbridled's Song,,Y,,2016-07-22 18:00:00,2016-07-22 18:01:11.500
+6,2016-07-22,MSW-F,5.5,D,2,4.8,Special Risk,"Ortiz, Irad","Rodriguez, Rudy",Eskendereya,Macho Uno,BEL 2-5/18/16 3,,,2016-07-22 18:00:00,2016-07-22 18:01:11.500
+6,2016-07-22,MSW-F,5.5,D,3,13.9,Torrent,"Ortiz, Jose","Moquett, Ronald",Blame,Yankee Gentleman,,,,2016-07-22 18:00:00,2016-07-22 18:01:11.500
+6,2016-07-22,MSW-F,5.5,D,4,3.15,Jumby Bay,"Velazquez, John","Pletcher, Todd",City Zip,Tiznow,,,,2016-07-22 18:00:00,2016-07-22 18:01:11.500
+6,2016-07-22,MSW-F,5.5,D,5,2.55,La Coronel,"Leparoux, Julien","Casse, Mark",Colonel John,Chester House,CD 4-6/17/16 4,,,2016-07-22 18:00:00,2016-07-22 18:01:11.500
+6,2016-07-22,MSW-F,5.5,D,6,10.9,My Sweet Stella,"Santana, Ricardo","Lukas, D. Wayne",Eskendereya,Songandaprayer,,,,2016-07-22 18:00:00,2016-07-22 18:01:11.500
+6,2016-07-22,MSW-F,5.5,D,7,15.9,Sunday Gravy,"Castellano, Javier","Contessa, Gary",Unbridled's Song,Gone West,BEL 1-6/22/16 6,,,2016-07-22 18:00:00,2016-07-22 18:01:11.500
+6,2016-07-22,MSW-F,5.5,D,8,30.0,She's Had Enough,"Luzzi, Michael","Jolley, Leroy",Stay Thirsty,Two Punch,,,,2016-07-22 18:00:00,2016-07-22 18:01:11.500
+8,2016-07-22,GRD-F,6.0,D,1,4.4,Sweet Loretta,"Velazquez, John","Pletcher, Todd",Tapit,Bluegrass Cat,MTH 6-6/18/16 1,,,2016-07-22 20:00:00,2016-07-22 20:01:18.000
+8,2016-07-22,GRD-F,6.0,D,2,22.1,Fun,"Alvarado, Junior","Wilkes, Ian",Harlan's Holiday,Empire Maker,CD 4-6/24/16 1,,,2016-07-22 20:00:00,2016-07-22 20:01:18.000
+8,2016-07-22,GRD-F,6.0,D,3,5.4,Harlands Thunder,"Geroux, Florent","Mott, William",Harlan's Holiday,Songandaprayer,BEL 7-6/9/16 6,,,2016-07-22 20:00:00,2016-07-22 20:01:18.000
+8,2016-07-22,GRD-F,6.0,D,4,1.7,Made Me Shiver,"Ortiz, Irad","Asmussen, Steven",Maclean's Music,Tiznow,CD 4-6/17/16 1,,,2016-07-22 20:00:00,2016-07-22 20:01:18.000
+8,2016-07-22,GRD-F,6.0,D,5,3.95,Olive Branch,"Ortiz, Jose","Violette, Rick",Speightstown,Bernardini,BEL 2-5/18/16 1,,,2016-07-22 20:00:00,2016-07-22 20:01:18.000
+8,2016-07-22,GRD-F,6.0,D,6,29.0,Summer Sally,"Bravo, Joe","Rodriguez, Rudy",Ghostzapper,Maria's Mon,BEL 1-5/4/16 1,,,2016-07-22 20:00:00,2016-07-22 20:01:18.000
+8,2016-07-22,GRD-F,6.0,D,7,5.0,Lightning Dove,"Rosario, Joel","Ward, Wesley",Uncle Mo,Thunderello,BEL 7-6/9/16 5,,,2016-07-22 20:00:00,2016-07-22 20:01:18.000
+8,2016-07-22,GRD-F,6.0,D,8,23.2,Inspired Flight,"Prado, Edgar","Schoenthal, Phil",Orientate,Not For Love,LRL 7-7/1/16 1,,,2016-07-22 20:00:00,2016-07-22 20:01:18.000
+2,2016-07-23,MSW,8.5,T,1,6.5,Conquest Sure Shot,"Lezcano, Jose","Casse, Mark",Scat Daddy,Speightstown,BEL 2-6/18/16 3,,,2016-07-23 14:00:00,2016-07-23 14:01:50.500
+2,2016-07-23,MSW,8.5,T,2,2.5,Master Merion,"Ortiz, Jose","Ward, Wesley",Quality Road,Danehill,BEL 2-6/18/16 2,,,2016-07-23 14:00:00,2016-07-23 14:01:50.500
+2,2016-07-23,MSW,8.5,T,3,23.7,Unbridled Eagle,"Saez, Luis","Lukas, D. Wayne",Mineshaft,Unbridled's Song,CD 1-6/4/16 5,,,2016-07-23 14:00:00,2016-07-23 14:01:50.500
+2,2016-07-23,MSW,8.5,T,4,18.5,Lucky Lou Pal,"Ortiz, Irad","Englehart, Chris",Frost Giant,Cryptoclearance,BEL 1-7/4/16 3,,,2016-07-23 14:00:00,2016-07-23 14:01:50.500
+2,2016-07-23,MSW,8.5,T,5,3.55,Our Stormin Norman,"Leparoux, Julien","Casse, Mark",Blame,Stroll,CD 5-6/11/16 2,,,2016-07-23 14:00:00,2016-07-23 14:01:50.500
+2,2016-07-23,MSW,8.5,T,6,5.5,Oscar Performance,"Rosario, Joel","Lynch, Brian",Kitten's Joy,Theatrical (IRE),,,,2016-07-23 14:00:00,2016-07-23 14:01:50.500
+2,2016-07-23,MSW,8.5,T,7,4.1,One of a Kind,"Castellano, Javier","Kenneally, Eddie",Lemon Drop Kid,Dixie Union,CD 2-6/23/16 2,,,2016-07-23 14:00:00,2016-07-23 14:01:50.500
+2,2016-07-23,MSW,8.5,T,8,19.6,Keynesian,"Franco, Manuel","Clement, Christophe",Bernardini,Forestry,,,,2016-07-23 14:00:00,2016-07-23 14:01:50.500
+2,2016-07-23,MSW,8.5,T,9,18.4,Piazza Del Campo,"Alvarado, Junior","Mott, William",Gio Ponti,Horse Chestnut (SAF),,,,2016-07-23 14:00:00,2016-07-23 14:01:50.500
+2,2016-07-23,MSW,8.5,T,10,57.25,Sahara Storm,"Luzzi, Michael","Desormeaux, Keith",Get Stormy,Desert Secret (IRE),,,,2016-07-23 14:00:00,2016-07-23 14:01:50.500
+3,2016-07-23,GRD,6.0,D,1,0.95,Bitumen,"Castellano, Javier","Kenneally, Eddie",Mineshaft,Tale of the Cat,CD 3-6/30/16 1,,,2016-07-23 15:00:00,2016-07-23 15:01:18.000
+3,2016-07-23,GRD,6.0,D,2,1.7,Random Walk,"Ortiz, Jose","Violette, Rick",Super Saver,Yes It's True,BEL 1-6/3/16 1,,,2016-07-23 15:00:00,2016-07-23 15:01:18.000
+3,2016-07-23,GRD,6.0,D,3,6.8,Zartera,"Ortiz, Irad","Asmussen, Steven",Tapizar,Gone West,CD 3-6/16/16 1,,,2016-07-23 15:00:00,2016-07-23 15:01:18.000
+3,2016-07-23,GRD,6.0,D,4,5.8,Bronson,"Velazquez, John","Pletcher, Todd",Medaglia d'Oro,Avenue of Flags,MTH 2-6/18/16 1,,,2016-07-23 15:00:00,2016-07-23 15:01:18.000
+3,2016-07-23,GRD,6.0,D,5,17.7,Bay Numbers,"Lopez, Paco","Plesa, Edward",Algorithms,Unbridled's Song,MTH 3-7/9/16 1,,,2016-07-23 15:00:00,2016-07-23 15:01:18.000
+6,2016-07-23,MSW,5.5,D,1,2.9,One Liner,"Velazquez, John","Pletcher, Todd",Into Mischief,Cherokee Run,,,,2016-07-23 18:00:00,2016-07-23 18:01:11.500
+6,2016-07-23,MSW,5.5,D,2,5.8,Royal Copy,"Santana, Ricardo","Lukas, D. Wayne",Bodemeister,Meadowlake,,,,2016-07-23 18:00:00,2016-07-23 18:01:11.500
+6,2016-07-23,MSW,5.5,D,3,5.1,Pretty Boy Flash,"Ortiz, Irad","Asmussen, Steven",Gone Astray,Honour and Glory,CD 4-5/19/16 5,,,2016-07-23 18:00:00,2016-07-23 18:01:11.500
+6,2016-07-23,MSW,5.5,D,4,20.9,South Sea,"Rosario, Joel","Mott, William",Into Mischief,Empire Maker,,Y,,2016-07-23 18:00:00,2016-07-23 18:01:11.500
+6,2016-07-23,MSW,5.5,D,5,3.65,Forge,"Castellano, Javier","Brown, Chad",Harlan's Holiday,Latent Heat,,,,2016-07-23 18:00:00,2016-07-23 18:01:11.500
+6,2016-07-23,MSW,5.5,D,6,5.1,Conquest Reformo,"Leparoux, Julien","Casse, Mark",Into Mischief,Victory Gallop,CD 3-6/16/16 2,,,2016-07-23 18:00:00,2016-07-23 18:01:11.500
+6,2016-07-23,MSW,5.5,D,7,16.9,Lookin at Blessing,"Alvarado, Junior","Zito, Nicholas",Lookin at Lucky,Birdstone,,,,2016-07-23 18:00:00,2016-07-23 18:01:11.500
+6,2016-07-23,MSW,5.5,D,8,18.9,Johnny Obvious,"Saez, Luis","Moquett, Ronald",Wildcat Heir,Lord Carson,,,,2016-07-23 18:00:00,2016-07-23 18:01:11.500
+6,2016-07-23,MSW,5.5,D,9,11.3,Any Questions,"Ortiz, Jose","Sciacca, Gary",Lookin at Lucky,Broken Vow,,,,2016-07-23 18:00:00,2016-07-23 18:01:11.500
+6,2016-07-23,MSW,5.5,D,10,47.75,Albert Charles,"Franco, Manuel","Wilkes, Ian",Pioneerof the Nile,Dixie Union,,,,2016-07-23 18:00:00,2016-07-23 18:01:11.500
+2,2016-07-24,MSW-F,8.5,T,1,12.3,Majestic Bonnie,"Franco, Manuel","Weaver, George",Majestic Warrior,Point Given,,,,2016-07-24 14:00:00,2016-07-24 14:01:50.500
+2,2016-07-24,MSW-F,8.5,T,2,6.0,Enstone,"Leparoux, Julien","Casse, Mark",Tiznow,Storm Cat,WO 5-7/2/16 2,,,2016-07-24 14:00:00,2016-07-24 14:01:50.500
+2,2016-07-24,MSW-F,8.5,T,3,3.9,Price Too High,"Ortiz, Irad","Ward, Wesley",Scat Daddy,Smart Strike,KEE 4-4/27/16 4,,,2016-07-24 14:00:00,2016-07-24 14:01:50.500
+2,2016-07-24,MSW-F,8.5,T,4,1.8,Teresa Z,"Velazquez, John","Pletcher, Todd",Smart Strike,A.P. Indy,BEL 2-6/12/16 5,,,2016-07-24 14:00:00,2016-07-24 14:01:50.500
+2,2016-07-24,MSW-F,8.5,T,5,4.9,Angelo's Ashes,"Rosario, Joel","Ward, Wesley",Exchange Rate,A.P. Indy,BEL 2-5/29/16 3,,,2016-07-24 14:00:00,2016-07-24 14:01:50.500
+2,2016-07-24,MSW-F,8.5,T,6,9.8,Realism,"Geroux, Florent","Mott, William",First Defence,Touch Gold,,,,2016-07-24 14:00:00,2016-07-24 14:01:50.500
+2,2016-07-24,MSW-F,8.5,T,7,32.0,Rimanisempreforte,"Lezcano, Jose","Schettino, Dominick",Eskendereya,Roman Ruler,,,,2016-07-24 14:00:00,2016-07-24 14:01:50.500
+2,2016-07-24,MSW-F,8.5,T,8,16.2,Super Marina,"Ortiz, Jose","Weaver, George",Warrior's Reward,Lil's Lad,,,,2016-07-24 14:00:00,2016-07-24 14:01:50.500
+2,2016-07-24,MSW-F,8.5,T,9,23.9,Grand Banks,"Arroyo, Angel","Donk, David",Paddy O'Prado,Strong Hope,BEL 2-6/16/16 4,,,2016-07-24 14:00:00,2016-07-24 14:01:50.500
+2,2016-07-24,MSW-F,8.5,T,10,37.75,Forres Lily,"Luzzi, Michael","Jolley, Leroy",Drosselmeyer,Will's Way,BEL 1-6/22/16 3,,,2016-07-24 14:00:00,2016-07-24 14:01:50.500
+4,2016-07-25,MSW-F-NY,5.5,T,1,1.55,Lady Joan,"Saez, Luis","Serpe, Philip",Courageous Cat,Powerscourt (GB),BEL 2-7/3/16 2,,,2016-07-25 16:00:00,2016-07-25 16:01:11.500
+4,2016-07-25,MSW-F-NY,5.5,T,2,7.2,Mo Promise,"Castellano, Javier","Contessa, Gary",Uncle Mo,Century City (IRE),,,,2016-07-25 16:00:00,2016-07-25 16:01:11.500
+4,2016-07-25,MSW-F-NY,5.5,T,3,24.0,Louisiana Lady,"Luzzi, Michael","O'Brian, Leo",City Zip,Lord Avie,BEL 4-7/8/16 8,,,2016-07-25 16:00:00,2016-07-25 16:01:11.500
+4,2016-07-25,MSW-F-NY,5.5,T,4,8.0,Jacqueline D,"Ortiz, Jose","Schettino, Dominick",Overdriven,Abaginone,BEL 2-6/16/16 7,,,2016-07-25 16:00:00,2016-07-25 16:01:11.500
+4,2016-07-25,MSW-F-NY,5.5,T,5,30.75,Stichy G,"Davis, Jacqueline","Gullo, Gary",American Lion,Belong to Me,,,,2016-07-25 16:00:00,2016-07-25 16:01:11.500
+4,2016-07-25,MSW-F-NY,5.5,T,6,3.8,Kabuki,"Lezcano, Jose","Lewis, Lisa",Afleet Alex,Kingmambo,BEL 2-7/3/16 5,,,2016-07-25 16:00:00,2016-07-25 16:01:11.500
+4,2016-07-25,MSW-F-NY,5.5,T,7,27.25,With Wings,"Cancel, Eric","Cash, Russell",Girolamo,Sefapiano,MTH 5-7/2/16 8,,,2016-07-25 16:00:00,2016-07-25 16:01:11.500
+4,2016-07-25,MSW-F-NY,5.5,T,8,5.2,Frosty Gal,"Ortiz, Irad","Tagg, Barclay",Frost Giant,Jump Start,,,,2016-07-25 16:00:00,2016-07-25 16:01:11.500
+4,2016-07-25,MSW-F-NY,5.5,T,9,27.75,Go Ask Alice,"Torres, Jomar","Lugovich, Richard",Sir Whimsey,Judge Smells,AQU 1-4/20/16 5,,,2016-07-25 16:00:00,2016-07-25 16:01:11.500
+4,2016-07-25,MSW-F-NY,5.5,T,10,14.9,Cansomebodyplease,"Franco, Manuel","Englehart, Jeremiah",Mission Impazible,Maria's Mon,,,,2016-07-25 16:00:00,2016-07-25 16:01:11.500
+5,2016-07-27,MSW-F,5.5,T,1,16.3,Safe With Me,"Boyce, Forest","Motion, Graham",Discreetly Mine,Stormy Atlantic,,,,2016-07-27 17:00:00,2016-07-27 17:01:11.500
+5,2016-07-27,MSW-F,5.5,T,2,4.9,Aikenetta,"Velazquez, John","Pletcher, Todd",Aikenite,Barkerville,,,,2016-07-27 17:00:00,2016-07-27 17:01:11.500
+5,2016-07-27,MSW-F,5.5,T,3,4.7,Mare Irish Dancer,"Castellano, Javier","Kenneally, Eddie",Tale of the Cat,Zamindar,CD 4-6/17/16 3,,,2016-07-27 17:00:00,2016-07-27 17:01:11.500
+5,2016-07-27,MSW-F,5.5,T,4,7.6,Vertical Oak,"Santana, Ricardo","Asmussen, Steven",Giant Oak,Pollard's Vision,,,,2016-07-27 17:00:00,2016-07-27 17:01:11.500
+5,2016-07-27,MSW-F,5.5,T,5,5.9,Love and Lemons,"Saez, Luis","Wismer, Troy",Lemon Drop Kid,Speightstown,,,,2016-07-27 17:00:00,2016-07-27 17:01:11.500
+5,2016-07-27,MSW-F,5.5,T,6,4.0,Conquest Bad Girl,"Leparoux, Julien","Casse, Mark",Into Mischief,Elusive Quality,GP 8-6/25/16 3,,,2016-07-27 17:00:00,2016-07-27 17:01:11.500
+5,2016-07-27,MSW-F,5.5,T,7,24.25,Bigkat and Camille,"Franco, Manuel","Schettino, Dominick",Arch,Sadler's Wells,,,,2016-07-27 17:00:00,2016-07-27 17:01:11.500
+5,2016-07-27,MSW-F,5.5,T,8,4.7,Littlefirefighter,"Ortiz, Jose","Rice, Linda",Into Mischief,Smoke Glacken,,,,2016-07-27 17:00:00,2016-07-27 17:01:11.500
+5,2016-07-27,MSW-F,5.5,T,9,14.5,Fifteen Church,"Ortiz, Irad","Contessa, Gary",Harlan's Holiday,Mineshaft,,,,2016-07-27 17:00:00,2016-07-27 17:01:11.500
+5,2016-07-27,MSW-F,5.5,T,10,17.4,Cleo,"Alvarado, Junior","Mott, William",Pioneerof the Nile,A.P. Indy,,,,2016-07-27 17:00:00,2016-07-27 17:01:11.500
+5,2016-07-28,MSW-NY,5.5,D,1,7.7,Macho Miah,"Franco, Manuel","Englehart, Jeremiah",Macho Uno,Officer,,,,2016-07-28 17:00:00,2016-07-28 17:01:11.500
+5,2016-07-28,MSW-NY,5.5,D,2,4.1,Song for the Soul,"Rosario, Joel","Ward, Wesley",Freud,Unbridled's Song,BEL 4-7/8/16 6,,,2016-07-28 17:00:00,2016-07-28 17:01:11.500
+5,2016-07-28,MSW-NY,5.5,D,3,2.4,Hamptons Holiday,"Ortiz, Irad","Rodriguez, Rudy",Harlan's Holiday,Street Cry (IRE),,,,2016-07-28 17:00:00,2016-07-28 17:01:11.500
+5,2016-07-28,MSW-NY,5.5,D,4,6.4,Desert Trial,"Velazquez, John","Kimmel, John",Desert Party,A.P. Indy,,,,2016-07-28 17:00:00,2016-07-28 17:01:11.500
+5,2016-07-28,MSW-NY,5.5,D,5,5.2,Giant Rocks,"Geroux, Florent","Maker, Michael",Frost Giant,The Cliff's Edge,BEL 1-5/28/16 2,,,2016-07-28 17:00:00,2016-07-28 17:01:11.500
+5,2016-07-28,MSW-NY,5.5,D,6,9.6,Discreet Encounter,"Lezcano, Jose","Kimmel, John",Girolamo,Discreet Cat,BEL 2-6/17/16 6,,,2016-07-28 17:00:00,2016-07-28 17:01:11.500
+5,2016-07-28,MSW-NY,5.5,D,7,11.2,Mr. Massena,"Alvarado, Junior","Mott, William",Flatter,Giant's Causeway,,,,2016-07-28 17:00:00,2016-07-28 17:01:11.500
+5,2016-07-28,MSW-NY,5.5,D,8,56.5,Tiz Wicked,"Davis, Dylan","Schosberg, Richard",Tiz Way,Will's Way,,,,2016-07-28 17:00:00,2016-07-28 17:01:11.500
+5,2016-07-28,MSW-NY,5.5,D,9,21.9,Le Grand Warrior,"Castellano, Javier","Morley, Thomas",Majestic Warrior,Roaring Fever,,,,2016-07-28 17:00:00,2016-07-28 17:01:11.500
+5,2016-07-28,MSW-NY,5.5,D,10,16.8,Nut Nut,"Ortiz, Jose","Brown, Bruce",Girolamo,Adcat,,,,2016-07-28 17:00:00,2016-07-28 17:01:11.500
+5,2016-07-29,MSW-NY,5.5,T,1,15.2,Freud's Friend,"Franco, Manuel","Baker, Charlton",Freud,Millions,,,,2016-07-29 17:00:00,2016-07-29 17:01:11.500
+5,2016-07-29,MSW-NY,5.5,T,2,7.7,Jo's Bold Cat,"Saez, Luis","Violette, Rick",Courageous Cat,Chester House,,,,2016-07-29 17:00:00,2016-07-29 17:01:11.500
+5,2016-07-29,MSW-NY,5.5,T,3,19.5,Preferred Outcome,"Geroux, Florent","Ferraro, Anthony",Bluegrass Cat,Crafty Prospector,,,,2016-07-29 17:00:00,2016-07-29 17:01:11.500
+5,2016-07-29,MSW-NY,5.5,T,4,4.1,Catch a Cab,"Leparoux, Julien","Casse, Mark",Proud Citizen,Malibu Moon,,,,2016-07-29 17:00:00,2016-07-29 17:01:11.500
+5,2016-07-29,MSW-NY,5.5,T,5,4.1,Speightful Kitten,"Ortiz, Jose","Rice, Linda",Kitten's Joy,Speightstown,,,,2016-07-29 17:00:00,2016-07-29 17:01:11.500
+5,2016-07-29,MSW-NY,5.5,T,6,7.0,Danny's Rush,"Alvarado, Junior","Mott, William",US Ranger,Halo,,,,2016-07-29 17:00:00,2016-07-29 17:01:11.500
+5,2016-07-29,MSW-NY,5.5,T,7,18.8,Six Sided Bling,"Carmouche, Kendrick","Ferraro, Anthony",Too Much Bling,Comic Strip,,,,2016-07-29 17:00:00,2016-07-29 17:01:11.500
+5,2016-07-29,MSW-NY,5.5,T,8,8.0,Morning Daddy,"Velazquez, John","Donk, David",Scat Daddy,Victory Gallop,BEL 4-6/10/16 10,,,2016-07-29 17:00:00,2016-07-29 17:01:11.500
+5,2016-07-29,MSW-NY,5.5,T,9,2.8,Three to Thirteen,"Ortiz, Irad","Breen, Kelly",Frost Giant,Boundary,BEL 2-6/17/16 10,,,2016-07-29 17:00:00,2016-07-29 17:01:11.500
+5,2016-07-29,MSW-NY,5.5,T,10,30.5,Terry O Geri,"Luzzi, Michael","Contessa, Gary",Freud,Smoke Glacken,,,,2016-07-29 17:00:00,2016-07-29 17:01:11.500
+1,2016-07-30,MSW,5.5,T,1,5.5,Ancient Warfare,"Lezcano, Jose","Casse, Mark",Quality Road,Horse Chestnut (SAF),,,,2016-07-30 13:00:00,2016-07-30 13:01:11.500
+1,2016-07-30,MSW,5.5,T,2,9.2,Happy Wanderer,"Alvarado, Junior","Mott, William",War Chant,Boston Harbor,,,,2016-07-30 13:00:00,2016-07-30 13:01:11.500
+1,2016-07-30,MSW,5.5,T,3,2.45,El Talento,"Velazquez, John","Pletcher, Todd",Big Brown,Speightstown,,,,2016-07-30 13:00:00,2016-07-30 13:01:11.500
+1,2016-07-30,MSW,5.5,T,4,26.25,Ben of the Bridge,"Arroyo, Angel","Reid, Robert",High Cotton,Lord Avie,MTH 1-7/15/16 3,,,2016-07-30 13:00:00,2016-07-30 13:01:11.500
+1,2016-07-30,MSW,5.5,T,5,5.2,Majestic Tom,"Ortiz, Jose","Barbara, Robert",Eskendereya,Afternoon Deelites,,,,2016-07-30 13:00:00,2016-07-30 13:01:11.500
+1,2016-07-30,MSW,5.5,T,6,2.9,Impressive Edge,"Geroux, Florent","Asmussen, Steven",Harlan's Holiday,Grand Slam,CD 2-6/23/16 6,,,2016-07-30 13:00:00,2016-07-30 13:01:11.500
+1,2016-07-30,MSW,5.5,T,7,9.6,Gemologister,"Cancel, Eric","Mejia, Jaime",Gemologist,Rahy,,,,2016-07-30 13:00:00,2016-07-30 13:01:11.500
+1,2016-07-30,MSW,5.5,T,8,19.8,Grandview,"Ortiz, Irad","Esler, Nicholas",Mizzen Mast,Grand Reward,,,,2016-07-30 13:00:00,2016-07-30 13:01:11.500
+1,2016-07-30,MSW,5.5,T,9,31.0,Kody's Pursuit,"Santana, Ricardo","Lukas, D. Wayne",Curlin,Private Account,,,,2016-07-30 13:00:00,2016-07-30 13:01:11.500
+1,2016-07-30,MSW,5.5,T,10,33.25,Outstanding Gio,"Carmouche, Kendrick","Ryerson, James",Gio Ponti,Hennessy,,,,2016-07-30 13:00:00,2016-07-30 13:01:11.500
+3,2016-07-30,MSW,6.0,D,1,0.65,Theory,"Velazquez, John","Pletcher, Todd",Gemologist,Officer,,Y,,2016-07-30 15:00:00,2016-07-30 15:01:18.000
+3,2016-07-30,MSW,6.0,D,2,9.2,Reckling,"Santana, Ricardo","Asmussen, Steven",Dialed In,Distorted Humor,,,,2016-07-30 15:00:00,2016-07-30 15:01:18.000
+3,2016-07-30,MSW,6.0,D,3,13.8,Kahramani,"Ortiz, Irad","Pletcher, Todd",Haynesfield,Hernando (FR),,,,2016-07-30 15:00:00,2016-07-30 15:01:18.000
+3,2016-07-30,MSW,6.0,D,4,28.0,Hemsworth,"Rosario, Joel","Albertrani, Thomas",Bernardini,Unbridled's Song,,,,2016-07-30 15:00:00,2016-07-30 15:01:18.000
+3,2016-07-30,MSW,6.0,D,5,33.25,Port More,"Ortiz, Jose","Sciacca, Gary",Gone Astray,Red Bullet,,,,2016-07-30 15:00:00,2016-07-30 15:01:18.000
+3,2016-07-30,MSW,6.0,D,6,25.0,The Walk,"Franco, Manuel","Albertrani, Thomas",Hansen,Boston Harbor,,,,2016-07-30 15:00:00,2016-07-30 15:01:18.000
+3,2016-07-30,MSW,6.0,D,7,21.2,Factor of War,"Saez, Luis","Lukas, D. Wayne",The Factor,Zafonic,,,,2016-07-30 15:00:00,2016-07-30 15:01:18.000
+3,2016-07-30,MSW,6.0,D,8,4.7,Tale of Silence,"Castellano, Javier","Tagg, Barclay",Tale of the Cat,Sunday Silence,,,,2016-07-30 15:00:00,2016-07-30 15:01:18.000
+3,2016-07-30,MSW,6.0,D,9,13.6,Ultron,"Alvarado, Junior","Mott, William",Proud Citizen,Horse Chestnut (SAF),,,,2016-07-30 15:00:00,2016-07-30 15:01:18.000
+3,2016-07-30,MSW,6.0,D,10,30.25,Put the Boss Back,"Carmouche, Kendrick","Ryerson, James",Put It Back,Holy Bull,,,,2016-07-30 15:00:00,2016-07-30 15:01:18.000
+2,2016-07-31,MSW-F-NY,5.5,D,1,2.65,Twist 'n Shout,"Ortiz, Irad","Weaver, George",Drosselmeyer,Wheelaway,,,Race originally scheduled for turf,2016-07-31 14:00:00,2016-07-31 14:01:11.500
+2,2016-07-31,MSW-F-NY,5.5,D,2,7.4,Filly Madison,"Ortiz, Jose","McPeek, Kenny",Not For Love,Langfuhr,,,,2016-07-31 14:00:00,2016-07-31 14:01:11.500
+2,2016-07-31,MSW-F-NY,5.5,D,3,6.0,Dream Passage,"Rosario, Joel","Lynch, Brian",Stormy Atlantic,Raffie's Majesty,,,,2016-07-31 14:00:00,2016-07-31 14:01:11.500
+2,2016-07-31,MSW-F-NY,5.5,D,4,11.2,Forever Poppi,"Carmouche, Kendrick","Sharp, Joe",Paddy O'Prado,Green Desert,BEL 2-7/3/16 8,,,2016-07-31 14:00:00,2016-07-31 14:01:11.500
+2,2016-07-31,MSW-F-NY,5.5,D,5,26.75,Majestic Tango,"Cancel, Eric","Englehart, Jeremiah",Majestic Warrior,Storm Boot,,,,2016-07-31 14:00:00,2016-07-31 14:01:11.500
+2,2016-07-31,MSW-F-NY,5.5,D,6,3.7,Twofreeknights,"Saez, Luis","Gullo, Gary",Majestic Warrior,Unbridled,,,,2016-07-31 14:00:00,2016-07-31 14:01:11.500
+2,2016-07-31,MSW-F-NY,5.5,D,7,5.7,Courtly Kitty,"Velazquez, John","Donk, David",Court Vision,Forest Wildcat,BEL 4-7/8/16 4,,,2016-07-31 14:00:00,2016-07-31 14:01:11.500
+2,2016-07-31,MSW-F-NY,5.5,D,8,14.7,My First Gal,"Alvarado, Junior","Hennig, Mark",First Samurai,Indian Charlie,BEL 2-6/16/16 9,,,2016-07-31 14:00:00,2016-07-31 14:01:11.500
+2,2016-07-31,MSW-F-NY,5.5,D,9,11.4,Neetee Rides Again,"Bridgmohan, Shaun","Dilger, Michael",Kitten's Joy,Johar,,,,2016-07-31 14:00:00,2016-07-31 14:01:11.500
+2,2016-07-31,MSW-F-NY,5.5,D,10,25.5,Down Royal,"Davis, Dylan","Pugh, Peter",Alphabet Soup,High Yield,,,,2016-07-31 14:00:00,2016-07-31 14:01:11.500
+7,2016-07-31,MSW-F,6.0,D,1,2.55,Runway Doll,"Leparoux, Julien","Asmussen, Steven",Majestic Warrior,Boundary,,,,2016-07-31 19:00:00,2016-07-31 19:01:18.000
+7,2016-07-31,MSW-F,6.0,D,2,32.35,Ladies Day,"DeCarlo, Chris","Albertrani, Thomas",Bernardini,Storm Cat,,,,2016-07-31 19:00:00,2016-07-31 19:01:18.000
+7,2016-07-31,MSW-F,6.0,D,3,4.2,Lights of Medina,"Velazquez, John","Pletcher, Todd",Eskendereya,Thunder Gulch,,,,2016-07-31 19:00:00,2016-07-31 19:01:18.000
+7,2016-07-31,MSW-F,6.0,D,4,2.7,Blind Pool,"Castellano, Javier","Brown, Chad",Awesome Again,Forestry,,,,2016-07-31 19:00:00,2016-07-31 19:01:18.000
+7,2016-07-31,MSW-F,6.0,D,5,8.4,Love Me in Malibu,"Saez, Luis","Kenneally, Eddie",Malibu Moon,Maria's Mon,,,,2016-07-31 19:00:00,2016-07-31 19:01:18.000
+7,2016-07-31,MSW-F,6.0,D,6,6.6,Montrachet,"Franco, Manuel","Clement, Christophe",Broken Vow,Grand Slam,,,,2016-07-31 19:00:00,2016-07-31 19:01:18.000
+7,2016-07-31,MSW-F,6.0,D,7,11.6,Defrock,"Alvarado, Junior","Mott, William",Blame,Pulpit,,,,2016-07-31 19:00:00,2016-07-31 19:01:18.000
+7,2016-07-31,MSW-F,6.0,D,8,8.1,Warrior Hall,"Rosario, Joel","Clement, Christophe",War Front,Mr. Greeley,,,,2016-07-31 19:00:00,2016-07-31 19:01:18.000
+1,2016-08-01,MCL,5.5,D,1,4.7,Seeking Payment,"Castellano, Javier","Kenneally, Eddie",Quality Road,Victory Gallop,,,,2016-08-01 13:00:00,2016-08-01 13:01:11.500
+1,2016-08-01,MCL,5.5,D,2,2.05,Helluva Choice,"Ortiz, Irad","Asmussen, Steven",Wildcat Heir,Tactical Cat,BEL 2-7/14/16 4,,,2016-08-01 13:00:00,2016-08-01 13:01:11.500
+1,2016-08-01,MCL,5.5,D,3,2.95,Bajan Cash,"Rosario, Joel","Ward, Wesley",Speightstown,Awesome Again,MTH 1-7/10/16 2,,,2016-08-01 13:00:00,2016-08-01 13:01:11.500
+1,2016-08-01,MCL,5.5,D,4,10.3,Over Promised,"Davis, Dylan","Hushion, Michael",To Honor and Serve,Unbridled's Song,,,,2016-08-01 13:00:00,2016-08-01 13:01:11.500
+1,2016-08-01,MCL,5.5,D,5,14.9,Tiz Always His Way,"Alvarado, Junior","Schettino, Dominick",Tizway,Pancho Villa,,,,2016-08-01 13:00:00,2016-08-01 13:01:11.500
+1,2016-08-01,MCL,5.5,D,6,6.1,Perplexed,"Saez, Luis","Lukas, D. Wayne",Maimonides,Include,,,,2016-08-01 13:00:00,2016-08-01 13:01:11.500
+1,2016-08-01,MCL,5.5,D,7,6.1,Mabrouk,"Santana, Ricardo","Terranova, John",Congrats,Forest Wildcat,,,,2016-08-01 13:00:00,2016-08-01 13:01:11.500
+1,2016-08-01,MCL,5.5,D,8,5.6,Hammers Thirsty,"Leparoux, Julien","Lynch, Brian",Stay Thirsty,Star de Naskra,,,,2016-08-01 13:00:00,2016-08-01 13:01:11.500
+3,2016-08-04,MCL-F,5.5,D,1,6.0,Kissin Cassie,"Davis, Dylan","Barker, Edward",High Cotton,Kissin Kris,,,Raced for purse money only,2016-08-04 15:00:00,2016-08-04 15:01:11.500
+3,2016-08-04,MCL-F,5.5,D,2,33.0,Promise Me Tiz,"Arroyo, Angel","Persaud, Randi",Interactif,Tiznow,,,"Ran second, placed first for wagering purposes",2016-08-04 15:00:00,2016-08-04 15:01:11.500
+3,2016-08-04,MCL-F,5.5,D,3,3.1,Murrell's Belle,"Ortiz, Jose","Gullo, Gary",Bellamy Road,Malibu Moon,BEL 1-6/22/16 4,,,2016-08-04 15:00:00,2016-08-04 15:01:11.500
+3,2016-08-04,MCL-F,5.5,D,4,2.0,Hoponthebusgus,"Ortiz, Irad","Rodriguez, Rudy",Warrior's Reward,Johar,,,,2016-08-04 15:00:00,2016-08-04 15:01:11.500
+3,2016-08-04,MCL-F,5.5,D,5,9.6,Banty's Girl,"Franco, Manuel","Albertrani, Thomas",Shackleford,Mass Media,,,,2016-08-04 15:00:00,2016-08-04 15:01:11.500
+3,2016-08-04,MCL-F,5.5,D,6,3.7,Bellelarama,"Leparoux, Julien","Asmussen, Steven",Girolamo,Silver Deputy,BEL 2-6/16/16 10,,,2016-08-04 15:00:00,2016-08-04 15:01:11.500
+3,2016-08-04,MCL-F,5.5,D,7,4.2,Tizway That Way,"Geroux, Florent","Rivelli, Larry",Tizway,Pulpit,AP 3-7/15/16 4,,,2016-08-04 15:00:00,2016-08-04 15:01:11.500
+3,2016-08-04,MCL-F,5.5,D,8,9.5,Briar Rose,"Davis, Jacqueline","Martin, Carlos",To Honor and Serve,Successful Appeal,BEL 2-5/29/16 7,,,2016-08-04 15:00:00,2016-08-04 15:01:11.500
+6,2016-08-04,MSW-F-NY,6.0,D,1,5.2,Passporttovictory,"Castellano, Javier","Morley, Thomas",Frost Giant,Not For Love,BEL 4-7/8/16 3,,,2016-08-04 18:00:00,2016-08-04 18:01:18.000
+6,2016-08-04,MSW-F-NY,6.0,D,2,8.6,Tainted Angel,"Saez, Luis","Adsit, Abigail",Yes It's True,Smoke Glacken,BEL 4-7/8/16 2,,,2016-08-04 18:00:00,2016-08-04 18:01:18.000
+6,2016-08-04,MSW-F-NY,6.0,D,3,3.05,Great Neck,"Bridgmohan, Shaun","Cox, Brad",Tapizar,Lemon Drop Kid,,,,2016-08-04 18:00:00,2016-08-04 18:01:18.000
+6,2016-08-04,MSW-F-NY,6.0,D,4,15.5,Tiznow's Smile,"Santana, Ricardo","Baker, Charlton",Tiznow,Dixie Brass,,,,2016-08-04 18:00:00,2016-08-04 18:01:18.000
+6,2016-08-04,MSW-F-NY,6.0,D,5,3.7,About That Base,"Velazquez, John","Pletcher, Todd",Bellamy Road,American Chance,,,,2016-08-04 18:00:00,2016-08-04 18:01:18.000
+6,2016-08-04,MSW-F-NY,6.0,D,6,34.75,Lover's Key,"Geroux, Florent","Bush, Tom",Frost Giant,Victory Gallop,,,,2016-08-04 18:00:00,2016-08-04 18:01:18.000
+6,2016-08-04,MSW-F-NY,6.0,D,7,3.15,Skyler's Lil Cutie,"Franco, Manuel","Mareina, Michael",Mission Impazible,Friends Lake,,,,2016-08-04 18:00:00,2016-08-04 18:01:18.000
+6,2016-08-04,MSW-F-NY,6.0,D,8,15.9,Got the Gist,"Lopez, Paco","Reynolds, Patrick",Lookin at Lucky,Cuvee,,,,2016-08-04 18:00:00,2016-08-04 18:01:18.000
+6,2016-08-04,MSW-F-NY,6.0,D,9,19.2,You Promise,"Luzzi, Michael","Brown, Bruce",Sidney's Candy,Capote,,,,2016-08-04 18:00:00,2016-08-04 18:01:18.000
+6,2016-08-04,MSW-F-NY,6.0,D,10,33.5,Miss Horoscope,"Arroyo, Angel","Adsit, Abigail",Astrology,Elusive Quality,,,,2016-08-04 18:00:00,2016-08-04 18:01:18.000
+1,2016-08-06,MSW,8.5,T,1,8.0,Keep Quiet (FR),"Ortiz, Irad","Casse, Mark",Elusive City,Sillery,BEL 2-7/1/16 5,,,2016-08-06 13:00:00,2016-08-06 13:01:50.500
+1,2016-08-06,MSW,8.5,T,2,3.95,Panama Papers,"Franco, Manuel","Hushion, Michael",English Channel,Elusive Quality,BEL 2-7/14/16 3,,,2016-08-06 13:00:00,2016-08-06 13:01:50.500
+1,2016-08-06,MSW,8.5,T,3,5.5,Blame Will,"Saez, Luis","Lukas, D. Wayne",Blame,Forest Wildcat,CD 2-6/23/16 4,,,2016-08-06 13:00:00,2016-08-06 13:01:50.500
+1,2016-08-06,MSW,8.5,T,4,9.7,Ultron,"Alvarado, Junior","Mott, William",Proud Citizen,Horse Chestnut (SAF),SAR 3-7/30/16 9,,,2016-08-06 13:00:00,2016-08-06 13:01:50.500
+1,2016-08-06,MSW,8.5,T,5,25.5,Kid Perfect,"Leparoux, Julien","McPeek, Kenny",Majesticperfection,Lemon Drop Kid,,,,2016-08-06 13:00:00,2016-08-06 13:01:50.500
+1,2016-08-06,MSW,8.5,T,6,1.35,Brooklyn Bobby,"Rosario, Joel","Lynch, Brian",Frankel (GB),Thunder Gulch,,,,2016-08-06 13:00:00,2016-08-06 13:01:50.500
+1,2016-08-06,MSW,8.5,T,7,58.75,Makarios,"Cancel, Eric","Zito, Nicholas",Giant's Causeway,Mr. Prospector,,,,2016-08-06 13:00:00,2016-08-06 13:01:50.500
+1,2016-08-06,MSW,8.5,T,8,10.9,Giant Brownie,"Castellano, Javier","Contessa, Gary",Big Brown,Woodman,BEL 2-7/14/16 5,,,2016-08-06 13:00:00,2016-08-06 13:01:50.500
+1,2016-08-06,MSW,8.5,T,9,68.75,Golden Away,"Santana, Ricardo","Mejia, Jaime",Giant's Causeway,Hansel,,,,2016-08-06 13:00:00,2016-08-06 13:01:50.500
+1,2016-08-06,MSW,8.5,T,10,16.8,The Great Samurai,"Velazquez, John","Donk, David",First Samurai,Distorted Humor,BEL 1-7/4/16 2,,,2016-08-06 13:00:00,2016-08-06 13:01:50.500
+2,2016-08-06,MSW,6.0,D,1,2.4,Practical Joke,"Ortiz, Irad","Brown, Chad",Into Mischief,Distorted Humor,,,,2016-08-06 14:00:00,2016-08-06 14:01:18.000
+2,2016-08-06,MSW,6.0,D,2,4.1,Northern,"Castellano, Javier","Ward, Wesley",Adios Charlie,Vicar,,,,2016-08-06 14:00:00,2016-08-06 14:01:18.000
+2,2016-08-06,MSW,6.0,D,3,13.8,Newman,"Rosario, Joel","Albertrani, Thomas",Bernardini,Forestry,,,,2016-08-06 14:00:00,2016-08-06 14:01:18.000
+2,2016-08-06,MSW,6.0,D,4,13.0,Air on Fire,"Leparoux, Julien","Moquett, Ronald",Unbridled's Song,Pulpit,,,,2016-08-06 14:00:00,2016-08-06 14:01:18.000
+2,2016-08-06,MSW,6.0,D,5,15.6,Daddy's Placer,"Santana, Ricardo","Amoss, Thomas",Scat Daddy,Even the Score,,,,2016-08-06 14:00:00,2016-08-06 14:01:18.000
+2,2016-08-06,MSW,6.0,D,6,26.75,Hammerin Aamer,"Ortiz, Jose","Rodriguez, Rudy",Jump Start,Smoke Glacken,,,,2016-08-06 14:00:00,2016-08-06 14:01:18.000
+2,2016-08-06,MSW,6.0,D,7,4.3,Tyler U,"Saez, Luis","Lynch, Brian",Into Mischief,Tapit,BEL 1-7/9/16 5,,,2016-08-06 14:00:00,2016-08-06 14:01:18.000
+2,2016-08-06,MSW,6.0,D,8,12.8,Borsa Vento,"Cancel, Eric","Zito, Nicholas",Uncle Mo,Crafty Prospector,,,,2016-08-06 14:00:00,2016-08-06 14:01:18.000
+2,2016-08-06,MSW,6.0,D,9,23.1,Millenial,"Franco, Manuel","Lukas, D. Wayne",Speightstown,A.P. Indy,,,,2016-08-06 14:00:00,2016-08-06 14:01:18.000
+2,2016-08-06,MSW,6.0,D,10,4.9,Hieroglyphics,"Velazquez, John","Pletcher, Todd",Pioneerof the Nile,Limehouse,,,,2016-08-06 14:00:00,2016-08-06 14:01:18.000
+6,2016-08-06,MSW,6.0,D,1,6.0,Fact Finding,"Velazquez, John","Pletcher, Todd",The Factor,Deputy Commander,,,,2016-08-06 18:00:00,2016-08-06 18:01:18.000
+6,2016-08-06,MSW,6.0,D,2,2.85,Casses Story,"Leparoux, Julien","Casse, Mark",Bernardini,More Than Ready,CD 3-6/30/16 2,,,2016-08-06 18:00:00,2016-08-06 18:01:18.000
+6,2016-08-06,MSW,6.0,D,3,6.5,Fillet of Sole,"Saez, Luis","Schettino, Dominick",Union Rags,Devil's Bag,BEL 1-7/9/16 3,,,2016-08-06 18:00:00,2016-08-06 18:01:18.000
+6,2016-08-06,MSW,6.0,D,4,22.4,Lenstar,"Ortiz, Jose","Zito, Nicholas",Shackleford,Cryptoclearance,,,,2016-08-06 18:00:00,2016-08-06 18:01:18.000
+6,2016-08-06,MSW,6.0,D,5,15.5,Classic Cotton,"Bridgmohan, Shaun","Wismer, Troy",High Cotton,Montbrook,,,,2016-08-06 18:00:00,2016-08-06 18:01:18.000
+6,2016-08-06,MSW,6.0,D,6,44.0,Dilettante,"Santana, Ricardo","Lukas, D. Wayne",Unbridled's Song,Distorted Humor,,,,2016-08-06 18:00:00,2016-08-06 18:01:18.000
+6,2016-08-06,MSW,6.0,D,7,18.7,True Valor,"Alvarado, Junior","Desormeaux, Keith",Yes It's True,Grand Slam,BEL 1-7/9/16 4,,,2016-08-06 18:00:00,2016-08-06 18:01:18.000
+6,2016-08-06,MSW,6.0,D,8,2.45,Theoryintopractice,"Ortiz, Irad","Brown, Chad",Into Mischief,Yonaguska,,,,2016-08-06 18:00:00,2016-08-06 18:01:18.000
+6,2016-08-06,MSW,6.0,D,9,5.6,Curlout,"Franco, Manuel","Mareina, Michael",Curlin,Summer Squall,,,,2016-08-06 18:00:00,2016-08-06 18:01:18.000
+6,2016-08-06,MSW,6.0,D,10,22.3,Mears,"Castellano, Javier","Albertrani, Thomas",Street Cry (IRE),A.P. Indy,,,,2016-08-06 18:00:00,2016-08-06 18:01:18.000
+6,2016-08-07,MSW-F,5.5,D,1,1.45,Cherry Lodge,"Velazquez, John","Pletcher, Todd",Bernardini,Carson City,,,,2016-08-07 18:00:00,2016-08-07 18:01:11.500
+6,2016-08-07,MSW-F,5.5,D,2,1.95,Amapola,"Rosario, Joel","Mott, William",Broken Vow,Dixie Union,GP 3-5/25/16 6,,,2016-08-07 18:00:00,2016-08-07 18:01:11.500
+6,2016-08-07,MSW-F,5.5,D,3,4.7,In It for the Gold,"Ortiz, Irad","Rodriguez, Rudy",Speightstown,Value Plus,BEL 1-7/2/16 3,,,2016-08-07 18:00:00,2016-08-07 18:01:11.500
+6,2016-08-07,MSW-F,5.5,D,4,45.0,Posse Needed,"Alvarado, Junior","Hennig, Mark",Caleb's Posse,Unbridled,,,,2016-08-07 18:00:00,2016-08-07 18:01:11.500
+6,2016-08-07,MSW-F,5.5,D,5,11.3,Tiz Rae Anna,"Ortiz, Jose","Englehart, Jeremiah",Tiz Wonderful,Stephen Got Even,,,,2016-08-07 18:00:00,2016-08-07 18:01:11.500
+6,2016-08-07,MSW-F,5.5,D,6,26.75,Gulf,"Franco, Manuel","Clement, Christophe",Blame,Rahy,,,,2016-08-07 18:00:00,2016-08-07 18:01:11.500
+6,2016-08-07,MSW-F,5.5,D,7,12.0,Go Glam,"Santana, Ricardo","Asmussen, Steven",Tapizar,Gold Fever,CD 4-6/24/16 6,,,2016-08-07 18:00:00,2016-08-07 18:01:11.500
+6,2016-08-07,MSW-F,5.5,D,8,43.0,Pinchpenny,"Saez, Luis","Pugh, Peter",Super Saver,Vindication,,,,2016-08-07 18:00:00,2016-08-07 18:01:11.500
+6,2016-08-07,MSW-F,5.5,D,9,24.0,Tickety Boo,"Flores, David","Ward, Wesley",Giant's Causeway,Unbridled's Song,,,,2016-08-07 18:00:00,2016-08-07 18:01:11.500
+10,2016-08-07,MSW-F,8.5,T,1,2.75,Coasted,"Lezcano, Jose","Gyarmati, Leah",Tizway,Malibu Moon,BEL 1-7/2/16 5,,,2016-08-07 22:00:00,2016-08-07 22:01:50.500
+10,2016-08-07,MSW-F,8.5,T,2,6.9,Dream Dancing,"Ortiz, Irad","Casse, Mark",Tapit,Monarchos,,,,2016-08-07 22:00:00,2016-08-07 22:01:50.500
+10,2016-08-07,MSW-F,8.5,T,3,5.4,Joust,"Ortiz, Jose","Clement, Christophe",War Front,Kingmambo,,,,2016-08-07 22:00:00,2016-08-07 22:01:50.500
+10,2016-08-07,MSW-F,8.5,T,4,6.4,Awesome Boss,"Davis, Dylan","McPeek, Kenny",Street Boss,Awesome Again,BEL 7-7/16/16 3,,,2016-08-07 22:00:00,2016-08-07 22:01:50.500
+10,2016-08-07,MSW-F,8.5,T,5,8.9,Miss Emma Maria,"Velazquez, John","Pletcher, Todd",Tiznow,Seeking the Gold,,,,2016-08-07 22:00:00,2016-08-07 22:01:50.500
+10,2016-08-07,MSW-F,8.5,T,6,21.8,My Sweet Stella,"Geroux, Florent","Lukas, D. Wayne",Eskendereya,Songandaprayer,SAR 6-7/22/16 6,,,2016-08-07 22:00:00,2016-08-07 22:01:50.500
+10,2016-08-07,MSW-F,8.5,T,7,4.6,So Fancy,"Castellano, Javier","Brown, Chad",Tapit,Speightstown,BEL 2-6/12/16 4,,,2016-08-07 22:00:00,2016-08-07 22:01:50.500
+10,2016-08-07,MSW-F,8.5,T,8,11.0,Sugar and Te,"Alvarado, Junior","Mott, William",Galileo,Storm Cat,,,,2016-08-07 22:00:00,2016-08-07 22:01:50.500
+10,2016-08-07,MSW-F,8.5,T,9,15.8,Malibu Bliss,"Rosario, Joel","Casse, Mark",Malibu Moon,Louis Quatorze,CD 6-6/24/16 8,,,2016-08-07 22:00:00,2016-08-07 22:01:50.500
+10,2016-08-07,MSW-F,8.5,T,10,20.1,Unreal Baby,"Santana, Ricardo","Stall, Albert",Flatter,Victory Gallop,,,,2016-08-07 22:00:00,2016-08-07 22:01:50.500
+2,2016-08-08,MSW-NY,6.0,D,1,4.2,Gold for the King,"Ortiz, Jose","Baker, Charlton",Posse,Gold Token,,,,2016-08-08 14:00:00,2016-08-08 14:01:18.000
+2,2016-08-08,MSW-NY,6.0,D,2,1.45,Haul Anchor,"Alvarado, Junior","McLaughlin, Kiaran",Bernardini,Storm Cat,BEL 4-7/10/16 2,,,2016-08-08 14:00:00,2016-08-08 14:01:18.000
+2,2016-08-08,MSW-NY,6.0,D,3,2.5,Minsky Moment,"Castellano, Javier","Brown, Chad",Flatter,Archers Bay,,,,2016-08-08 14:00:00,2016-08-08 14:01:18.000
+2,2016-08-08,MSW-NY,6.0,D,4,29.0,Pat On the Back,"Davis, Dylan","McPeek, Kenny",Congrats,Awesome Again,,,,2016-08-08 14:00:00,2016-08-08 14:01:18.000
+2,2016-08-08,MSW-NY,6.0,D,5,12.1,Follow the Signs,"Saez, Luis","Schettino, Dominick",Colonel John,Freud,BEL 2-6/17/16 2,,,2016-08-08 14:00:00,2016-08-08 14:01:18.000
+2,2016-08-08,MSW-NY,6.0,D,6,13.7,Caledonian,"Santana, Ricardo","Terranova, John",Concord Point,Dehere,,,,2016-08-08 14:00:00,2016-08-08 14:01:18.000
+2,2016-08-08,MSW-NY,6.0,D,7,10.3,Bartleby,"Velazquez, John","Hennig, Mark",Lemon Drop Kid,Elusive Quality,BEL 4-7/10/16 5,,,2016-08-08 14:00:00,2016-08-08 14:01:18.000
+2,2016-08-08,MSW-NY,6.0,D,8,48.0,Count On America,"Carmouche, Kendrick","Demasi, Kathleen",American Lion,Sky Classic,,,,2016-08-08 14:00:00,2016-08-08 14:01:18.000
+2,2016-08-08,MSW-NY,6.0,D,9,49.0,Party Paradise,"Davis, Jacqueline","Antonucci, Jena",Desert Party,Pulpit,,,,2016-08-08 14:00:00,2016-08-08 14:01:18.000
+6,2016-08-08,MSW-NY,6.0,D,1,0.95,Syndergaard,"Velazquez, John","Pletcher, Todd",Majesticperfection,Gold Case,,,,2016-08-08 18:00:00,2016-08-08 18:01:18.000
+6,2016-08-08,MSW-NY,6.0,D,2,2.1,Mission Command,"Ortiz, Irad","Rodriguez, Rudy",Mission Impazible,Tomorrows Cat,BEL 4-7/10/16 3,,,2016-08-08 18:00:00,2016-08-08 18:01:18.000
+6,2016-08-08,MSW-NY,6.0,D,3,17.5,Heavy Meddle,"Alvarado, Junior","Mott, William",Medaglia d'Oro,Cherokee Run,,,,2016-08-08 18:00:00,2016-08-08 18:01:18.000
+6,2016-08-08,MSW-NY,6.0,D,4,9.5,Tellmeafookystory,"Saez, Luis","Schettino, Dominick",Tale of Ekati,Distinctive Pro,BEL 4-7/10/16 3,,,2016-08-08 18:00:00,2016-08-08 18:01:18.000
+6,2016-08-08,MSW-NY,6.0,D,5,17.5,Mr. Buff,"Arroyo, Angel","Kimmel, John",Friend or Foe,Speightstown,,,,2016-08-08 18:00:00,2016-08-08 18:01:18.000
+6,2016-08-08,MSW-NY,6.0,D,6,13.4,New York's Finest,"Ortiz, Jose","Rice, Linda",City Zip,Yes It's True,,,,2016-08-08 18:00:00,2016-08-08 18:01:18.000
+6,2016-08-08,MSW-NY,6.0,D,7,18.4,D'yer Mak'er,"Franco, Manuel","Zito, Nicholas",Soaring Empire,Dixie Brass,,,,2016-08-08 18:00:00,2016-08-08 18:01:18.000
+6,2016-08-08,MSW-NY,6.0,D,8,26.5,Italian Syndicate,"Castellano, Javier","Maker, Michael",Girolamo,Giacomo,,,,2016-08-08 18:00:00,2016-08-08 18:01:18.000
+6,2016-08-08,MSW-NY,6.0,D,9,15.6,Expediter,"Rosario, Joel","Ferraro, Anthony",Henny Hughes,Belong to Me,,,,2016-08-08 18:00:00,2016-08-08 18:01:18.000
+6,2016-08-10,MSW-F-NY,6.0,D,1,26.0,Ransom Drop,"Lezcano, Jose","Ryerson, James",Regal Ransom,Phone Trick,,,,2016-08-10 18:00:00,2016-08-10 18:01:18.000
+6,2016-08-10,MSW-F-NY,6.0,D,2,18.1,Bree's Got Heart,"Arroyo, Angel","Reid, Robert",Colonel John,Put It Back,,,,2016-08-10 18:00:00,2016-08-10 18:01:18.000
+6,2016-08-10,MSW-F-NY,6.0,D,3,7.4,Tizza Temper,"Ortiz, Jose","Englehart, Jeremiah",Tiznow,Tapit,,,,2016-08-10 18:00:00,2016-08-10 18:01:18.000
+6,2016-08-10,MSW-F-NY,6.0,D,4,3.4,High Jingo,"Castellano, Javier","Pompay, Teresa",Shackleford,Real Quiet,,,,2016-08-10 18:00:00,2016-08-10 18:01:18.000
+6,2016-08-10,MSW-F-NY,6.0,D,5,3.1,Zenna,"Carmouche, Kendrick","Martin, Carlos",Majesticperfection,Fit to Fight,BEL 9-7/17/16 4,,,2016-08-10 18:00:00,2016-08-10 18:01:18.000
+6,2016-08-10,MSW-F-NY,6.0,D,6,5.3,Carolina Courage,"Santana, Ricardo","Asmussen, Steven",Scat Daddy,Rockport Harbor,,,,2016-08-10 18:00:00,2016-08-10 18:01:18.000
+6,2016-08-10,MSW-F-NY,6.0,D,7,2.95,Cha Cha Heels,"Ortiz, Irad","Rodriguez, Rudy",Mission Impazible,Yankee Victor,,,,2016-08-10 18:00:00,2016-08-10 18:01:18.000
+6,2016-08-10,MSW-F-NY,6.0,D,8,19.2,Little Chiseler,"Franco, Manuel","Sciacca, Gary",Freud,Unbridled's Song,BEL 4-7/8/16 7,,,2016-08-10 18:00:00,2016-08-10 18:01:18.000
+6,2016-08-10,MSW-F-NY,6.0,D,9,16.7,Scatter Point,"Saez, Luis","Contessa, Gary",Scat Daddy,Point Given,BEL 2-7/3/16 12,,,2016-08-10 18:00:00,2016-08-10 18:01:18.000
+3,2016-08-11,MSW,5.5,T,1,8.1,Berks County,"Lezcano, Jose","Martin, Carlos",Lonhro,Meadowlake,,,,2016-08-11 15:00:00,2016-08-11 15:01:11.500
+3,2016-08-11,MSW,5.5,T,2,2.75,Ventry Bay,"Flores, David","Ward, Wesley",Scat Daddy,Kingmambo,,,,2016-08-11 15:00:00,2016-08-11 15:01:11.500
+3,2016-08-11,MSW,5.5,T,3,2.05,Caribou Club,"Franco, Manuel","Proctor, Thomas",City Zip,Broken Vow,LRL 1-7/17/16 2,,,2016-08-11 15:00:00,2016-08-11 15:01:11.500
+3,2016-08-11,MSW,5.5,T,4,6.3,Gemologister,"Castillo, John","Mejia, Jaime",Gemologist,Rahy,SAR 1-7/30/16 7,,,2016-08-11 15:00:00,2016-08-11 15:01:11.500
+3,2016-08-11,MSW,5.5,T,5,2.35,Bracket Creep,"Castellano, Javier","Brown, Chad",City Zip,Rahy,,,,2016-08-11 15:00:00,2016-08-11 15:01:11.500
+3,2016-08-11,MSW,5.5,T,6,15.9,Hay Listen Up,"Geroux, Florent","Lukas, D. Wayne",Haynesfield,Kennedy Road,,,,2016-08-11 15:00:00,2016-08-11 15:01:11.500
+3,2016-08-11,MSW,5.5,T,7,6.3,Stun,"Santana, Ricardo","Mejia, Jaime",Harlan's Holiday,Kris S.,,,,2016-08-11 15:00:00,2016-08-11 15:01:11.500
+5,2016-08-12,MSW-F,5.5,T,1,19.1,Zero Zee,"Cancel, Eric","Weaver, George",High Cotton,Vindication,,,,2016-08-12 17:00:00,2016-08-12 17:01:11.500
+5,2016-08-12,MSW-F,5.5,T,2,6.5,Malibu Stella,"Bravo, Joe","Wismer, Troy",Malibu Moon,Touch Gold,,,,2016-08-12 17:00:00,2016-08-12 17:01:11.500
+5,2016-08-12,MSW-F,5.5,T,3,3.75,Compelled,"Ortiz, Irad","Proctor, Thomas",War Front,Dynaformer,,,,2016-08-12 17:00:00,2016-08-12 17:01:11.500
+5,2016-08-12,MSW-F,5.5,T,4,2.15,Jumby Bay,"Velazquez, John","Pletcher, Todd",City Zip,Tiznow,SAR 6-7/22/16 4,,,2016-08-12 17:00:00,2016-08-12 17:01:11.500
+5,2016-08-12,MSW-F,5.5,T,5,3.5,Victory to Victory,"Lezcano, Jose","Casse, Mark",Exchange Rate,Point Given,,,,2016-08-12 17:00:00,2016-08-12 17:01:11.500
+5,2016-08-12,MSW-F,5.5,T,6,17.8,Elite Heir,"Carmouche, Kendrick","Ryerson, James",Wildcat Heir,Exchange Rate,,,,2016-08-12 17:00:00,2016-08-12 17:01:11.500
+5,2016-08-12,MSW-F,5.5,T,7,14.4,Courtmewithcarats,"Saez, Luis","Lynch, Brian",Court Vision,Unbridled's Song,,,,2016-08-12 17:00:00,2016-08-12 17:01:11.500
+5,2016-08-12,MSW-F,5.5,T,8,23.3,Cara Blythe,"Alvarado, Junior","Mott, William",Big Brown,Mr. Prospector,,,,2016-08-12 17:00:00,2016-08-12 17:01:11.500
+5,2016-08-12,MSW-F,5.5,T,9,14.8,Banner Wave,"Ortiz, Jose","Morley, Thomas",Midshipman,Pulpit,,,,2016-08-12 17:00:00,2016-08-12 17:01:11.500
+5,2016-08-12,MSW-F,5.5,T,10,22.6,Irish Fix,"Franco, Manuel","Motion, Graham",Paddy O'Prado,Intikhab,,,,2016-08-12 17:00:00,2016-08-12 17:01:11.500
+2,2016-08-13,MSW,8.5,T,1,9.4,Good Samaritan,"Rosario, Joel","Mott, William",Harlan's Holiday,Pulpit,,,,2016-08-13 14:00:00,2016-08-13 14:01:50.500
+2,2016-08-13,MSW,8.5,T,2,1.85,Ticonderoga,"Castellano, Javier","Brown, Chad",Tapit,Johar,,,,2016-08-13 14:00:00,2016-08-13 14:01:50.500
+2,2016-08-13,MSW,8.5,T,3,14.5,Kiss the Toad,"Franco, Manuel","Morley, Thomas",Exchange Rate,Artax,BEL 2-7/1/16 4,,,2016-08-13 14:00:00,2016-08-13 14:01:50.500
+2,2016-08-13,MSW,8.5,T,4,2.95,Harlan's Hunch,"Velazquez, John","Pletcher, Todd",Harlan's Holiday,Elusive Quality,BEL 2-7/14/16 2,,,2016-08-13 14:00:00,2016-08-13 14:01:50.500
+2,2016-08-13,MSW,8.5,T,5,9.7,J.S. Choice,"Ortiz, Irad","Pletcher, Todd",Congrats,Empire Maker,,,,2016-08-13 14:00:00,2016-08-13 14:01:50.500
+2,2016-08-13,MSW,8.5,T,6,2.95,Formula One,"Ortiz, Jose","McGaughey, Claude",Smart Strike,Unbridled's Song,,,,2016-08-13 14:00:00,2016-08-13 14:01:50.500
+2,2016-08-13,MSW,8.5,T,7,59.75,Summer Causeway,"Castillo, John","Mejia, Jaime",Giant's Causeway,Siberian Summer,,,,2016-08-13 14:00:00,2016-08-13 14:01:50.500
+2,2016-08-13,MSW,8.5,T,8,47.75,Menacing Dennis,"Carmouche, Kendrick","Sciacca, Gary",Greatness,Lost Soldier,,,,2016-08-13 14:00:00,2016-08-13 14:01:50.500
+2,2016-08-13,MSW,8.5,T,9,55.0,Concatulations,"Santana, Ricardo","Contessa, Gary",Congrats,Bluegrass Cat,BEL 3-7/16/16 5,,,2016-08-13 14:00:00,2016-08-13 14:01:50.500
+2,2016-08-13,MSW,8.5,T,10,28.0,Cairn,"Saez, Luis","Sharp, Joe",Gemologist,Langfuhr,,,,2016-08-13 14:00:00,2016-08-13 14:01:50.500
+3,2016-08-13,MSW,7.0,D,1,3.05,Royal Copy,"Saez, Luis","Lukas, D. Wayne",Bodemeister,Meadowlake,SAR 6-7/23/16 2,,,2016-08-13 15:00:00,2016-08-13 15:01:31.000
+3,2016-08-13,MSW,7.0,D,2,2.2,Pretty Boy Flash,"Ortiz, Irad","Asmussen, Steven",Gone Astray,Honour and Glory,SAR 6-7/23/16 3,,,2016-08-13 15:00:00,2016-08-13 15:01:31.000
+3,2016-08-13,MSW,7.0,D,3,17.0,Lookin at Blessing,"Santana, Ricardo","Zito, Nicholas",Lookin at Lucky,Birdstone,SAR 6-7/23/16 7,,,2016-08-13 15:00:00,2016-08-13 15:01:31.000
+3,2016-08-13,MSW,7.0,D,4,11.7,Confederate,"Rosario, Joel","Matz, Michael",Union Rags,Pleasant Tap,,,,2016-08-13 15:00:00,2016-08-13 15:01:31.000
+3,2016-08-13,MSW,7.0,D,5,1.15,Leviathan,"Velazquez, John","Pletcher, Todd",Candy Ride (ARG),Rock Hard Ten,,,,2016-08-13 15:00:00,2016-08-13 15:01:31.000
+3,2016-08-13,MSW,7.0,D,6,20.5,Arch of the Diver,"Franco, Manuel","Albertrani, Thomas",Arch,E Dubai,,,,2016-08-13 15:00:00,2016-08-13 15:01:31.000
+5,2016-08-13,MSW,7.0,D,1,1.6,Thirst for Victory,"Velazquez, John","Pletcher, Todd",Stay Thirsty,Victory Gallop,,,,2016-08-13 17:00:00,2016-08-13 17:01:31.000
+5,2016-08-13,MSW,7.0,D,2,16.9,Adulation,"Franco, Manuel","Wilkes, Ian",To Honor and Serve,Unbridled's Song,,,,2016-08-13 17:00:00,2016-08-13 17:01:31.000
+5,2016-08-13,MSW,7.0,D,3,11.5,Baseline,"Carmouche, Kendrick","Albertrani, Thomas",Bellamy Road,Great Above,BEL 1-7/9/16 8,,,2016-08-13 17:00:00,2016-08-13 17:01:31.000
+5,2016-08-13,MSW,7.0,D,4,15.3,Perro Rojo,"Santana, Ricardo","Zito, Nicholas",Birdstone,Housebuster,,,,2016-08-13 17:00:00,2016-08-13 17:01:31.000
+5,2016-08-13,MSW,7.0,D,5,8.1,Thaddeus,"Alvarado, Junior","Schettino, Dominick",Mineshaft,Souvenir Copy,,,,2016-08-13 17:00:00,2016-08-13 17:01:31.000
+5,2016-08-13,MSW,7.0,D,6,2.7,Road to the Roses,"Castellano, Javier","Maker, Michael",Bellamy Road,Victory Gallop,,,,2016-08-13 17:00:00,2016-08-13 17:01:31.000
+5,2016-08-13,MSW,7.0,D,7,18.7,Kody's Pursuit,"Saez, Luis","Lukas, D. Wayne",Curlin,Private Account,SAR 1-7/30/16 9,,,2016-08-13 17:00:00,2016-08-13 17:01:31.000
+5,2016-08-13,MSW,7.0,D,8,5.4,Any Questions,"Ortiz, Jose","Sciacca, Gary",Lookin at Lucky,Broken Vow,SAR 6-7/23/16 9,,,2016-08-13 17:00:00,2016-08-13 17:01:31.000
+5,2016-08-13,MSW,7.0,D,---,32.0,Golden Away,"Castillo, John","Mejia, Jaime",Giant's Causeway,Hansel,SAR 1-8/6/16 9,,"Broke badly, lost jockey",2016-08-13 17:00:00,2016-08-13 17:01:31.000
+2,2016-08-14,MSW-F,7.0,D,1,0.6,Asscher,"Velazquez, John","Pletcher, Todd",Harlan's Holiday,Seeking the Gold,BEL 7-7/16/16 2,,Scheduled for 8.5 on the inner turf; moved to dirt,2016-08-14 14:00:00,2016-08-14 14:01:31.000
+2,2016-08-14,MSW-F,7.0,D,2,9.2,Fear No Evil,"Saez, Luis","Albertrani, Thomas",Line of David,Itaka,,,,2016-08-14 14:00:00,2016-08-14 14:01:31.000
+2,2016-08-14,MSW-F,7.0,D,3,6.3,Sunday Gravy,"Castellano, Javier","Contessa, Gary",Unbridled's Song,Gone West,SAR 6-7/22/16 7,,,2016-08-14 14:00:00,2016-08-14 14:01:31.000
+2,2016-08-14,MSW-F,7.0,D,4,7.9,Super Marina,"Franco, Manuel","Weaver, George",Warrior's Reward,Lil's Lad,SAR 2-7/24/16 8,,,2016-08-14 14:00:00,2016-08-14 14:01:31.000
+2,2016-08-14,MSW-F,7.0,D,5,3.5,Jaunt,"Ortiz, Jose","McGaughey, Claude",Harlan's Holiday,Unbridled,,,,2016-08-14 14:00:00,2016-08-14 14:01:31.000
+4,2016-08-14,MSW-F,6.5,D,1,14.3,Aspen Hilltop,"Saez, Luis","Contessa, Gary",Bernardini,Candy Ride (ARG),,,,2016-08-14 16:00:00,2016-08-14 16:01:24.500
+4,2016-08-14,MSW-F,6.5,D,2,13.9,Berned,"Rosario, Joel","Albertrani, Thomas",Bernardini,Giant's Causeway,,,,2016-08-14 16:00:00,2016-08-14 16:01:24.500
+4,2016-08-14,MSW-F,6.5,D,3,3.9,Jamyson 'n Ginger,"Ortiz, Irad","Rodriguez, Rudy",Bernardini,Milwaukee Brew,,,,2016-08-14 16:00:00,2016-08-14 16:01:24.500
+4,2016-08-14,MSW-F,6.5,D,4,1.25,Torrent,"Santana, Ricardo","Moquett, Ronald",Blame,Yankee Gentleman,SAR 6-7/22/16 3,,,2016-08-14 16:00:00,2016-08-14 16:01:24.500
+4,2016-08-14,MSW-F,6.5,D,5,11.3,Thirtydaysinjune,"Alvarado, Junior","Mott, William",Algorithms,Giant's Causeway,,,,2016-08-14 16:00:00,2016-08-14 16:01:24.500
+4,2016-08-14,MSW-F,6.5,D,6,12.5,Bemus Point,"Bravo, Joe","Arnold, George",Bernardini,Fusaichi Pegasus,,,,2016-08-14 16:00:00,2016-08-14 16:01:24.500
+4,2016-08-14,MSW-F,6.5,D,7,13.9,More Than Treasure,"Luzzi, Michael","Weaver, George",More Than Ready,Out of Place,,,,2016-08-14 16:00:00,2016-08-14 16:01:24.500
+4,2016-08-14,MSW-F,6.5,D,8,4.1,Recollection,"Ortiz, Jose","McGaughey, Claude",Distorted Humor,A.P. Indy,,,,2016-08-14 16:00:00,2016-08-14 16:01:24.500
+6,2016-08-14,MSW-F,6.5,D,1,1.5,Colorful Charades,"Ortiz, Irad","Rodriguez, Rudy",Discreet Cat,Two Punch,,,,2016-08-14 18:00:00,2016-08-14 18:01:24.500
+6,2016-08-14,MSW-F,6.5,D,2,16.5,Tequilita,"Geroux, Florent","Matz, Michael",Union Rags,Mr. Greeley,LRL 7-7/1/16 7,,,2016-08-14 18:00:00,2016-08-14 18:01:24.500
+6,2016-08-14,MSW-F,6.5,D,3,11.4,Beautiful Lady,"Flores, David","St. Lewis, Uriah",Bellamy Road,Meadowlake,PRX 6-7/24/16 3,,,2016-08-14 18:00:00,2016-08-14 18:01:24.500
+6,2016-08-14,MSW-F,6.5,D,4,1.95,Serious I Candy,"Santana, Ricardo","Asmussen, Steven",Candy Ride (ARG),Stormin Fever,,,,2016-08-14 18:00:00,2016-08-14 18:01:24.500
+6,2016-08-14,MSW-F,6.5,D,5,17.1,Elude,"Franco, Manuel","Albertrani, Thomas",Medaglia d'Oro,Roar,,,,2016-08-14 18:00:00,2016-08-14 18:01:24.500
+6,2016-08-14,MSW-F,6.5,D,6,11.3,Naples Princess,"DeCarlo, Chris","Mott, William",Distorted Humor,Silver Deputy,,,,2016-08-14 18:00:00,2016-08-14 18:01:24.500
+6,2016-08-14,MSW-F,6.5,D,7,4.3,Drip Brew,"Ortiz, Jose","Moquett, Ronald",Yes It's True,Unbridled's Song,,,,2016-08-14 18:00:00,2016-08-14 18:01:24.500
+9,2016-08-14,GRD,6.5,D,1,9.2,Gunnevera,"Castellano, Javier","Sano, Antonio",Dialed In,Unbridled,GP 8-7/16/16 1,,,2016-08-14 21:00:00,2016-08-14 21:01:24.500
+9,2016-08-14,GRD,6.5,D,2,0.45,Recruiting Ready,"Ortiz, Irad","DePaz, Horacio",Algorithms,Strong Hope,CD 7-7/2/16 2,,DQ'd from second to fourth for interference,2016-08-14 21:00:00,2016-08-14 21:01:24.500
+9,2016-08-14,GRD,6.5,D,3,11.2,Tip Tap Tapizar,"Santana, Ricardo","Asmussen, Steven",Tapizar,Storm Cat,CD 7-7/2/16 3,,,2016-08-14 21:00:00,2016-08-14 21:01:24.500
+9,2016-08-14,GRD,6.5,D,4,2.4,Sonic Mule,"Velazquez, John","Pletcher, Todd",Distorted Humor,A.P. Indy,MTH 1-7/15/16 1,,,2016-08-14 21:00:00,2016-08-14 21:01:24.500
+9,2016-08-14,GRD,6.5,D,5,23.5,Get Lit N Get Wild,"Ortiz, Jose","Rice, Kevin",Wildcat Heir,Tiger Ridge,PID 4-8/2/16 1,,,2016-08-14 21:00:00,2016-08-14 21:01:24.500
+3,2016-08-15,MSW-F-NY,6.0,D,1,9.2,Christening,"Ortiz, Irad","Contessa, Gary",Girolamo,Hennessy,BEL 9-7/17/16 5,,,2016-08-15 15:00:00,2016-08-15 15:01:18.000
+3,2016-08-15,MSW-F-NY,6.0,D,2,2.3,Paz the Bourbon,"Rosario, Joel","Hennig, Mark",Mission Impazible,More Than Ready,BEL 9-7/17/16 3,,,2016-08-15 15:00:00,2016-08-15 15:01:18.000
+3,2016-08-15,MSW-F-NY,6.0,D,3,1.5,Stonecoldfox,"Castellano, Javier","Rice, Linda",Bustin Stones,Tapit,,,,2016-08-15 15:00:00,2016-08-15 15:01:18.000
+3,2016-08-15,MSW-F-NY,6.0,D,4,12.0,Ribbonite,"Davis, Dylan","Davis, Robbie",Griffinite,Western Expression,SAR 2-7/22/16 2,,,2016-08-15 15:00:00,2016-08-15 15:01:18.000
+3,2016-08-15,MSW-F-NY,6.0,D,5,6.3,Rare Rose,"Franco, Manuel","Englehart, Jeremiah",Run Away and Hide,Elusive Quality,,,,2016-08-15 15:00:00,2016-08-15 15:01:18.000
+3,2016-08-15,MSW-F-NY,6.0,D,6,5.1,Seattle Ice Queen,"Ortiz, Jose","Levine, Bruce",Frost Giant,Indian Charlie,SAR 2-7/22/16 3,,,2016-08-15 15:00:00,2016-08-15 15:01:18.000
+3,2016-08-15,MSW-F-NY,6.0,D,7,45.0,Heavenly Strut,"Camacho, Samuel","Hertler, John",Utopia,Suave,,,,2016-08-15 15:00:00,2016-08-15 15:01:18.000
+5,2016-08-15,MSW-F,5.5,T,1,4.0,Beat the Benchmark,"Ortiz, Jose","Brown, Chad",Speightstown,El Prado (IRE),,,,2016-08-15 17:00:00,2016-08-15 17:01:11.500
+5,2016-08-15,MSW-F,5.5,T,2,5.7,Love and Lemons,"Saez, Luis","Wismer, Troy",Lemon Drop Kid,Speightstown,SAR 5-7/27/16 5,,,2016-08-15 17:00:00,2016-08-15 17:01:11.500
+5,2016-08-15,MSW-F,5.5,T,3,2.95,Fly Swift,"Ortiz, Irad","Clement, Christophe",City Zip,Rahy,BEL 7-7/16/16 5,,,2016-08-15 17:00:00,2016-08-15 17:01:11.500
+5,2016-08-15,MSW-F,5.5,T,4,7.1,Yorkiepoo Princess,"Torres, Jomar","Barker, Edward",Kantharos,Unreal Zeal,,,,2016-08-15 17:00:00,2016-08-15 17:01:11.500
+5,2016-08-15,MSW-F,5.5,T,5,4.8,Proud Reunion,"Lezcano, Jose","Proctor, Thomas",Proud Citizen,Harlan's Holiday,,,,2016-08-15 17:00:00,2016-08-15 17:01:11.500
+5,2016-08-15,MSW-F,5.5,T,6,4.1,Angelo's Ashes,"Rosario, Joel","Ward, Wesley",Exchange Rate,A.P. Indy,SAR 2-7/24/16 5,,,2016-08-15 17:00:00,2016-08-15 17:01:11.500
+5,2016-08-15,MSW-F,5.5,T,7,24.5,Enticing Evening,"Santana, Ricardo","Contessa, Gary",Hansen,Service Stripe,,,,2016-08-15 17:00:00,2016-08-15 17:01:11.500
+5,2016-08-15,MSW-F,5.5,T,8,14.9,Daddyisdooley,"Arroyo, Angel","Bush, Tom",Scat Daddy,Cherokee Run,,,,2016-08-15 17:00:00,2016-08-15 17:01:11.500
+9,2016-08-17,STK-F,5.5,T,1,9.4,Con Te Partiro,"Velazquez, John","Ward, Wesley",Scat Daddy,Street Cry (IRE),CD 10-5/5/16 4,,,2016-08-17 21:00:00,2016-08-17 21:01:11.500
+9,2016-08-17,STK-F,5.5,T,2,20.1,Jazz Lady,"Saez, Luis","Calhoun, Will",Mizzen Mast,Storm Cat,EVD 7-7/16/16 5,,,2016-08-17 21:00:00,2016-08-17 21:01:11.500
+9,2016-08-17,STK-F,5.5,T,3,13.7,Heartspoke,"Baird, E.T.","Rivelli, Larry",Arch,Dixie Union,AP 8-7/14/16 1,,,2016-08-17 21:00:00,2016-08-17 21:01:11.500
+9,2016-08-17,STK-F,5.5,T,4,3.25,China Grove,"Ortiz, Jose","Colebrook, Ben",City Zip,Distorted Humor,CD 8-7/2/16 8,,,2016-08-17 21:00:00,2016-08-17 21:01:11.500
+9,2016-08-17,STK-F,5.5,T,5,3.55,Big City Dreamin,"Ortiz, Irad","Brown, Chad",Iqbaal,Fusaichi Pegasus,PID 2-7/14/16 2,,,2016-08-17 21:00:00,2016-08-17 21:01:11.500
+9,2016-08-17,STK-F,5.5,T,6,17.4,Truthful,"Geroux, Florent","Asmussen, Steven",Bodemeister,Vindication,ELP 7-7/23/16 2,,,2016-08-17 21:00:00,2016-08-17 21:01:11.500
+9,2016-08-17,STK-F,5.5,T,7,43.5,Kissin Cassie,"Davis, Dylan","Barker, Edward",High Cotton,Kissin Kris,SAR 3-8/4/16 1,,,2016-08-17 21:00:00,2016-08-17 21:01:11.500
+9,2016-08-17,STK-F,5.5,T,---,1.2,Lull,"Franco, Manuel","Clement, Christophe",War Front,Tiznow,BEL 7-7/16/16 1,,"Fell at the top of the stretch, clipped heels",2016-08-17 21:00:00,2016-08-17 21:01:11.500
+5,2016-08-18,MSW-F-NY,5.5,T,1,2.6,Very Fashionable,"Ortiz, Jose","Hushion, Michael",Old Fashioned,Tale of the Cat,,,,2016-08-18 17:00:00,2016-08-18 17:01:11.500
+5,2016-08-18,MSW-F-NY,5.5,T,2,3.35,Divine Cause,"Lopez, Paco","Weaver, George",Creative Cause,Divine Park,,,,2016-08-18 17:00:00,2016-08-18 17:01:11.500
+5,2016-08-18,MSW-F-NY,5.5,T,3,6.7,Sharp Lacey,"Santana, Ricardo","Contessa, Gary",Freud,Expelled,,,,2016-08-18 17:00:00,2016-08-18 17:01:11.500
+5,2016-08-18,MSW-F-NY,5.5,T,4,9.0,You Promise,"Luzzi, Michael","Brown, Bruce",Sidney's Candy,Capote,SAR 6-8/4/16 9,,,2016-08-18 17:00:00,2016-08-18 17:01:11.500
+5,2016-08-18,MSW-F-NY,5.5,T,5,17.9,Impazible Angela,"Arroyo, Angel","Adsit, Abigail",Mission Impazible,Kafwain,,,,2016-08-18 17:00:00,2016-08-18 17:01:11.500
+5,2016-08-18,MSW-F-NY,5.5,T,6,11.9,My First Gal,"Geroux, Florent","Hennig, Mark",First Samurai,Indian Charlie,SAR 2-7/31/16 8,,,2016-08-18 17:00:00,2016-08-18 17:01:11.500
+5,2016-08-18,MSW-F-NY,5.5,T,7,19.9,Reconsider It,"Camacho, Samuel","Hertler, John",War Chant,Leroidesanimaux (BRZ),,,,2016-08-18 17:00:00,2016-08-18 17:01:11.500
+5,2016-08-18,MSW-F-NY,5.5,T,8,5.0,My Mission,"Velazquez, John","Dilger, Michael",Mission Impazible,Cuvee,,,,2016-08-18 17:00:00,2016-08-18 17:01:11.500
+5,2016-08-18,MSW-F-NY,5.5,T,9,9.6,Emiliana's Hope,"Franco, Manuel","Donk, David",Here Comes Ben,Entrepreneur (GB),,,,2016-08-18 17:00:00,2016-08-18 17:01:11.500
+5,2016-08-18,MSW-F-NY,5.5,T,10,47.25,Anna Liffey,"Torres, Jomar","O'Brien, Colum",Dublin,Sefapiano,,,,2016-08-18 17:00:00,2016-08-18 17:01:11.500
+6,2016-08-18,MSW-NY,6.0,D,1,0.65,Mirai,"Ortiz, Jose","Brown, Chad",Trappe Shot,Not For Love,,,,2016-08-18 18:00:00,2016-08-18 18:01:18.000
+6,2016-08-18,MSW-NY,6.0,D,2,3.55,Ethan Hunt,"Castellano, Javier","Pletcher, Todd",Mission Impazible,Deputy Minister,BEL 3-7/16/16 2,,,2016-08-18 18:00:00,2016-08-18 18:01:18.000
+6,2016-08-18,MSW-NY,6.0,D,3,8.7,Dab,"Santana, Ricardo","Terranova, John",Into Mischief,Conquistador Cielo,,,,2016-08-18 18:00:00,2016-08-18 18:01:18.000
+6,2016-08-18,MSW-NY,6.0,D,4,8.3,Blame the Thief,"Lopez, Paco","Hills, Timothy",Blame,Flatter,,,,2016-08-18 18:00:00,2016-08-18 18:01:18.000
+6,2016-08-18,MSW-NY,6.0,D,5,18.1,Chatter Pattern,"Ortiz, Irad","Rodriguez, Rudy",Bluegrass Cat,Tiznow,BEL 4-7/10/16 7,,,2016-08-18 18:00:00,2016-08-18 18:01:18.000
+6,2016-08-18,MSW-NY,6.0,D,6,34.5,Honor and Pleasure,"Franco, Manuel","Albertrani, Thomas",Twirling Candy,Indian Charlie,,,,2016-08-18 18:00:00,2016-08-18 18:01:18.000
+6,2016-08-18,MSW-NY,6.0,D,7,60.25,Shipthegrip,"Arroyo, Angel","Montoya, Marya",Mission Impazible,Silver Deputy,,,,2016-08-18 18:00:00,2016-08-18 18:01:18.000
+6,2016-08-18,MSW-NY,6.0,D,8,39.25,Barnacle Bill,"Bridgmohan, Shaun","Dilger, Michael",Eskendereya,Quiet American,,,,2016-08-18 18:00:00,2016-08-18 18:01:18.000
+6,2016-08-18,MSW-NY,6.0,D,9,71.0,Pimm's Cup,"Davis, Dylan","McPeek, Kenny",Old Fashioned,Salt Lake,,,,2016-08-18 18:00:00,2016-08-18 18:01:18.000
+6,2016-08-18,MSW-NY,6.0,D,10,33.0,Bodie Ramsey,"Rosario, Joel","Maker, Michael",Bodemeister,A.P. Indy,,,,2016-08-18 18:00:00,2016-08-18 18:01:18.000
+3,2016-08-19,STK,5.5,T,1,3.5,Harlan's Harmony,"Arroyo, Angel","Terranova, John",Spring at Last,Unbridled's Song,BEL 2-7/14/16 1,,,2016-08-19 15:00:00,2016-08-19 15:01:11.500
+3,2016-08-19,STK,5.5,T,2,1.7,Wellabled,"Ortiz, Irad","Rivelli, Larry",Shackleford,In Excess (IRE),AP 1-7/9/16 1,,,2016-08-19 15:00:00,2016-08-19 15:01:11.500
+3,2016-08-19,STK,5.5,T,3,3.7,Freud's Friend,"Franco, Manuel","Baker, Charlton",Freud,Millions,SAR 5-7/29/16 1,,,2016-08-19 15:00:00,2016-08-19 15:01:11.500
+3,2016-08-19,STK,5.5,T,4,34.75,Gemologister,"Castillo, John","Mejia, Jaime",Gemologist,Rahy,SAR 3-8/11/16 4,,,2016-08-19 15:00:00,2016-08-19 15:01:11.500
+3,2016-08-19,STK,5.5,T,5,2.15,Iron Mane,"Velazquez, John","Ward, Wesley",The Factor,Storm Cat,IND 3-7/23/16 1,,,2016-08-19 15:00:00,2016-08-19 15:01:11.500
+3,2016-08-19,STK,5.5,T,6,21.5,Mbrace Grace,"Saez, Luis","Mejia, Jaime",Into Mischief,Rahy,,,,2016-08-19 15:00:00,2016-08-19 15:01:11.500
+10,2016-08-19,GRD-F,6.5,D,1,8.9,Nonna Mela,"Castellano, Javier","Pletcher, Todd",Arch,Storm Cat,MTH 5-7/2/16 1,,,2016-08-19 22:00:00,2016-08-19 22:01:24.500
+10,2016-08-19,GRD-F,6.5,D,2,4.9,Silvertoni,"Rosario, Joel","Ward, Wesley",Tapit,Johannesburg,ASC 6/14/16 9,,,2016-08-19 22:00:00,2016-08-19 22:01:24.500
+10,2016-08-19,GRD-F,6.5,D,3,6.8,Olive Branch,"Ortiz, Jose","Violette, Rick",Speightstown,Bernardini,SAR 8-7/22/16 5,,,2016-08-19 22:00:00,2016-08-19 22:01:24.500
+10,2016-08-19,GRD-F,6.5,D,4,1.55,Libby's Tail,"Ortiz, Irad","Rodriguez, Rudy",Tiz Wonderful,Marquetry,BEL 1-7/2/16 1,,,2016-08-19 22:00:00,2016-08-19 22:01:24.500
+10,2016-08-19,GRD-F,6.5,D,5,1.9,Ever So Clever,"Velazquez, John","Asmussen, Steven",Medaglia d'Oro,Mr. Greeley,CD 4-7/1/16 1,,,2016-08-19 22:00:00,2016-08-19 22:01:24.500
+10,2016-08-19,GRD-F,6.5,D,6,36.75,Romantic Music,"Carmouche, Kendrick","Ryan, Derek",Maclean's Music,Badge,MTH 1-8/5/16 1,,,2016-08-19 22:00:00,2016-08-19 22:01:24.500
+10,2016-08-19,GRD-F,6.5,D,---,27.0,Dial Me,"Saez, Luis","Lukas, D. Wayne",Dialed In,Tiznow,ELP 7-7/23/16 1,,,2016-08-19 22:00:00,2016-08-19 22:01:24.500
+2,2016-08-20,MSW,6.0,D,1,3.15,Blame Will,"Saez, Luis","Lukas, D. Wayne",Blame,Forest Wildcat,SAR 1-8/6/16 3,,,2016-08-20 14:00:00,2016-08-20 14:01:18.000
+2,2016-08-20,MSW,6.0,D,2,2.35,Always Dreaming,"Bravo, Joe","Schettino, Dominick",Bodemeister,In Excess (IRE),BEL 2-7/1/16 3,,,2016-08-20 14:00:00,2016-08-20 14:01:18.000
+2,2016-08-20,MSW,6.0,D,3,3.5,Driven to Compete,"Velazquez, John","Pletcher, Todd",Overdriven,Grand Slam,,,,2016-08-20 14:00:00,2016-08-20 14:01:18.000
+2,2016-08-20,MSW,6.0,D,4,10.9,Rockshaw,"Santana, Ricardo","Moquett, Ronald",Maclean's Music,Trust N Luck,,,,2016-08-20 14:00:00,2016-08-20 14:01:18.000
+2,2016-08-20,MSW,6.0,D,5,27.0,Fastlanefrontman,"Franco, Manuel","Albertrani, Thomas",Jersey Town,Bertrando,,,,2016-08-20 14:00:00,2016-08-20 14:01:18.000
+2,2016-08-20,MSW,6.0,D,6,38.5,Summer Causeway,"Castillo, John","Mejia, Jaime",Giant's Causeway,Siberian Summer,SAR 2-8/13/16 7,,,2016-08-20 14:00:00,2016-08-20 14:01:18.000
+2,2016-08-20,MSW,6.0,D,7,39.5,Killybegs Captain,"Arroyo, Angel","Terranova, John",Mizzen Mast,Holy Bull,,,,2016-08-20 14:00:00,2016-08-20 14:01:18.000
+2,2016-08-20,MSW,6.0,D,8,8.5,Union Riches,"Castellano, Javier","Weaver, George",Union Rags,Speightstown,,,,2016-08-20 14:00:00,2016-08-20 14:01:18.000
+2,2016-08-20,MSW,6.0,D,9,5.3,Unstabled,"Ortiz, Irad","Asmussen, Steven",Creative Cause,Unbridled's Song,,,,2016-08-20 14:00:00,2016-08-20 14:01:18.000
+6,2016-08-20,MSW,8.5,T,1,6.0,Oscar Performance,"Ortiz, Jose","Lynch, Brian",Kitten's Joy,Theatrical (IRE),SAR 2-7/23/16 6,,,2016-08-20 18:00:00,2016-08-20 18:01:50.500
+6,2016-08-20,MSW,8.5,T,2,12.8,One of a Kind,"Bravo, Joe","Kenneally, Eddie",Lemon Drop Kid,Dixie Union,SAR 2-7/23/16 7,,,2016-08-20 18:00:00,2016-08-20 18:01:50.500
+6,2016-08-20,MSW,8.5,T,3,4.6,Focus Group,"Ortiz, Irad","Brown, Chad",Kitten's Joy,Dynaformer,,,,2016-08-20 18:00:00,2016-08-20 18:01:50.500
+6,2016-08-20,MSW,8.5,T,4,12.8,Bonus Points,"Velazquez, John","Pletcher, Todd",Majestic Warrior,Not For Love,,,,2016-08-20 18:00:00,2016-08-20 18:01:50.500
+6,2016-08-20,MSW,8.5,T,5,32.0,Bigboldbok,"Franco, Manuel","Weaver, George",Bold Warrior,Johannesburg,,,,2016-08-20 18:00:00,2016-08-20 18:01:50.500
+6,2016-08-20,MSW,8.5,T,6,8.0,Rule Yourself,"Santana, Ricardo","DePaz, Horacio",Giant's Causeway,Mr. Greeley,PRX 4-7/11/16 2,,,2016-08-20 18:00:00,2016-08-20 18:01:50.500
+6,2016-08-20,MSW,8.5,T,7,3.45,Unbridled Eagle,"Saez, Luis","Lukas, D. Wayne",Mineshaft,Unbridled's Song,SAR 2-7/23/16 3,,,2016-08-20 18:00:00,2016-08-20 18:01:50.500
+6,2016-08-20,MSW,8.5,T,8,30.5,Nassau Talent,"Rosario, Joel","Sharp, Joe",Talent Search,Kitten's Joy,,,,2016-08-20 18:00:00,2016-08-20 18:01:50.500
+6,2016-08-20,MSW,8.5,T,9,2.35,Our Stormin Norman,"Lezcano, Jose","Casse, Mark",Blame,Stroll,SAR 2-7/23/16 5,,,2016-08-20 18:00:00,2016-08-20 18:01:50.500
+6,2016-08-20,MSW,8.5,T,10,29.0,Ruckus,"Cancel, Eric","Nicks, Ralph",Midnight Lute,Forestry,BEL 1-7/9/16 10,,,2016-08-20 18:00:00,2016-08-20 18:01:50.500
+7,2016-08-20,MSW,6.0,D,1,3.95,Favorable Outcome,"Castellano, Javier","Brown, Chad",Flatter,Eltish,,,,2016-08-20 19:00:00,2016-08-20 19:01:18.000
+7,2016-08-20,MSW,6.0,D,2,9.5,Condo Prince,"Arroyo, Angel","Rodriguez, Rudy",Paddy O'Prado,General Meeting,BEL 1-7/9/16 2,,,2016-08-20 19:00:00,2016-08-20 19:01:18.000
+7,2016-08-20,MSW,6.0,D,3,6.2,Emperor John,"Velazquez, John","Pletcher, Todd",Curlin,Eurosilver,MTH 3-7/9/16 2,,,2016-08-20 19:00:00,2016-08-20 19:01:18.000
+7,2016-08-20,MSW,6.0,D,4,29.75,Dilettante,"Saez, Luis","Lukas, D. Wayne",Unbridled's Song,Distorted Humor,SAR 6-8/6/16 6,,,2016-08-20 19:00:00,2016-08-20 19:01:18.000
+7,2016-08-20,MSW,6.0,D,5,1.4,Seven Forty Seven,"Rosario, Joel","Mason, Ingrid",Tiz Wonderful,Northern Afleet,,,,2016-08-20 19:00:00,2016-08-20 19:01:18.000
+7,2016-08-20,MSW,6.0,D,6,10.4,Nerinx,"Santana, Ricardo","Ward, Wesley",Scat Daddy,Syncline,BEL 1-7/9/16 9,,,2016-08-20 19:00:00,2016-08-20 19:01:18.000
+7,2016-08-20,MSW,6.0,D,7,7.4,Teletap,"Ortiz, Irad","Asmussen, Steven",Tapit,Wild Again,,,1/2 to Pyro and Longview Drive,2016-08-20 19:00:00,2016-08-20 19:01:18.000
+7,2016-08-20,MSW,6.0,D,8,47.25,Prosperity Mo,"Cancel, Eric","Mejia, Jaime",Uncle Mo,Top Account,,,,2016-08-20 19:00:00,2016-08-20 19:01:18.000
+7,2016-08-20,MSW,6.0,D,9,14.9,Magnolia Mountain,"Ortiz, Jose","Preciado, Guadalupe",Quality Road,French Deputy,PRX 2-7/24/16 2,,,2016-08-20 19:00:00,2016-08-20 19:01:18.000
+7,2016-08-20,MSW,6.0,D,10,38.75,Goatzingis,"Bridgmohan, Shaun","Ronen, Assaf",Bellamy Road,Distorted Humor,,,,2016-08-20 19:00:00,2016-08-20 19:01:18.000
+2,2016-08-21,MSW-F,8.5,T,1,2.75,Price too High,"Ortiz, Irad","Ward, Wesley",Scat Daddy,Smart Strike,SAR 2-7/24/16 3,,,2016-08-21 14:00:00,2016-08-21 14:01:50.500
+2,2016-08-21,MSW-F,8.5,T,2,6.6,Defrock,"Alvarado, Junior","Mott, William",Blame,Pulpit,SAR 7-7/31/16 7,,,2016-08-21 14:00:00,2016-08-21 14:01:50.500
+2,2016-08-21,MSW-F,8.5,T,3,1.95,Wake Island,"Castellano, Javier","Brown, Chad",War Front,Unbridled's Song,,,,2016-08-21 14:00:00,2016-08-21 14:01:50.500
+2,2016-08-21,MSW-F,8.5,T,4,6.3,Jetsam Six,"Ortiz, Jose","Rice, Linda",Archarcharch,Crafty Prospector,DEL 6-7/16/16 2,,,2016-08-21 14:00:00,2016-08-21 14:01:50.500
+2,2016-08-21,MSW-F,8.5,T,5,7.4,Thunderon the Nile,"Saez, Luis","Cox, Brad",Pioneerof the Nile,Thunder Gulch,,,,2016-08-21 14:00:00,2016-08-21 14:01:50.500
+2,2016-08-21,MSW-F,8.5,T,6,9.5,Dumtadumtadum,"Rosario, Joel","Dickinson, Michael",Mineshaft,Orientate,,,,2016-08-21 14:00:00,2016-08-21 14:01:50.500
+2,2016-08-21,MSW-F,8.5,T,7,34.25,Via Frattina,"Franco, Manuel","Morley, Thomas",Street Cry (IRE),Dynaformer,,,,2016-08-21 14:00:00,2016-08-21 14:01:50.500
+2,2016-08-21,MSW-F,8.5,T,8,26.25,La Manta Gris,"Santana, Ricardo","Arnold, George",Lemon Drop Kid,Lasting Approval,,,,2016-08-21 14:00:00,2016-08-21 14:01:50.500
+2,2016-08-21,MSW-F,8.5,T,9,54.5,Forres Lily,"Carmouche, Kendrick","Jolley, LeRoy",Drosselmeyer,Will's Way,SAR 2-7/24/16 10,,,2016-08-21 14:00:00,2016-08-21 14:01:50.500
+2,2016-08-21,MSW-F,8.5,T,10,37.5,Promise Me Tiz,"Arroyo, Angel","Persaud, Randi",Interactif,Tiznow,SAR 3-8/4/16 2,,,2016-08-21 14:00:00,2016-08-21 14:01:50.500
+7,2016-08-21,MSW-F,6.0,D,1,4.9,Vertical Oak,"Santana, Ricardo","Asmussen, Steven",Giant Oak,Pollard's Vision,SAR 5-7/27/16 4,,,2016-08-21 19:00:00,2016-08-21 19:01:18.000
+7,2016-08-21,MSW-F,6.0,D,2,3.45,Tazkeya,"Cancel, Eric","Pino, Michael",Blame,Tabasco Cat,,,,2016-08-21 19:00:00,2016-08-21 19:01:18.000
+7,2016-08-21,MSW-F,6.0,D,3,11.6,Gloaming,"Ortiz, Jose","McGaughey, Claude",Malibu Moon,Known Cat,,,,2016-08-21 19:00:00,2016-08-21 19:01:18.000
+7,2016-08-21,MSW-F,6.0,D,4,7.9,Culpa Mia,"Alvarado, Junior","Mott, William",Street Boss,Broad Brush,,,,2016-08-21 19:00:00,2016-08-21 19:01:18.000
+7,2016-08-21,MSW-F,6.0,D,5,7.7,Iridium,"Castellano, Javier","Rodriguez, Rudy",Flower Alley,Mineshaft,,,,2016-08-21 19:00:00,2016-08-21 19:01:18.000
+7,2016-08-21,MSW-F,6.0,D,6,2.0,Okinawa,"Ortiz, Irad","Brown, Chad",The Factor,Allen's Prospect,,,,2016-08-21 19:00:00,2016-08-21 19:01:18.000
+7,2016-08-21,MSW-F,6.0,D,7,16.8,Ransom Kitty,"Rosario, Joel","Nevin, Michelle",Regal Ransom,Vindication,,,,2016-08-21 19:00:00,2016-08-21 19:01:18.000
+7,2016-08-21,MSW-F,6.0,D,8,18.9,Legallini,"Carmouche, Kendrick","Sharp, Joe",Hard Spun,Vindication,,,,2016-08-21 19:00:00,2016-08-21 19:01:18.000
+7,2016-08-21,MSW-F,6.0,D,9,30.25,Dio Perdona,"Franco, Manuel","Reynolds, Patrick",Shackleford,Phone Trick,,,,2016-08-21 19:00:00,2016-08-21 19:01:18.000
+7,2016-08-21,MSW-F,6.0,D,10,40.5,Miss O'Hara,"Saez, Luis","Arnold, George",Colonel John,Storm Boot,,,,2016-08-21 19:00:00,2016-08-21 19:01:18.000
+11,2016-08-21,MSW-NY,5.5,D,1,8.5,Le Grand Warrior,"Ortiz, Jose","Morley, Thomas",Majestic Warrior,Roaring Fever,SAR 5-7/28/16 9,,,2016-08-21 23:00:00,2016-08-21 23:01:11.500
+11,2016-08-21,MSW-NY,5.5,D,2,2.5,Fled,"Castellano, Javier","Lynch, Brian",Flatter,More Than Ready,,,,2016-08-21 23:00:00,2016-08-21 23:01:11.500
+11,2016-08-21,MSW-NY,5.5,D,3,5.4,Horoscope,"Rosario, Joel","Cannizzo, David",Astrology,Successful Appeal,,,,2016-08-21 23:00:00,2016-08-21 23:01:11.500
+11,2016-08-21,MSW-NY,5.5,D,4,5.3,Bookew Bucks,"Velazquez, John","Weaver, George",Bluegrass Cat,Dixieland Band,BEL 4-7/10/16 9,,,2016-08-21 23:00:00,2016-08-21 23:01:11.500
+11,2016-08-21,MSW-NY,5.5,D,5,9.5,Garey Park,"Alvarado, Junior","Hennig, Mark",Trappe Shot,Speightstown,,,,2016-08-21 23:00:00,2016-08-21 23:01:11.500
+11,2016-08-21,MSW-NY,5.5,D,6,5.8,Smarty's Pal,"Franco, Manuel","Englehart, Jeremiah",Smart Strike,Alex's Pal,,,,2016-08-21 23:00:00,2016-08-21 23:01:11.500
+11,2016-08-21,MSW-NY,5.5,D,7,12.6,Appealing Henry,"Arroyo, Angel","Gullo, Gary",Successful Appeal,Gold Tribute,,,,2016-08-21 23:00:00,2016-08-21 23:01:11.500
+11,2016-08-21,MSW-NY,5.5,D,8,16.4,Shadow of a Doubt,"Torres, Jomar","Serpe, Philip",Noonmark,Storm Cat,,,,2016-08-21 23:00:00,2016-08-21 23:01:11.500
+11,2016-08-21,MSW-NY,5.5,D,9,38.0,Flat Out Licked Em,"Davis, Dylan","McPeek, Kenny",Flatter,Silver Deputy,,,,2016-08-21 23:00:00,2016-08-21 23:01:11.500
+11,2016-08-21,MSW-NY,5.5,D,10,9.9,See Me Coming,"Saez, Luis","Maker, Michael",War Chant,Woodman,,,,2016-08-21 23:00:00,2016-08-21 23:01:11.500
+5,2016-08-24,MSW-F-NY,5.5,D,1,1.8,Ingrid,"DeCarlo, Chris","Hushion, Michael",Gemologist,Forest Wildcat,,,,2016-08-24 17:00:00,2016-08-24 17:01:11.500
+5,2016-08-24,MSW-F-NY,5.5,D,2,23.5,She's My Ghibli,"Santana, Ricardo","Gullo, Gary",Courageous Cat,Scarlet Ibis,,,,2016-08-24 17:00:00,2016-08-24 17:01:11.500
+5,2016-08-24,MSW-F-NY,5.5,D,3,3.15,Tainted Angel,"Saez, Luis","Adsit, Abigail",Yes It's True,Smoke Glacken,SAR 6-8/4/16 2,,,2016-08-24 17:00:00,2016-08-24 17:01:11.500
+5,2016-08-24,MSW-F-NY,5.5,D,4,5.8,No Lunks,"Ortiz, Jose","Pletcher, Todd",Mission Impazible,Smarty Jones,,,,2016-08-24 17:00:00,2016-08-24 17:01:11.500
+5,2016-08-24,MSW-F-NY,5.5,D,5,3.2,Dr. Stone,"Velazquez, John","Levine, Bruce",Bustin Stones,Successful Appeal,,,,2016-08-24 17:00:00,2016-08-24 17:01:11.500
+5,2016-08-24,MSW-F-NY,5.5,D,6,6.3,Out of Trouble,"Carmouche, Kendrick","McLaughlin, Kiaran",Into Mischief,Came Home,,,,2016-08-24 17:00:00,2016-08-24 17:01:11.500
+5,2016-08-24,MSW-F-NY,5.5,D,7,28.0,Sisella,"Juarez, Nik","McMahon, Hugh",Boys at Tosconova,Golden Missile,,,,2016-08-24 17:00:00,2016-08-24 17:01:11.500
+6,2016-08-24,MSW,5.5,T,1,12.3,Hembree,"Rosario, Joel","Sharp, Joe",Proud Citizen,Langfuhr,,,,2016-08-24 18:00:00,2016-08-24 18:01:11.500
+6,2016-08-24,MSW,5.5,T,2,11.4,Toshiro,"Carmouche, Kendrick","Motion, Graham",First Samurai,Monarchos,,,,2016-08-24 18:00:00,2016-08-24 18:01:11.500
+6,2016-08-24,MSW,5.5,T,3,3.6,Mongo Nation,"Bravo, Joe","Fawkes, David",Speightstown,Lear Fan,,,,2016-08-24 18:00:00,2016-08-24 18:01:11.500
+6,2016-08-24,MSW,5.5,T,4,3.75,Shareholder Value,"Santana, Ricardo","Amoss, Thomas",Uncle Mo,Unbridled's Song,,,,2016-08-24 18:00:00,2016-08-24 18:01:11.500
+6,2016-08-24,MSW,5.5,T,5,6.9,Millenial,"Ortiz, Irad","Lukas, D. Wayne",Speightstown,A.P. Indy,SAR 2-8/6/16 9,,,2016-08-24 18:00:00,2016-08-24 18:01:11.500
+6,2016-08-24,MSW,5.5,T,6,2.2,Let's Get Loud,"Velazquez, John","Ward, Wesley",More Than Ready,Street Cry (IRE),,,,2016-08-24 18:00:00,2016-08-24 18:01:11.500
+6,2016-08-24,MSW,5.5,T,7,14.6,Grandview,"Franco, Manuel","Esler, Nicholas",Mizzen Mast,Grand Reward,SAR 1-7/30/16 8,,,2016-08-24 18:00:00,2016-08-24 18:01:11.500
+6,2016-08-24,MSW,5.5,T,8,7.9,Cowboy Affair,"Saez, Luis","Wismer, Troy",With Distinction,Forest Camp,,,,2016-08-24 18:00:00,2016-08-24 18:01:11.500
+3,2016-08-25,MSW-F-NY,5.5,T,1,7.0,Lem Me Dance,"Ortiz, Irad","Levine, Bruce",Freud,Woodman,,,,2016-08-25 15:00:00,2016-08-25 15:01:11.500
+3,2016-08-25,MSW-F-NY,5.5,T,2,4.9,Discreet Image,"Lezcano, Jose","Ryerson, James",Discreet Cat,Marquetry,,,,2016-08-25 15:00:00,2016-08-25 15:01:11.500
+3,2016-08-25,MSW-F-NY,5.5,T,3,11.5,Beautiful Nite Sky,"Carmouche, Kendrick","Trombetta, Michael",Astrology,Silver Deputy,,,,2016-08-25 15:00:00,2016-08-25 15:01:11.500
+3,2016-08-25,MSW-F-NY,5.5,T,4,2.65,Paz the Wine,"Ortiz, Jose","Motion, Graham",Mission Impazible,Elusive Quality,,,,2016-08-25 15:00:00,2016-08-25 15:01:11.500
+3,2016-08-25,MSW-F-NY,5.5,T,5,16.2,Mazmania,"Franco, Manuel","Sciacca, Gary",Langfuhr,Deputy Commander,,,,2016-08-25 15:00:00,2016-08-25 15:01:11.500
+3,2016-08-25,MSW-F-NY,5.5,T,6,3.85,Unspoken Mission,"Rosario, Joel","Nicks, Ralph",Mission Impazible,Catienus,,,,2016-08-25 15:00:00,2016-08-25 15:01:11.500
+3,2016-08-25,MSW-F-NY,5.5,T,7,8.4,Majestic Tango,"Cancel, Eric","Englehart, Jeremiah",Majestic Warrior,Storm Boot,SAR 2-7/31/16 5,,,2016-08-25 15:00:00,2016-08-25 15:01:11.500
+3,2016-08-25,MSW-F-NY,5.5,T,8,35.5,Little Chiseler,"Davis, Jacqueline","Sciacca, Gary",Freud,Unbridled's Song,SAR 6-8/10/16 8,,,2016-08-25 15:00:00,2016-08-25 15:01:11.500
+3,2016-08-25,MSW-F-NY,5.5,T,9,10.6,Tizzy Fit,"Geroux, Florent","Sharp, Joe",Tizway,Tale of the Cat,BEL 2-7/3/16 6,,,2016-08-25 15:00:00,2016-08-25 15:01:11.500
+3,2016-08-25,MSW-F-NY,5.5,T,10,14.5,Unbridledadventure,"Saez, Luis","Serpe, Philip",Courageous Cat,Unbridled's Song,,,,2016-08-25 15:00:00,2016-08-25 15:01:11.500
+1,2016-08-26,STK-NY,6.5,D,1,0.7,Syndergaard,"Velazquez, John","Pletcher, Todd",Majesticperfection,Gold Case,SAR 6-8/8/16 1,,,2016-08-26 13:00:00,2016-08-26 13:01:24.500
+1,2016-08-26,STK-NY,6.5,D,2,1.25,Bobby on Fleek,"Ortiz, Irad","Brown, Chad",Frost Giant,Out of Place,BEL 1-7/9/16 1,,,2016-08-26 13:00:00,2016-08-26 13:01:24.500
+1,2016-08-26,STK-NY,6.5,D,3,7.4,Gold for the King,"Ortiz, Jose","Baker, Charlton",Posse,Gold Token,SAR 2-8/8/16 1,,,2016-08-26 13:00:00,2016-08-26 13:01:24.500
+1,2016-08-26,STK-NY,6.5,D,4,18.6,Tribecca,"Carmouche, Kendrick","Sciacca, Gary",Bustin Stones,Heckle,BEL 4-7/10/16 1,,,2016-08-26 13:00:00,2016-08-26 13:01:24.500
+2,2016-08-26,MSW-F-NY,7.0,D,1,2.55,About that Base,"Velazquez, John","Pletcher, Todd",Bellamy Road,American Chance,SAR 6-8/4/16 5,,,2016-08-26 14:00:00,2016-08-26 14:01:31.000
+2,2016-08-26,MSW-F-NY,7.0,D,2,17.8,Toni Tools,"Alvarado, Junior","Schettino, Dominick",Roaring Fever,Smart Strike,BEL 2-7/3/16 10,,,2016-08-26 14:00:00,2016-08-26 14:01:31.000
+2,2016-08-26,MSW-F-NY,7.0,D,3,3.05,Filly Madison,"Ortiz, Jose","McPeek, Kenny",Not for Love,Langfuhr,SAR 2-7/31/16 2,,,2016-08-26 14:00:00,2016-08-26 14:01:31.000
+2,2016-08-26,MSW-F-NY,7.0,D,4,21.0,Courtly Kitty,"Cancel, Eric","Donk, David",Court Vision,Forest Wildcat,SAR 2-7/31/16 7,,,2016-08-26 14:00:00,2016-08-26 14:01:31.000
+2,2016-08-26,MSW-F-NY,7.0,D,5,26.75,Empty House,"Geroux, Florent","Hennig, Mark",Tizway,Lion Heart,,,,2016-08-26 14:00:00,2016-08-26 14:01:31.000
+2,2016-08-26,MSW-F-NY,7.0,D,6,19.8,Missy's Storm,"Lezcano, Jose","Donk, David",Freud,Flower Alley,BEL 2-7/3/16 9,,,2016-08-26 14:00:00,2016-08-26 14:01:31.000
+2,2016-08-26,MSW-F-NY,7.0,D,7,2.35,Super Mama,"Ortiz, Irad","Brown, Chad",Elusive Quality,Giant's Causeway,,,,2016-08-26 14:00:00,2016-08-26 14:01:31.000
+2,2016-08-26,MSW-F-NY,7.0,D,8,7.4,Betterthanadequate,"Franco, Manuel","Morley, Thomas",Candy Ride (ARG),Gilded Time,,,,2016-08-26 14:00:00,2016-08-26 14:01:31.000
+2,2016-08-26,MSW-F-NY,7.0,D,9,13.4,Forever Poppi,"Carmouche, Kendrick","Sharp, Joe",Paddy O'Prado,Green Desert,SAR 2-7/31/16 4,,,2016-08-26 14:00:00,2016-08-26 14:01:31.000
+6,2016-08-26,MSW-NY,7.0,D,1,4.0,Lucky Lou Pal,"Saez, Luis","Englehart, Chris",Frost Giant,Cryptoclearance,SAR 2-7/23/16 4,,,2016-08-26 18:00:00,2016-08-26 18:01:31.000
+6,2016-08-26,MSW-NY,7.0,D,2,11.1,Giant Rocks,"Carmouche, Kendrick","Maker, Michael",Frost Giant,The Cliff's Edge,SAR 5-7/28/16 5,,,2016-08-26 18:00:00,2016-08-26 18:01:31.000
+6,2016-08-26,MSW-NY,7.0,D,3,1.5,Follow the Signs,"Ortiz, Irad","Schettino, Dominick",Colonel John,Freud,SAR 2-8/8/16 5,,,2016-08-26 18:00:00,2016-08-26 18:01:31.000
+6,2016-08-26,MSW-NY,7.0,D,4,3.5,Twisted Tom,"Rosario, Joel","Weaver, George",Creative Cause,Thunder Gulch,,,,2016-08-26 18:00:00,2016-08-26 18:01:31.000
+6,2016-08-26,MSW-NY,7.0,D,5,7.9,The Great Samurai,"Velazquez, John","Donk, David",First Samurai,Distorted Humor,SAR 1-8/6/16 10,,,2016-08-26 18:00:00,2016-08-26 18:01:31.000
+6,2016-08-26,MSW-NY,7.0,D,6,49.0,Concatulations,"Santana, Ricardo","Contessa, Gary",Congrats,Bluegrass Cat,SAR 2-8/13/16 9,,,2016-08-26 18:00:00,2016-08-26 18:01:31.000
+6,2016-08-26,MSW-NY,7.0,D,7,23.3,Say It Aint Frosty,"Franco, Manuel","Tagg, Barclay",Frost Giant,Is It True,,,,2016-08-26 18:00:00,2016-08-26 18:01:31.000
+6,2016-08-26,MSW-NY,7.0,D,8,17.3,Right Ben,"Geroux, Florent","Hennig, Mark",Here Comes Ben,Mazel Trick,BEL 1-7/4/16 6,,,2016-08-26 18:00:00,2016-08-26 18:01:31.000
+6,2016-08-26,MSW-NY,7.0,D,9,27.0,Dublin My Money,"Cancel, Eric","Maker, Michael",Dublin,Caller I.D.,,,,2016-08-26 18:00:00,2016-08-26 18:01:31.000
+6,2016-08-26,MSW-NY,7.0,D,10,37.5,Scatoga,"Davis, Dylan","Goodwin, Gabriel",Scat Daddy,Phone Trick,,,,2016-08-26 18:00:00,2016-08-26 18:01:31.000
+7,2016-08-26,STK-F-NY,6.5,D,1,3.3,Iron Mizz,"Velazquez, John","Pletcher, Todd",Mizzen Mast,More Than Ready,MTH 10-8/6/16 2,,,2016-08-26 19:00:00,2016-08-26 19:01:24.500
+7,2016-08-26,STK-F-NY,6.5,D,2,8.4,Code Red,"Davis, Dylan","Hushion, Michael",Friend or Foe,Put It Back,BEL 4-7/8/16 1,,,2016-08-26 19:00:00,2016-08-26 19:01:24.500
+7,2016-08-26,STK-F-NY,6.5,D,3,2.45,Tiznow's Smile,"Santana, Ricardo","Baker, Charlton",Tiznow,Dixie Brass,SAR 6-8/4/16 4,,,2016-08-26 19:00:00,2016-08-26 19:01:24.500
+7,2016-08-26,STK-F-NY,6.5,D,4,2.55,Twist 'n Shout,"Ortiz, Irad","Weaver, George",Drosselmeyer,Wheelaway,SAR 2-7/31/16 1,,,2016-08-26 19:00:00,2016-08-26 19:01:24.500
+7,2016-08-26,STK-F-NY,6.5,D,5,5.6,Passporttovictory,"Castellano, Javier","Morley, Thomas",Frost Giant,Not For Love,SAR 6-8/4/16 1,,,2016-08-26 19:00:00,2016-08-26 19:01:24.500
+7,2016-08-26,STK-F-NY,6.5,D,6,42.5,Bliss to You,"Cancel, Eric","Cash, Russell",Freud,Candy Stripes,SAR 2-7/22/16 1,,,2016-08-26 19:00:00,2016-08-26 19:01:24.500
+7,2016-08-26,STK-F-NY,6.5,D,7,8.0,Wilburnmoney,"Saez, Luis","Gullo, Gary",Wilburn,Yes It's True,BEL 9-7/17/16 2,,,2016-08-26 19:00:00,2016-08-26 19:01:24.500
+1,2016-08-27,MSW,6.0,D,1,2.65,Reckling,"Santana, Ricardo","Asmussen, Steven",Dialed In,Distorted Humor,SAR 3-7/30/16 2,,,2016-08-27 13:00:00,2016-08-27 13:01:18.000
+1,2016-08-27,MSW,6.0,D,2,3.5,Mo Town,"Castellano, Javier","Dutrow, Anthony",Uncle Mo,Bernardini,,,,2016-08-27 13:00:00,2016-08-27 13:01:18.000
+1,2016-08-27,MSW,6.0,D,3,14.8,Souper Catch,"Geroux, Florent","Casse, Mark",Bernardini,Street Cry (IRE),,,,2016-08-27 13:00:00,2016-08-27 13:01:18.000
+1,2016-08-27,MSW,6.0,D,4,4.0,Your Secret's Safe,"Ortiz, Irad","Brown, Chad",Tapizar,Thunder Gulch,,,,2016-08-27 13:00:00,2016-08-27 13:01:18.000
+1,2016-08-27,MSW,6.0,D,5,29.0,Capitaine,"Alvarado, Junior","Hennig, Mark",Tapit,Distorted Humor,,,,2016-08-27 13:00:00,2016-08-27 13:01:18.000
+1,2016-08-27,MSW,6.0,D,6,3.5,Monaco,"Velazquez, John","Pletcher, Todd",Uncle Mo,Sky Classic,,,,2016-08-27 13:00:00,2016-08-27 13:01:18.000
+1,2016-08-27,MSW,6.0,D,7,25.0,Hence,"Franco, Manuel","Asmussen, Steven",Street Boss,A.P. Indy,,,,2016-08-27 13:00:00,2016-08-27 13:01:18.000
+1,2016-08-27,MSW,6.0,D,8,14.1,Strident,"Ortiz, Jose","McGaughey, Claude",Street Cry (IRE),Storm Cat,,,,2016-08-27 13:00:00,2016-08-27 13:01:18.000
+1,2016-08-27,MSW,6.0,D,9,16.9,Kid Perfect,"Davis, Dylan","McPeek, Kenny",Majesticperfection,Lemon Drop Kid,SAR 1-8/6/16 5,,,2016-08-27 13:00:00,2016-08-27 13:01:18.000
+1,2016-08-27,MSW,6.0,D,10,46.25,Factor of War,"Saez, Luis","Lukas, D. Wayne",The Factor,Zafonic,SAR 3-7/30/16 7,,,2016-08-27 13:00:00,2016-08-27 13:01:18.000
+6,2016-08-28,MSW,8.5,T,1,30.5,It's Your Nickel,"Davis, Dylan","McPeek, Kenny",Dialed In,Quiet American,BEL 1-7/9/16 6,,,2016-08-28 18:00:00,2016-08-28 18:01:50.500
+6,2016-08-28,MSW,8.5,T,2,0.95,Oiseau de Guerre,"Ortiz, Irad","Brown, Chad",War Front,Arch,,,,2016-08-28 18:00:00,2016-08-28 18:01:50.500
+6,2016-08-28,MSW,8.5,T,3,7.3,Soglio,"Ortiz, Jose","Motion, Graham",Scat Daddy,Seattle Slew,,,,2016-08-28 18:00:00,2016-08-28 18:01:50.500
+6,2016-08-28,MSW,8.5,T,4,4.6,Master Plan,"Velazquez, John","Pletcher, Todd",Twirling Candy,Henny Hughes,,,,2016-08-28 18:00:00,2016-08-28 18:01:50.500
+6,2016-08-28,MSW,8.5,T,5,10.2,Shamsaan,"Saez, Luis","McLaughlin, Kiaran",Bernardini,Dynaformer,,,,2016-08-28 18:00:00,2016-08-28 18:01:50.500
+6,2016-08-28,MSW,8.5,T,6,33.25,Sahara Storm,"Bridgmohan, Shaun","Desormeaux, Keith",Get Stormy,Desert Secret (IRE),SAR 2-7/23/16 10,,,2016-08-28 18:00:00,2016-08-28 18:01:50.500
+6,2016-08-28,MSW,8.5,T,7,6.5,Danny's Rush,"Alvarado, Junior","Mott, William",U S Ranger,Halo,SAR 5-7/29/16 6,,,2016-08-28 18:00:00,2016-08-28 18:01:50.500
+6,2016-08-28,MSW,8.5,T,8,27.5,Have Another,"Franco, Manuel","Donk, David",Stay Thirsty,Speightstown,,,,2016-08-28 18:00:00,2016-08-28 18:01:50.500
+6,2016-08-28,MSW,8.5,T,9,30.0,Archival,"Cancel, Eric","Lukas, D. Wayne",Tiznow,Quiet American,,,,2016-08-28 18:00:00,2016-08-28 18:01:50.500
+6,2016-08-28,MSW,8.5,T,10,28.5,Put the Boss Back,"Lezcano, Jose","Ryerson, James",Put It Back,Holy Bull,SAR 3-7/30/16 10,,,2016-08-28 18:00:00,2016-08-28 18:01:50.500
+7,2016-08-28,MSW-F,6.0,D,1,5.7,Sky Gesture,"Ortiz, Jose","Violette, Rick",Tiznow,Grand Slam,,,,2016-08-28 19:00:00,2016-08-28 19:01:18.000
+7,2016-08-28,MSW-F,6.0,D,2,16.9,Cursor,"Alvarado, Junior","Hennig, Mark",Quality Road,Not For Love,,,,2016-08-28 19:00:00,2016-08-28 19:01:18.000
+7,2016-08-28,MSW-F,6.0,D,3,2.9,Really,"Ortiz, Irad","Brown, Chad",The Factor,Forestry,,,,2016-08-28 19:00:00,2016-08-28 19:01:18.000
+7,2016-08-28,MSW-F,6.0,D,4,16.9,Moonlightmidnight,"Carmouche, Kendrick","Stewart, Dallas",Wilburn,Sea Hero,,,,2016-08-28 19:00:00,2016-08-28 19:01:18.000
+7,2016-08-28,MSW-F,6.0,D,5,16.7,Phone Chick,"Lezcano, Jose","Correas, Ignacio",Dialed In,Dixie Union,,,,2016-08-28 19:00:00,2016-08-28 19:01:18.000
+7,2016-08-28,MSW-F,6.0,D,6,2.9,One Call Away,"Castellano, Javier","Dutrow, Anthony",Unbridled's Song,Silver Train,,,,2016-08-28 19:00:00,2016-08-28 19:01:18.000
+7,2016-08-28,MSW-F,6.0,D,7,4.0,Malibu Bonnie,"Velazquez, John","Pletcher, Todd",Malibu Moon,Street Sense,,,,2016-08-28 19:00:00,2016-08-28 19:01:18.000
+7,2016-08-28,MSW-F,6.0,D,8,7.3,Skylar's Pass,"Saez, Luis","Wismer, Troy",The Factor,Private Terms,,,,2016-08-28 19:00:00,2016-08-28 19:01:18.000
+7,2016-08-28,MSW-F,6.0,D,9,17.9,Simplylucky,"Franco, Manuel","Ryerson, James",Street Boss,Lucky North,,,,2016-08-28 19:00:00,2016-08-28 19:01:18.000
+11,2016-08-28,MSW-F,8.5,T,1,2.25,Dream Dancing,"Castellano, Javier","Casse, Mark",Tapit,Monarchos,SAR 10-8/7/16 2,,,2016-08-28 23:00:00,2016-08-28 23:01:50.500
+11,2016-08-28,MSW-F,8.5,T,2,6.2,Warrior Hall,"Velazquez, John","Clement, Christophe",War Front,Mr. Greeley,SAR 7-7/31/16 8,,,2016-08-28 23:00:00,2016-08-28 23:01:50.500
+11,2016-08-28,MSW-F,8.5,T,3,11.2,Chastise,"Franco, Manuel","Pletcher, Todd",Blame,Forest Wildcat,,,,2016-08-28 23:00:00,2016-08-28 23:01:50.500
+11,2016-08-28,MSW-F,8.5,T,4,27.5,Cleo,"DeCarlo, Chris","Mott, William",Pioneerof the Nile,A.P. Indy,SAR 5-7/27/16 10,,,2016-08-28 23:00:00,2016-08-28 23:01:50.500
+11,2016-08-28,MSW-F,8.5,T,5,14.1,Bigkat and Camille,"Santana, Ricardo","Schettino, Dominick",Arch,Sadler's Wells,SAR 5-7/27/16 7,,,2016-08-28 23:00:00,2016-08-28 23:01:50.500
+11,2016-08-28,MSW-F,8.5,T,6,19.6,Thirsty Madam,"Alvarado, Junior","Blusiewicz, Leon",Stay Thirsty,Kingmambo,,,,2016-08-28 23:00:00,2016-08-28 23:01:50.500
+11,2016-08-28,MSW-F,8.5,T,7,34.75,Joyful Holiday,"Bridgmohan, Shaun","Dilger, Michael",Harlan's Holiday,Empire Maker,,,,2016-08-28 23:00:00,2016-08-28 23:01:50.500
+11,2016-08-28,MSW-F,8.5,T,8,2.95,Merger Arbitrage,"Ortiz, Irad","Brown, Chad",More Than Ready,Dixie Union,,,,2016-08-28 23:00:00,2016-08-28 23:01:50.500
+11,2016-08-28,MSW-F,8.5,T,9,10.5,Brilliant Missy,"Saez, Luis","McLaughlin, Kiaran",Smart Strike,El Prado (IRE),,,,2016-08-28 23:00:00,2016-08-28 23:01:50.500
+11,2016-08-28,MSW-F,8.5,T,10,5.5,Lunation,"Ortiz, Jose","McGaughey, Claude",Malibu Moon,More Than Ready,BEL 1-7/2/16 7,,,2016-08-28 23:00:00,2016-08-28 23:01:50.500
+5,2016-08-29,MSW-NY,5.5,T,1,4.6,Awsum Roar,"Velazquez, John","Ward, Wesley",In Summation,Carson City,GP 5-7/3/16 3,,,2016-08-29 17:00:00,2016-08-29 17:01:11.500
+5,2016-08-29,MSW-NY,5.5,T,2,4.3,Preferred Outcome,"Geroux, Florent","Ferraro, Anthony",Bluegrass Cat,Crafty Prospector,SAR 5-7/29/16 3,,,2016-08-29 17:00:00,2016-08-29 17:01:11.500
+5,2016-08-29,MSW-NY,5.5,T,3,1.65,Speightful Kitten,"Ortiz, Jose","Rice, Linda",Kitten's Joy,Speightstown,SAR 5-7/29/16 5,,,2016-08-29 17:00:00,2016-08-29 17:01:11.500
+5,2016-08-29,MSW-NY,5.5,T,4,9.3,Shiraz,"Carmouche, Kendrick","Maker, Michael",Tale of the Cat,Alphabet Soup,,,,2016-08-29 17:00:00,2016-08-29 17:01:11.500
+5,2016-08-29,MSW-NY,5.5,T,5,5.4,Conquest Prankster,"Lezcano, Jose","Casse, Mark",Into Mischief,Wild Rush,BEL 1-5/11/16 3,,,2016-08-29 17:00:00,2016-08-29 17:01:11.500
+5,2016-08-29,MSW-NY,5.5,T,6,39.5,It Must Be Nice,"Luzzi, Michael","Brown, Bruce",Include,Maria's Mon,GP 8-7/30/16 8,,,2016-08-29 17:00:00,2016-08-29 17:01:11.500
+5,2016-08-29,MSW-NY,5.5,T,7,53.75,Rule Number One,"Franco, Manuel","Hills, Timothy",Rule,Not For Love,,,,2016-08-29 17:00:00,2016-08-29 17:01:11.500
+5,2016-08-29,MSW-NY,5.5,T,8,34.75,Tiz Wicked,"Davis, Dylan","Schosberg, Richard",Tizway,Will's Way,SAR 5-7/29/16 8,,,2016-08-29 17:00:00,2016-08-29 17:01:11.500
+5,2016-08-29,MSW-NY,5.5,T,9,20.9,Outrageous Bet,"Santana, Ricardo","Contessa, Gary",Courageous Cat,Alphabet Soup,,,,2016-08-29 17:00:00,2016-08-29 17:01:11.500
+5,2016-08-29,MSW-NY,5.5,T,10,11.3,Jewel Can Disco,"Ortiz, Irad","Gullo, Gary",Disco Rico,Jules,,,,2016-08-29 17:00:00,2016-08-29 17:01:11.500
+7,2016-08-29,MSW-NY,7.0,D,1,5.1,Pat on the Back,"Davis, Dylan","McPeek, Kenny",Congrats,Awesome Again,SAR 2-8/8/16 4,,,2016-08-29 19:00:00,2016-08-29 19:01:31.000
+7,2016-08-29,MSW-NY,7.0,D,2,3.05,Hamptons Holiday,"Ortiz, Irad","Rodriguez, Rudy",Harlan's Holiday,Street Cry (IRE),SAR 5-7/28/16 3,,,2016-08-29 19:00:00,2016-08-29 19:01:31.000
+7,2016-08-29,MSW-NY,7.0,D,3,9.8,Calcuated Risker,"Santana, Ricardo","Contessa, Gary",Into Mischief,Western Expression,,,,2016-08-29 19:00:00,2016-08-29 19:01:31.000
+7,2016-08-29,MSW-NY,7.0,D,4,2.65,Catch a Cab,"Geroux, Florent","Casse, Mark",Proud Citizen,Malibu Moon,SAR 5-7/29/16 4,,,2016-08-29 19:00:00,2016-08-29 19:01:31.000
+7,2016-08-29,MSW-NY,7.0,D,5,3.15,Clutch Cargo,"Ortiz, Jose","Hushion, Michael",Tapit,Wild Rush,,,,2016-08-29 19:00:00,2016-08-29 19:01:31.000
+7,2016-08-29,MSW-NY,7.0,D,6,12.8,Cespedes,"Castellano, Javier","Rodriguez, Rudy",Justenuffhumor,A.P. Jet,,,,2016-08-29 19:00:00,2016-08-29 19:01:31.000
+7,2016-08-29,MSW-NY,7.0,D,7,44.5,Callant,"Lezcano, Jose","Magnuson, Arthur",Frost Giant,Malibu Moon,,,,2016-08-29 19:00:00,2016-08-29 19:01:31.000
+7,2016-08-29,MSW-NY,7.0,D,8,38.75,Toga Tosconova,"Saez, Luis","Gyarmati, Leah",Boys at Tosconova,Gulch,,,,2016-08-29 19:00:00,2016-08-29 19:01:31.000
+7,2016-08-29,MSW-NY,7.0,D,9,20.4,Ides of Arch,"Velazquez, John","Gyarmati, Leah",Arch,Chester House,,,,2016-08-29 19:00:00,2016-08-29 19:01:31.000
+7,2016-08-29,MSW-NY,7.0,D,10,62.75,Crash Mountain,"Torres, Jomar","Contessa, Gary",Noonmark,Menifee,,,,2016-08-29 19:00:00,2016-08-29 19:01:31.000
+10,2016-08-29,MCL,6.0,D,1,6.6,Johnny Obvious,"Saez, Luis","Moquett, Ronald",Wildcat Heir,Lord Carson,SAR 6-7/23/16 8,,,2016-08-29 22:00:00,2016-08-29 22:01:18.000
+10,2016-08-29,MCL,6.0,D,2,8.4,Over Promised,"Davis, Dylan","Hushion, Michael",To Honor and Serve,Unbridled's Song,SAR 1-8/1/16 4,,,2016-08-29 22:00:00,2016-08-29 22:01:18.000
+10,2016-08-29,MCL,6.0,D,3,13.4,Discreet Encounter,"Lezcano, Jose","Kimmel, John",Girolamo,Discreet Cat,SAR 5-7/28/16 6,,,2016-08-29 22:00:00,2016-08-29 22:01:18.000
+10,2016-08-29,MCL,6.0,D,4,39.5,Outstanding Gio,"Carmouche, Kendrick","Ryerson, James",Gio Ponti,Hennessy,SAR 1-7/30/16 10,,,2016-08-29 22:00:00,2016-08-29 22:01:18.000
+10,2016-08-29,MCL,6.0,D,5,13.7,Albert Charles,"Geroux, Florent","Wilkes, Ian",Pioneerof the Nile,Dixie Union,SAR 6-7/23/16 10,,,2016-08-29 22:00:00,2016-08-29 22:01:18.000
+10,2016-08-29,MCL,6.0,D,6,11.9,Ecliptical Jack,"Franco, Manuel","Baker, Charlton",Cat Thief,Ecliptical,,,,2016-08-29 22:00:00,2016-08-29 22:01:18.000
+10,2016-08-29,MCL,6.0,D,7,8.1,Irish Marauder,"Cancel, Eric","Weaver, George",Dublin,Stephen Got Even,,,,2016-08-29 22:00:00,2016-08-29 22:01:18.000
+10,2016-08-29,MCL,6.0,D,8,1.05,Helluva Choice,"Ortiz, Irad","Asmussen, Steven",Wildcat Heir,Tactical Cat,SAR 1-8/1/16 2,,,2016-08-29 22:00:00,2016-08-29 22:01:18.000
+10,2016-08-29,MCL,6.0,D,9,11.0,Blue Xanadu,"Ortiz, Jose","Guillot, Eric",Shackleford,Maria's Mon,,,,2016-08-29 22:00:00,2016-08-29 22:01:18.000
+10,2016-08-29,MCL,6.0,D,10,20.8,Tiz Always His Way,"Santana, Ricardo","Schettino, Dominick",Tizway,Pancho Villa,SAR 1-8/1/16 5,,,2016-08-29 22:00:00,2016-08-29 22:01:18.000
+9,2016-08-31,GRD-F,8.5,T,1,1.65,Made You Look,"Castellano, Javier","Pletcher, Todd",More Than Ready,Unbridled's Song,BEL 2-6/18/16 1,,,2016-08-31 21:00:00,2016-08-31 21:01:50.500
+9,2016-08-31,GRD-F,8.5,T,2,1.9,Keep Quiet (FR),"Geroux, Florent","Casse, Mark",Elusive City,Sillery,SAR 1-8/6/16 1,,,2016-08-31 21:00:00,2016-08-31 21:01:50.500
+9,2016-08-31,GRD-F,8.5,T,3,16.1,Bird's Eye View,"Ortiz, Irad","Dini, Michael",Mizzen Mast,Smarty Jones,MTH 5-8/20/16 1,,,2016-08-31 21:00:00,2016-08-31 21:01:50.500
+9,2016-08-31,GRD-F,8.5,T,4,27.5,Monsoon K S A,"Arroyo, Angel","Lynch, Cathal",Candy Ride (ARG),Stormy Atlantic,DEL 5-8/6/16 1,,,2016-08-31 21:00:00,2016-08-31 21:01:50.500
+9,2016-08-31,GRD-F,8.5,T,5,4.9,My Bo Chop (FR),"Bravo, Joe","Delacour, Arnaud",Myboycharlie (IRE),Precise End,VHY 8/6/16 4,,,2016-08-31 21:00:00,2016-08-31 21:01:50.500
+9,2016-08-31,GRD-F,8.5,T,6,11.2,Tell the Truth,"Ortiz, Jose","Motion, Graham",Tizway,Quiet American,DEL 8-7/20/16 1,,,2016-08-31 21:00:00,2016-08-31 21:01:50.500
+9,2016-08-31,GRD-F,8.5,T,7,7.9,Ardmore Bay,"Franco, Manuel","Morley, Thomas",Bluegrass Cat,Candy Ride (ARG),MTH 9-8/7/16 1,,,2016-08-31 21:00:00,2016-08-31 21:01:50.500
+9,2016-08-31,GRD-F,8.5,T,8,48.5,Gemologister,"Cancel, Eric","Mejia, Jaime",Gemologist,Rahy,SAR 3-8/19/16 4,,,2016-08-31 21:00:00,2016-08-31 21:01:50.500
+10,2016-08-31,MCL-F,6.0,D,1,12.0,Arella Rockstar,"Franco, Manuel","Nicks, Ralph",Astrology,Old Fashioned,,,,2016-08-31 22:00:00,2016-08-31 22:01:18.000
+10,2016-08-31,MCL-F,6.0,D,2,5.6,Honor Way,"Velazquez, John","Pletcher, Todd",Caleb's Posse,Yes It's True,,,,2016-08-31 22:00:00,2016-08-31 22:01:18.000
+10,2016-08-31,MCL-F,6.0,D,3,8.8,Banty's Girl,"Davis, Dylan","Albertrani, Thomas",Shackleford,Mass Media,SAR 3-8/4/16 5,,,2016-08-31 22:00:00,2016-08-31 22:01:18.000
+10,2016-08-31,MCL-F,6.0,D,4,5.3,Loose,"DeCarlo, Chris","Schosberg, Richard",Gone Astray,Meadowlake,,,,2016-08-31 22:00:00,2016-08-31 22:01:18.000
+10,2016-08-31,MCL-F,6.0,D,5,10.5,Hexameter,"Ortiz, Irad","Nevin, Michelle",Northern Afleet,Quick Dip,,,,2016-08-31 22:00:00,2016-08-31 22:01:18.000
+10,2016-08-31,MCL-F,6.0,D,6,1.4,Jax,"Ortiz, Jose","Brown, Chad",City Zip,Honour and Glory,GP 7-6/26/16 3,,,2016-08-31 22:00:00,2016-08-31 22:01:18.000
+10,2016-08-31,MCL-F,6.0,D,7,30.5,Enticing Evening,"Santana, Ricardo","Contessa, Gary",Hansen,Service Stripe,SAR 5-8/15/16 7,,,2016-08-31 22:00:00,2016-08-31 22:01:18.000
+10,2016-08-31,MCL-F,6.0,D,8,26.5,Forres Lily,"Geroux, Florent","Jolley, LeRoy",Drosselmeyer,Will's Way,SAR 2-8/21/16 9,,,2016-08-31 22:00:00,2016-08-31 22:01:18.000
+10,2016-08-31,MCL-F,6.0,D,9,45.5,Boa Sorte,"Luzzi, Lane","Schettino, Dominick",Backtalk,Street Hero,,,,2016-08-31 22:00:00,2016-08-31 22:01:18.000
+10,2016-08-31,MCL-F,6.0,D,10,7.4,Late Night Kiss,"Castellano, Javier","Contessa, Gary",Midnight Lute,Mt. Livermore,,,,2016-08-31 22:00:00,2016-08-31 22:01:18.000
+9,2016-09-01,STK-F,8.5,T,1,0.7,Coasted,"Lezcano, Jose","Gyarmati, Leah",Tizway,Malibu Moon,SAR 10-8/7/16 1,,,2016-09-01 21:00:00,2016-09-01 21:01:50.500
+9,2016-09-01,STK-F,8.5,T,2,17.1,Noble Ready,"Ortiz, Irad","Clement, Christophe",More Than Ready,Kris S.,DEL 6-7/16/16 1,,,2016-09-01 21:00:00,2016-09-01 21:01:50.500
+9,2016-09-01,STK-F,8.5,T,3,5.6,Majestic Bonnie,"Franco, Manuel","Weaver, George",Majestic Warrior,Point Given,SAR 2-7/24/16 1,,,2016-09-01 21:00:00,2016-09-01 21:01:50.500
+9,2016-09-01,STK-F,8.5,T,4,8.0,Naifah (IRE),"Ortiz, Jose","Motion, Graham",Kodiac (GB),Dubai Destination,DON 7/14/16 2,,,2016-09-01 21:00:00,2016-09-01 21:01:50.500
+9,2016-09-01,STK-F,8.5,T,5,4.9,Bahama Halo,"Castellano, Javier","Pletcher, Todd",More Than Ready,Empire Maker,BEL 1-6/22/16 1,,,2016-09-01 21:00:00,2016-09-01 21:01:50.500
+9,2016-09-01,STK-F,8.5,T,6,11.2,Lady Joan,"Saez, Luis","Serpe, Philip",Courageous Cat,Powerscourt (GB),SAR 4-7/25/16 1,,,2016-09-01 21:00:00,2016-09-01 21:01:50.500
+9,2016-09-01,STK-F,8.5,T,7,19.3,Mo Promise,"Geroux, Florent","Contessa, Gary",Uncle Mo,Century City (IRE),SAR 4-7/25/16 2,,,2016-09-01 21:00:00,2016-09-01 21:01:50.500
+10,2016-09-01,MSW-NY,5.5,D,1,0.9,Haul Anchor,"Alvarado, Junior","McLaughlin, Kiaran",Bernardini,Storm Cat,SAR 2-8/8/16 2,,,2016-09-01 22:00:00,2016-09-01 22:01:11.500
+10,2016-09-01,MSW-NY,5.5,D,2,5.7,Mo Maverick,"Franco, Manuel","Weaver, George",Uncle Mo,Lemon Drop Kid,,,,2016-09-01 22:00:00,2016-09-01 22:01:11.500
+10,2016-09-01,MSW-NY,5.5,D,3,0.9,Can You Diggit,"Arroyo, Angel","Jerkens, James",Tiznow,Mineshaft,,,,2016-09-01 22:00:00,2016-09-01 22:01:11.500
+10,2016-09-01,MSW-NY,5.5,D,4,11.9,D'yer Mak'er,"Santana, Ricardo","Zito, Nicholas",Soaring Empire,Dixie Brass,SAR 6-8/8/16 7,,,2016-09-01 22:00:00,2016-09-01 22:01:11.500
+10,2016-09-01,MSW-NY,5.5,D,5,4.0,Jupiter Rising,"Ortiz, Jose","Hushion, Michael",Exchange Rate,Red Ransom,,,,2016-09-01 22:00:00,2016-09-01 22:01:11.500
+10,2016-09-01,MSW-NY,5.5,D,6,5.0,Dance Graze,"Castellano, Javier","Schettino, Dominick",Bluegrass Cat,Dance Brightly,,,,2016-09-01 22:00:00,2016-09-01 22:01:11.500
+10,2016-09-01,MSW-NY,5.5,D,7,15.9,Salty Slew,"Camacho, Samuel","Farrell, Desmond",Pomeroy,Chief Seattle,,,,2016-09-01 22:00:00,2016-09-01 22:01:11.500
+10,2016-09-01,MSW-NY,5.5,D,---,52.0,Party Paradise,"Davis, Jacqueline","Antonucci, Jena",Desert Party,Pulpit,SAR 2-8/8/16 9,,"Pulled up, vanned off",2016-09-01 22:00:00,2016-09-01 22:01:11.500
+6,2016-09-02,MSW-F,5.5,T,1,1.85,Black Canary,"Ortiz, Irad","Casse, Mark",War Front,Gold Fever,,,,2016-09-02 18:00:00,2016-09-02 18:01:11.500
+6,2016-09-02,MSW-F,5.5,T,2,7.3,Orecchiette,"Castellano, Javier","Pletcher, Todd",Harlan's Holiday,Aldebaran,,,,2016-09-02 18:00:00,2016-09-02 18:01:11.500
+6,2016-09-02,MSW-F,5.5,T,3,3.05,Bellavias,"Franco, Manuel","Toner, James",Tapit,Ghostzapper,,,,2016-09-02 18:00:00,2016-09-02 18:01:11.500
+6,2016-09-02,MSW-F,5.5,T,4,47.75,Spanker,"Santana, Ricardo","Cannizzo, David",Cape Blanco (IRE),A.P. Delta,,,,2016-09-02 18:00:00,2016-09-02 18:01:11.500
+6,2016-09-02,MSW-F,5.5,T,5,14.2,Foreign Affair,"Lezcano, Jose","Martin, Carlos",Exchange Rate,Songandaprayer,,,,2016-09-02 18:00:00,2016-09-02 18:01:11.500
+6,2016-09-02,MSW-F,5.5,T,6,15.8,Two Hot Betty,"Rosario, Joel","Adsit, Abigail",Wildcat Heir,Tactical Advantage,,,,2016-09-02 18:00:00,2016-09-02 18:01:11.500
+6,2016-09-02,MSW-F,5.5,T,7,5.5,K J Warrior,"Geroux, Florent","Asmussen, Steven",Tapit,Harlan's Holiday,,,,2016-09-02 18:00:00,2016-09-02 18:01:11.500
+6,2016-09-02,MSW-F,5.5,T,8,38.0,Matinee Babe,"Cancel, Eric","Cannizzo, David",Scat Daddy,Lemon Drop Kid,,,,2016-09-02 18:00:00,2016-09-02 18:01:11.500
+6,2016-09-02,MSW-F,5.5,T,9,12.4,Happy Motoring,"Wilson, Emma-Jayne","Contessa, Gary",Harlan's Holiday,King of Kings (IRE),,,,2016-09-02 18:00:00,2016-09-02 18:01:11.500
+6,2016-09-02,MSW-F,5.5,T,10,11.2,Take a Stroll,"Saez, Luis","Ritvo, Katherine",Stroll,Silver Deputy,,,,2016-09-02 18:00:00,2016-09-02 18:01:11.500
+3,2016-09-03,MSW,8.5,T,1,2.9,Frostmourne,"Ortiz, Jose","Clement, Christophe",Speightstown,Theatrical (IRE),,,,2016-09-03 15:00:00,2016-09-03 15:01:50.500
+3,2016-09-03,MSW,8.5,T,2,32.0,Indy Hill,"Cancel, Eric","Lukas, D. Wayne",English Channel,A.P. Indy,,,,2016-09-03 15:00:00,2016-09-03 15:01:50.500
+3,2016-09-03,MSW,8.5,T,3,45.75,Amp'd Up,"Gryder, Aaron","Guilott, Eric",Redding Colliery,Unbridled's Song,,,,2016-09-03 15:00:00,2016-09-03 15:01:50.500
+3,2016-09-03,MSW,8.5,T,4,1.0,Apartfromthecrowd,"Castellano, Javier","Brown, Chad",Gio Ponti,Capote,,,,2016-09-03 15:00:00,2016-09-03 15:01:50.500
+3,2016-09-03,MSW,8.5,T,5,12.1,He's Cheeky,"Santana, Ricardo","Rodriguez, Rudy",Pioneerof the Nile,Bernardini,,,,2016-09-03 15:00:00,2016-09-03 15:01:50.500
+3,2016-09-03,MSW,8.5,T,6,7.4,Piazza Del Campo,"Alvarado, Junior","Mott, William",Gio Ponti,Horse Chestnut (SAF),SAR 2-7/23/16 9,,,2016-09-03 15:00:00,2016-09-03 15:01:50.500
+3,2016-09-03,MSW,8.5,T,7,6.1,Ben of the Bridge,"Ortiz, Irad","Reid, Robert",High Cotton,Lord Avie,SAR 1-7/30/16 4,,,2016-09-03 15:00:00,2016-09-03 15:01:50.500
+3,2016-09-03,MSW,8.5,T,8,15.7,Cleave,"Franco, Manuel","Ribaudo, Robert",Smart Strike,Harlan,,,,2016-09-03 15:00:00,2016-09-03 15:01:50.500
+4,2016-09-03,MSW,7.0,D,1,15.3,Unbridled Eagle,"Franco, Manuel","Lukas, D. Wayne",Mineshaft,Unbridled's Song,SAR 6-8/20/16 7,,,2016-09-03 16:00:00,2016-09-03 16:01:31.000
+4,2016-09-03,MSW,7.0,D,2,6.8,Westwood,"Bravo, Joe","McLaughlin, Kiaran",Bernardini,Saint Ballado,,,,2016-09-03 16:00:00,2016-09-03 16:01:31.000
+4,2016-09-03,MSW,7.0,D,3,3.6,Altito,"Ortiz, Jose","McGaughey, Claude",Bernardini,Summer Squall,BEL 1-7/9/16 7,,,2016-09-03 16:00:00,2016-09-03 16:01:31.000
+4,2016-09-03,MSW,7.0,D,4,5.3,Oxford Circus,"Saez, Luis","Lynch, Brian",Macho Uno,Milwaukee Brew,,,,2016-09-03 16:00:00,2016-09-03 16:01:31.000
+4,2016-09-03,MSW,7.0,D,5,2.3,South Sea,"Rosario, Joel","Mott, William",Into Mischief,Empire Maker,SAR 6-7/23/16 4,,,2016-09-03 16:00:00,2016-09-03 16:01:31.000
+4,2016-09-03,MSW,7.0,D,6,38.25,Micozzi,"Cancel, Eric","Mareina, Michael",Bodemeister,Distorted Humor,,,,2016-09-03 16:00:00,2016-09-03 16:01:31.000
+4,2016-09-03,MSW,7.0,D,7,17.2,La Maquina Gris,"Ortiz, Irad","Asmussen, Steven",The Factor,Empire Maker,,,,2016-09-03 16:00:00,2016-09-03 16:01:31.000
+4,2016-09-03,MSW,7.0,D,8,34.25,Small Bear,"Santana, Ricardo","Sciacca, Gary",Macho Uno,El Prado (IRE),,,,2016-09-03 16:00:00,2016-09-03 16:01:31.000
+4,2016-09-03,MSW,7.0,D,9,15.5,Spectacular Jack,"Alvarado, Junior","Hennig, Mark",Tapit,Storm Cat,,,,2016-09-03 16:00:00,2016-09-03 16:01:31.000
+4,2016-09-03,MSW,7.0,D,10,5.2,Tapwrit,"Castellano, Javier","Pletcher, Todd",Tapit,Successful Appeal,,,,2016-09-03 16:00:00,2016-09-03 16:01:31.000
+7,2016-09-03,MSW,7.0,D,1,1.75,Casses Story,"Ortiz, Jose","Casse, Mark",Bernardini,More Than Ready,SAR 6-8/6/16 2,,,2016-09-03 19:00:00,2016-09-03 19:01:31.000
+7,2016-09-03,MSW,7.0,D,2,8.1,You're to Blame,"Castellano, Javier","Brown, Chad",Distorted Humor,Malibu Moon,MTH 3-7/31/16 5,,,2016-09-03 19:00:00,2016-09-03 19:01:31.000
+7,2016-09-03,MSW,7.0,D,3,15.1,Borsa Vento,"Saez, Luis","Zito, Nicholas",Uncle Mo,Crafty Prospector,SAR 2-8/6/16 8,,,2016-09-03 19:00:00,2016-09-03 19:01:31.000
+7,2016-09-03,MSW,7.0,D,4,8.4,Spieth,"Alvarado, Junior","McLaughlin, Kiaran",Bernardini,Unbridled's Song,,,,2016-09-03 19:00:00,2016-09-03 19:01:31.000
+7,2016-09-03,MSW,7.0,D,5,6.5,Outrun,"Velazquez, John","Pletcher, Todd",Medaglia d'Oro,A.P. Indy,,,,2016-09-03 19:00:00,2016-09-03 19:01:31.000
+7,2016-09-03,MSW,7.0,D,6,22.8,Hay Listen Up,"Cancel, Eric","Lukas, D. Wayne",Haynesfield,Kennedy Road,SAR 3-8/11/16 6,,,2016-09-03 19:00:00,2016-09-03 19:01:31.000
+7,2016-09-03,MSW,7.0,D,7,3.5,Kahramani,"Ortiz, Irad","Pletcher, Todd",Haynesfield,Hernando (FR),SAR 3-7/30/16 3,,,2016-09-03 19:00:00,2016-09-03 19:01:31.000
+7,2016-09-03,MSW,7.0,D,8,16.4,Whole Lotta Luck,"Franco, Manuel","Stewart, Dallas",Lookin at Lucky,Broad Brush,,,,2016-09-03 19:00:00,2016-09-03 19:01:31.000
+7,2016-09-03,MSW,7.0,D,9,42.25,Port More,"Santana, Ricardo","Sciacca, Gary",Gone Astray,Red Bullet,SAR 3-7/30/16 5,,,2016-09-03 19:00:00,2016-09-03 19:01:31.000
+7,2016-09-03,MSW,7.0,D,10,11.8,Mohican,"Rosario, Joel","Mott, William",Pioneerof the Nile,Cherokee Run,,,,2016-09-03 19:00:00,2016-09-03 19:01:31.000
+9,2016-09-03,GRD-F,7.0,D,1,3.75,Sweet Loretta,"Castellano, Javier","Pletcher, Todd",Tapit,Bluegrass Cat,SAR 8-7/22/16 1,,Dead heat,2016-09-03 21:00:00,2016-09-03 21:01:31.000
+9,2016-09-03,GRD-F,7.0,D,1,4.8,Pretty City Dancer,"Ortiz, Irad","Casse, Mark",Tapit,Carson City,CD 8-7/2/16 1,,Dead heat,2016-09-03 21:00:00,2016-09-03 21:01:31.000
+9,2016-09-03,GRD-F,7.0,D,3,1.0,Cherry Lodge,"Velazquez, John","Pletcher, Todd",Bernardini,Carson City,SAR 6-8/7/16 1,,,2016-09-03 21:00:00,2016-09-03 21:01:31.000
+9,2016-09-03,GRD-F,7.0,D,4,17.4,Fun,"Alvarado, Junior","Wilkes, Ian",Harlan's Holiday,Empire Maker,SAR 8-7/22/16 2,,,2016-09-03 21:00:00,2016-09-03 21:01:31.000
+9,2016-09-03,GRD-F,7.0,D,5,35.75,You Know Too,"Saez, Luis","Gorham, Michael",Colonel John,Pulpit,DEL 8-8/3/16 2,,,2016-09-03 21:00:00,2016-09-03 21:01:31.000
+9,2016-09-03,GRD-F,7.0,D,6,3.8,Runway Doll,"Ortiz, Jose","Asmussen, Steven",Majestic Warrior,Boundary,SAR 7-7/31/16 1,,,2016-09-03 21:00:00,2016-09-03 21:01:31.000
+9,2016-09-03,GRD-F,7.0,D,7,36.5,Special Risk,"Rosario, Joel","Rodriguez, Rudy",Eskendereya,Macho Uno,SAR 6-7/22/16 2,,,2016-09-03 21:00:00,2016-09-03 21:01:31.000
+4,2016-09-04,MSW,6.0,D,1,4.1,Moves Like Ali,"Ortiz, Irad","Englehart, Jeremiah",Maclean's Music,Even the Score,,,,2016-09-04 16:00:00,2016-09-04 16:01:18.000
+4,2016-09-04,MSW,6.0,D,2,11.7,Irst,"Castellano, Javier","Pletcher, Todd",Union Rags,Bernardini,,,,2016-09-04 16:00:00,2016-09-04 16:01:18.000
+4,2016-09-04,MSW,6.0,D,3,6.8,Best Case,"Santana, Ricardo","Asmussen, Steven",Successful Appeal,Distorted Humor,,,,2016-09-04 16:00:00,2016-09-04 16:01:18.000
+4,2016-09-04,MSW,6.0,D,4,2.8,Commandering,"Velazquez, John","Pletcher, Todd",Bodemeister,Medaglia d'Oro,,,,2016-09-04 16:00:00,2016-09-04 16:01:18.000
+4,2016-09-04,MSW,6.0,D,5,3.05,Lenstar,"Ortiz, Jose","Zito, Nicholas",Shackleford,Cryptoclearance,SAR 6-8/6/16 4,,,2016-09-04 16:00:00,2016-09-04 16:01:18.000
+4,2016-09-04,MSW,6.0,D,6,12.8,Millenial,"Rosario, Joel","Lukas, D. Wayne",Speightstown,A.P. Indy,SAR 6-8/24/16 5,,,2016-09-04 16:00:00,2016-09-04 16:01:18.000
+4,2016-09-04,MSW,6.0,D,7,13.2,Dupree,"Geroux, Florent","Moquett, Ron",Caleb's Posse,More Than Ready,,,,2016-09-04 16:00:00,2016-09-04 16:01:18.000
+4,2016-09-04,MSW,6.0,D,8,43.0,Robbins,"Franco, Manuel","Albetrani, Thomas",Girolamo,Salt Lake,,,,2016-09-04 16:00:00,2016-09-04 16:01:18.000
+4,2016-09-04,MSW,6.0,D,9,14.3,Classic Rock,"Saez, Luis","Ritvo, Katherine",Maclean's Music,High Yield,,,,2016-09-04 16:00:00,2016-09-04 16:01:18.000
+4,2016-09-04,MSW,6.0,D,10,18.5,True Valor,"Alvarado, Junior","Desormeaux, Keith",Yes It's True,Grand Slam,SAR 6-8/6/16 7,,,2016-09-04 16:00:00,2016-09-04 16:01:18.000
+6,2016-09-04,MSW-NY,5.5,T,1,2.35,New York's Finest,"Ortiz, Jose","Rice, Linda",City Zip,Yes It's True,SAR 6-8/6/16 6,,,2016-09-04 18:00:00,2016-09-04 18:01:11.500
+6,2016-09-04,MSW-NY,5.5,T,2,2.0,Jo's Bold Cat,"Saez, Luis","Violette, Rick",Courageous Cat,Chester House,SAR 5-7/29/16 2,,,2016-09-04 18:00:00,2016-09-04 18:01:11.500
+6,2016-09-04,MSW-NY,5.5,T,3,18.9,Baltic Sea,"Bravo, Joe","Brown, Bruce",Cosmonaut,Salt Lake,,,,2016-09-04 18:00:00,2016-09-04 18:01:11.500
+6,2016-09-04,MSW-NY,5.5,T,4,3.95,Song for the Soul,"Rosario, Joel","Ward, Wesley",Freud,Unbridled's Song,SAR 5-7/28/16 2,,,2016-09-04 18:00:00,2016-09-04 18:01:11.500
+6,2016-09-04,MSW-NY,5.5,T,5,4.2,Summer Sweet,"Velazquez, John","Clement, Christophe",More Than Ready,Caerleon,BEL 2-7/3/16 4,,,2016-09-04 18:00:00,2016-09-04 18:01:11.500
+6,2016-09-04,MSW-NY,5.5,T,6,51.75,What R U Doing Now,"Luzzi, Michael","Brown, Bruce",Afleet Alex,Lemon Drop Kid,,,,2016-09-04 18:00:00,2016-09-04 18:01:11.500
+6,2016-09-04,MSW-NY,5.5,T,7,10.2,T Loves a Fight,"Ortiz, Irad","Hushion, Michael",Girolamo,Broken Vow,,,,2016-09-04 18:00:00,2016-09-04 18:01:11.500
+6,2016-09-04,MSW-NY,5.5,T,8,66.0,Our Twist of Fate,"Camacho, Samuel","Del Castillo, Janet",Super Saver,Mt. Livermore,,,,2016-09-04 18:00:00,2016-09-04 18:01:11.500
+8,2016-09-04,MSW-F,7.0,D,1,23.5,For Honor,"Santana, Ricardo","Weaver, George",To Honor and Serve,Empire Maker,,,,2016-09-04 20:00:00,2016-09-04 20:01:31.000
+8,2016-09-04,MSW-F,7.0,D,2,10.6,Momentiempo,"Franco, Manuel","Toner, James",Medaglia d'Oro,Kris S.,,,,2016-09-04 20:00:00,2016-09-04 20:01:31.000
+8,2016-09-04,MSW-F,7.0,D,3,2.6,Devine Union,"Castellano, Javier","Brown, Chad",Union Rags,Summer Squall,,,,2016-09-04 20:00:00,2016-09-04 20:01:31.000
+8,2016-09-04,MSW-F,7.0,D,4,2.8,Teresa Z,"Velazquez, John","Pletcher, Todd",Smart Strike,A.P. Indy,SAR 2-7/24/16 4,,,2016-09-04 20:00:00,2016-09-04 20:01:31.000
+8,2016-09-04,MSW-F,7.0,D,5,8.9,Bid List,"Ortiz, Jose","Asmussen, Steven",Ghostzapper,Bernardini,,,,2016-09-04 20:00:00,2016-09-04 20:01:31.000
+8,2016-09-04,MSW-F,7.0,D,6,12.7,Rollover Risk,"Geroux, Florent","Stall, Albert",First Samurai,Outflanker,,,,2016-09-04 20:00:00,2016-09-04 20:01:31.000
+8,2016-09-04,MSW-F,7.0,D,7,65.25,Double Cast,"Luzzi, Michael","O'Brien, Leo",Broken Vow,Theatrical (IRE),,,,2016-09-04 20:00:00,2016-09-04 20:01:31.000
+8,2016-09-04,MSW-F,7.0,D,8,9.4,Krazy Kathy,"Ortiz, Irad","Rodriguez, Rudy",Harlan's Holiday,Unbridled's Song,,,,2016-09-04 20:00:00,2016-09-04 20:01:31.000
+8,2016-09-04,MSW-F,7.0,D,9,5.6,Malibu Stella,"Bravo, Joe","Wismer, Troy",Malibu Moon,Touch Gold,SAR 5-8/12/16 2,,,2016-09-04 20:00:00,2016-09-04 20:01:31.000
+8,2016-09-04,MSW-F,7.0,D,10,9.9,Mint Condition,"Rosario, Joel","McLaughlin, Kiaran",Hard Spun,Malibu Moon,,,,2016-09-04 20:00:00,2016-09-04 20:01:31.000
+2,2016-09-05,MSW-F-NY,7.0,D,1,5.0,Bree's Got Heart,"Arroyo, Angel","Reid, Robert",Colonel John,Put It Back,SAR 6-8-10/16 2,,,2016-09-05 14:00:00,2016-09-05 14:01:31.000
+2,2016-09-05,MSW-F-NY,7.0,D,2,3.5,Strawberry Tequila,"Saez, Luis","Brown, Bruce",Daaher,Dayjur,,,,2016-09-05 14:00:00,2016-09-05 14:01:31.000
+2,2016-09-05,MSW-F-NY,7.0,D,3,18.5,Indian Gem,"Geroux, Florent","Mason, Ingrid",Gemologist,Indian Charlie,,,,2016-09-05 14:00:00,2016-09-05 14:01:31.000
+2,2016-09-05,MSW-F-NY,7.0,D,4,8.6,Frosty Gal,"Franco, Manuel","Tagg, Barclay",Frost Giant,Jump Start,SAR 4-7/25/16 8,,,2016-09-05 14:00:00,2016-09-05 14:01:31.000
+2,2016-09-05,MSW-F-NY,7.0,D,5,3.35,Swing and Sway,"Santana, Ricardo","Moquett, Ron",Maclean's Music,Gilded Time,,,,2016-09-05 14:00:00,2016-09-05 14:01:31.000
+2,2016-09-05,MSW-F-NY,7.0,D,6,8.5,Mini Megan,"Ortiz, Irad","Rodriguez, Rudy",Frost Giant,Powerscourt (GB),,,,2016-09-05 14:00:00,2016-09-05 14:01:31.000
+2,2016-09-05,MSW-F-NY,7.0,D,7,14.1,Kabuki,"Lezcano, Jose","Lewis, Lisa",Afleet Alex,Kingmambo,SAR 4-7/25/16 6,,,2016-09-05 14:00:00,2016-09-05 14:01:31.000
+2,2016-09-05,MSW-F-NY,7.0,D,8,2.95,Moondance,"Velazquez, John","McLaughlin, Kiaran",Malibu Moon,Tabasco Cat,,,,2016-09-05 14:00:00,2016-09-05 14:01:31.000
+3,2016-09-05,MSW,8.5,T,1,2.6,J. S. Choice,"Ortiz, Irad","Pletcher, Todd",Congrats,Empire Maker,SAR 2-8/13/16 5,,,2016-09-05 15:00:00,2016-09-05 15:01:50.500
+3,2016-09-05,MSW,8.5,T,2,7.1,Data Room,"Castellano, Javier","Brown, Chad",Union Rags,Seeking the Gold,,,,2016-09-05 15:00:00,2016-09-05 15:01:50.500
+3,2016-09-05,MSW,8.5,T,3,9.8,Now in a Drive,"Saez, Luis","Lynch, Brian",Tiznow,Belong to Me,,,,2016-09-05 15:00:00,2016-09-05 15:01:50.500
+3,2016-09-05,MSW,8.5,T,4,2.3,Panama Papers,"Franco, Manuel","Hushion, Michael",English Channel,Elusive Quality,SAR 1-8/6/16 2,,,2016-09-05 15:00:00,2016-09-05 15:01:50.500
+3,2016-09-05,MSW,8.5,T,5,9.6,Markitoff,"Lezcano, Jose","Rice, Linda",Giant's Causeway,Ghostzapper,,,,2016-09-05 15:00:00,2016-09-05 15:01:50.500
+3,2016-09-05,MSW,8.5,T,6,27.5,Menacing Dennis,"Alvarado, Junior","Sciacca, Gary",Greatness,Lost Soldier,SAR 2-8/13/16 8,,,2016-09-05 15:00:00,2016-09-05 15:01:50.500
+3,2016-09-05,MSW,8.5,T,7,20.5,Giant Brownie,"Santana, Ricardo","Contessa, Gary",Big Brown,Woodman,SAR 1-8/6/16 8,,,2016-09-05 15:00:00,2016-09-05 15:01:50.500
+3,2016-09-05,MSW,8.5,T,8,43.0,Saratoga San,"Davis, Dylan","Desormeaux, Keith",Broken Vow,Notebook,MTH 3-7/31/16 8,,,2016-09-05 15:00:00,2016-09-05 15:01:50.500
+3,2016-09-05,MSW,8.5,T,9,3.95,Majestic Tom,"Ortiz, Jose","Barbara, Robert",Eskendereya,Afternoon Deelites,SAR 1-7/30/16 5,,,2016-09-05 15:00:00,2016-09-05 15:01:50.500
+6,2016-09-05,MSW-F,8.5,T,1,6.5,La Coronel,"Geroux, Florent","Casse, Mark",Colonel John,Chester House,SAR 6-7/22/16 5,,,2016-09-05 18:00:00,2016-09-05 18:01:50.500
+6,2016-09-05,MSW-F,8.5,T,2,1.85,New Money Honey,"Castellano, Javier","Brown, Chad",Medaglia d'Oro,Distorted Humor,,,,2016-09-05 18:00:00,2016-09-05 18:01:50.500
+6,2016-09-05,MSW-F,8.5,T,3,3.7,Starr Bear,"Saez, Luis","Cox, Brad",Broken Vow,Dixieland Band,CD 6-6/24/16 3,,,2016-09-05 18:00:00,2016-09-05 18:01:50.500
+6,2016-09-05,MSW-F,8.5,T,4,9.7,China Rider,"Franco, Manuel","Cannizzo, David",Majestic Warrior,Smart Strike,BEL 2-6/12/16 2,,,2016-09-05 18:00:00,2016-09-05 18:01:50.500
+6,2016-09-05,MSW-F,8.5,T,5,8.1,My Sweet Stella,"Santana, Ricardo","Lukas, D. Wayne",Eskendereya,Songandaprayer,SAR 10-8/7/16 6,,,2016-09-05 18:00:00,2016-09-05 18:01:50.500
+6,2016-09-05,MSW-F,8.5,T,6,25.0,Hoponthebusgus,"Cancel, Eric","Martin, Carlos",Warrior's Reward,Johar,SAR 3-8/4/16 4,,,2016-09-05 18:00:00,2016-09-05 18:01:50.500
+6,2016-09-05,MSW-F,8.5,T,7,12.1,Super Stacy,"Ortiz, Jose","Rice, Linda",Super Saver,Mineshaft,,,,2016-09-05 18:00:00,2016-09-05 18:01:50.500
+6,2016-09-05,MSW-F,8.5,T,8,14.0,Fifteen Church,"Ortiz, Irad","Contessa, Gary",Harlan's Holiday,Mineshaft,SAR 5-7/27/16 9,,,2016-09-05 18:00:00,2016-09-05 18:01:50.500
+6,2016-09-05,MSW-F,8.5,T,9,7.5,Slew of Money,"Alvarado, Junior","Mott, William",Lonhro (AUS),Seeking the Gold,,,,2016-09-05 18:00:00,2016-09-05 18:01:50.500
+10,2016-09-05,GRD,7.0,D,1,2.1,Practical Joke,"Ortiz, Jose","Brown, Chad",Into Mischief,Distorted Humor,SAR 2-8/6/16 1,,,2016-09-05 22:00:00,2016-09-05 22:01:31.000
+10,2016-09-05,GRD,7.0,D,2,15.1,Royal Copy,"Saez, Luis","Lukas, D. Wayne",Bodemeister,Meadowlake,SAR 3-8/13/16 1,,,2016-09-05 22:00:00,2016-09-05 22:01:31.000
+10,2016-09-05,GRD,7.0,D,3,25.75,Pretty Boy Flash,"Velazquez, John","Asmussen, Steven",Gone Astray,Honour and Glory,SAR 3-8/13/16 2,,,2016-09-05 22:00:00,2016-09-05 22:01:31.000
+10,2016-09-05,GRD,7.0,D,4,3.35,Bitumen,"Castellano, Javier","Kenneally, Eddie",Mineshaft,Tale of the Cat,SAR 3-7/23/16 1,,,2016-09-05 22:00:00,2016-09-05 22:01:31.000
+10,2016-09-05,GRD,7.0,D,5,26.0,Everybodyluvsrudy,"Arroyo, Angel","Rodriguez, Rudy",Union Rags,A.P. Indy,BEL 2-7/1/16 2,,,2016-09-05 22:00:00,2016-09-05 22:01:31.000
+10,2016-09-05,GRD,7.0,D,6,6.4,Runaway Lute,"Santana, Ricardo","Contessa, Gary",Midnight Lute,Waquoit,BEL 3-7/16/16 1,,,2016-09-05 22:00:00,2016-09-05 22:01:31.000
+10,2016-09-05,GRD,7.0,D,---,1.65,Classic Empire,"Ortiz, Irad","Casse, Mark",Pioneerof the Nile,Cat Thief,CD 7-7/2/16 1,,Lost rider,2016-09-05 22:00:00,2016-09-05 22:01:31.000
