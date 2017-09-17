@@ -43,7 +43,7 @@ class Init < ActiveRecord::Migration[5.1]
       t.string :user_id, null: false
     end
 
-    add_index :bettors, :email, unique: true
+    add_index :bettors, :user_id, unique: true
 
 
     # Bets

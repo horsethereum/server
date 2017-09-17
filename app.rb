@@ -89,8 +89,8 @@ get '/next_race' do
 end
 
 
-get '/races/:id/horses' do
-  race_id = params[:id]
+get '/races/:race_id/horses' do
+  race_id = params[:race_id]
 
   races_horses = RaceHorseJoin.includes(:horse)
                               .where(race_id: race_id)
@@ -98,17 +98,58 @@ get '/races/:id/horses' do
 
   horses = \
     races_horses.map do |race_horse|
-      horse = race_horse.horse.as_json
-      horse[:odds] = race_horse.odds
-      horse
+      race_horse.horse.as_json.tap do |json|
+        json[:odds] = race_horse.odds
+      end
     end
 
   respond horses
 end
 
 
-post '/races/:id/bets' do
-  bets = Race.find(race_id).bets
+get '/races/:race_id/bets' do
+  race_id  = params[:race_id].to_i
+  user_id  = params[:user_id].to_i
 
-  respond bets.order('created_at asc').to_json
+  race   = Race.find_by(id: race_id)
+  bettor = Bettor.find_by(user_id: user_id)
+  bets   = Bet.where(race: race, bettor: bettor)
+              .order('created_at asc')
+
+  unless race && bettor
+    return respond Error.new(error: 'not_found')
+  end
+
+
+  results =\
+    bets.map do |bet|
+      bet.horse.as_json.tap do |json|
+        json['amount'] = bet.amount
+      end
+    end
+
+  respond results
+end
+
+
+post '/races/:race_id/bets' do
+  race_id  = params[:race_id].to_i
+  horse_id = params[:horse_id].to_i
+  user_id  = params[:user_id].to_i
+  amount   = params[:amount].to_f
+
+  race   = Race.find_by(id: race_id)
+  horse  = Horse.find_by(id: horse_id)
+  bettor = Bettor.find_or_create_by(user_id: user_id)
+
+  unless race && horse && bettor
+    return respond Error.new(error: 'not_found')
+  end
+
+  unless amount > 0
+    return respond Error.new(error: 'invalid_amount')
+  end
+
+  bet = Bet.new(race: race, horse: horse, bettor: bettor, amount: amount)
+  respond bet.save ? bet : Error.new(bet)
 end

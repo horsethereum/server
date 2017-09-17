@@ -29,9 +29,8 @@ ActiveRecord::Schema.define(version: 20170916211431) do
   end
 
   create_table "bettors", force: :cascade do |t|
-    t.string "name", null: false
-    t.string "email", null: false
-    t.index ["email"], name: "index_bettors_on_email", unique: true
+    t.string "user_id", null: false
+    t.index ["user_id"], name: "index_bettors_on_user_id", unique: true
   end
 
   create_table "horses", force: :cascade do |t|

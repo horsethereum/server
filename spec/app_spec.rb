@@ -32,15 +32,23 @@ describe 'my example app' do
 
   context '/races_today' do
 
-    it 'should return all the races' do
-      get '/races_today'
-      expect(body.size).to eq(3)
+    context 'valid' do
+
+      it 'should return all the races' do
+        get '/races_today'
+        expect(body.size).to eq(3)
+      end
+
     end
 
-    it 'should return an error if scope is invalid' do
-      get '/races_today?scope=bad'
-      expect(last_response.status).to eq(400)
-      expect(body['error']).to eq('invalid_scope')
+    context 'invalid' do
+
+      it 'should return an error if scope is invalid' do
+        get '/races_today?scope=bad'
+        expect(last_response.status).to eq(400)
+        expect(body['error']).to eq('invalid_scope')
+      end
+
     end
 
   end
@@ -62,6 +70,82 @@ describe 'my example app' do
       get "/races/#{r1.id}/horses"
       expect(body.size).to eq(3)
       expect(body[0]['odds']).to_not be_nil
+    end
+
+  end
+
+  context 'POST /races/:race_id/bets' do
+
+    let!(:u1) { Bettor.create(user_id: '12345') }
+
+
+    context 'valid' do
+
+      it 'should place a bet' do
+        post "/races/#{r1.id}/bets",
+          user_id: u1.user_id, horse_id: h1.id, amount: 100
+
+        expect(body['id']).to_not be_nil
+      end
+
+
+      it 'should create user if one does not exist' do
+        expect {
+          post "/races/#{r1.id}/bets",
+            user_id: 'another_user', horse_id: h1.id, amount: 100
+        }.to change{Bettor.count}.by(1)
+
+        expect(body['id']).to_not be_nil
+      end
+
+    end
+
+    context 'invalid' do
+
+      it 'should not place a bet without an amount' do
+        post "/races/#{r1.id}/bets",
+          user_id: u1.user_id, horse_id: h1.id
+
+        expect(body['error']).to eq('invalid_amount')
+      end
+
+
+      it 'should not place a bet without a horse' do
+        post "/races/#{r1.id}/bets",
+          user_id: u1.user_id, amount: 100
+
+        expect(body['error']).to eq('not_found')
+      end
+
+    end
+
+  end
+
+
+  context 'GET /races/:race_id/bets' do
+
+    let!(:u1)   { Bettor.create(user_id: '12345') }
+    let!(:bet1) { Bet.create(race: r1, horse: h1, bettor: u1, amount: 1) }
+    let!(:bet2) { Bet.create(race: r1, horse: h2, bettor: u1, amount: 5) }
+
+    context 'valid' do
+
+      it 'should list all user bets' do
+        get "/races/#{r1.id}/bets", user_id: u1.user_id
+
+        expect(body.size).to eq(2)
+      end
+
+    end
+
+    context 'invalid' do
+
+      it 'should not list user bets without a user' do
+        post "/races/#{r1.id}/bets"
+
+        expect(body['error']).to eq('not_found')
+      end
+
     end
 
   end
