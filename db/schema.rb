@@ -20,8 +20,10 @@ ActiveRecord::Schema.define(version: 20170916211431) do
     t.integer "race_id", null: false
     t.integer "horse_id", null: false
     t.decimal "amount", null: false
+    t.datetime "created_at", null: false
     t.index ["bettor_id", "race_id", "horse_id"], name: "index_bets_on_bettor_id_and_race_id_and_horse_id"
     t.index ["bettor_id"], name: "index_bets_on_bettor_id"
+    t.index ["created_at"], name: "index_bets_on_created_at"
     t.index ["horse_id"], name: "index_bets_on_horse_id"
     t.index ["race_id"], name: "index_bets_on_race_id"
   end

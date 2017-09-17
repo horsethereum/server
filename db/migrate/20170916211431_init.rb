@@ -40,8 +40,7 @@ class Init < ActiveRecord::Migration[5.1]
     # Bettors
     #
     create_table :bettors do |t|
-      t.string :name,  null: false
-      t.string :email, null: false
+      t.string :user_id, null: false
     end
 
     add_index :bettors, :email, unique: true
@@ -50,10 +49,11 @@ class Init < ActiveRecord::Migration[5.1]
     # Bets
     #
     create_table :bets do |t|
-      t.integer :bettor_id, null: false, index: true
-      t.integer :race_id,   null: false, index: true
-      t.integer :horse_id,  null: false, index: true
-      t.decimal :amount,    null: false
+      t.integer  :bettor_id,  null: false, index: true
+      t.integer  :race_id,    null: false, index: true
+      t.integer  :horse_id,   null: false, index: true
+      t.decimal  :amount,     null: false
+      t.datetime :created_at, null: false, index: true
     end
 
     add_index :bets, [:bettor_id, :race_id, :horse_id]

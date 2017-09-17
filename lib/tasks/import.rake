@@ -3,6 +3,8 @@ namespace :db do
   task :import => :load_config do
 
     require 'csv'
+    require 'pry'
+
     path = File.dirname(File.expand_path(__FILE__))
     rows = CSV.read("#{path}/../../db/seeds.csv")
 
@@ -24,17 +26,21 @@ namespace :db do
 
     ActiveRecord::Base.transaction do
 
+      start_date = races_horses.map { |rh| rh[:date] }.uniq.sort.first
+
       races_horses.group_by { |o| o[:id] }.each do |race, horses|
         data = horses[0]
-        p data
 
-        date = data[:date]
+        date  = data[:date]
+        today = Date.today
         race_number = data[:race_number]
 
-        race = Race.create!(date: date,
+        race = Race.create!(date: today + (date - start_date),
                             race_number: race_number,
-                            start_time: data[:start_time],
-                            end_time: data[:end_time])
+                            start_time:  data[:start_time] + (today - date).days,
+                            end_time:    data[:end_time] + (today - date).days)
+
+        p race.inspect
 
         horses.each do |d|
           horse = Horse.find_or_create_by(name: d[:name])
