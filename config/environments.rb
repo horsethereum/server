@@ -5,5 +5,6 @@ end
 
 ActiveRecord::Base.logger = Logger.new(STDOUT)
 ActiveRecord::Base.logger.level = Logger::INFO
+Time.zone = 'Pacific Time (US & Canada)'
 
 require_relative '../app/models/init'

@@ -12,11 +12,11 @@ namespace :db do
 
     races_horses = rows.map do |row|
       {
-        id:          "#{Date.parse(row[1]).strftime("%Y%m%d")}_#{row[0].to_i}",
-        date:        Date.parse(row[1]),
+        id:          "#{Time.zone.parse(row[1]).strftime("%Y%m%d")}_#{row[0].to_i}",
+        date:        Time.zone.parse(row[1]).to_date,
         race_number: row[0].to_i,
-        start_time:  Time.parse(row[15]),
-        end_time:    Time.parse(row[16]),
+        start_time:  Time.zone.parse(row[15]),
+        end_time:    Time.zone.parse(row[16]),
         name:        row[7],
         odds:        Float(row[6]),
         finish:      row[5].to_i
@@ -32,7 +32,7 @@ namespace :db do
         data = horses[0]
 
         date  = data[:date]
-        today = Date.today
+        today = Time.zone.today + 1.day
         race_number = data[:race_number]
 
         race = Race.create!(date: today + (date - start_date),

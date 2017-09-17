@@ -5,14 +5,14 @@ describe 'my example app' do
   end
 
   let!(:r1) { Race.create(date: Date.today, race_number: 1,
-                          start_time: Time.now + 5.minutes,
-                          end_time:   Time.now + 10.minutes) }
+                          start_time: Time.zone.now + 5.minutes,
+                          end_time:   Time.zone.now + 10.minutes) }
   let!(:r2) { Race.create(date: Date.today, race_number: 2,
-                          start_time: Time.now + 5.minutes,
-                          end_time:   Time.now + 10.minutes) }
+                          start_time: Time.zone.now + 5.minutes,
+                          end_time:   Time.zone.now + 10.minutes) }
   let!(:r3) { Race.create(date: Date.today, race_number: 3,
-                          start_time: Time.now + 5.minutes,
-                          end_time:   Time.now + 10.minutes) }
+                          start_time: Time.zone.now + 5.minutes,
+                          end_time:   Time.zone.now + 10.minutes) }
 
   let!(:h1) { Horse.create(name: 'one') }
   let!(:h2) { Horse.create(name: 'two') }
@@ -62,7 +62,7 @@ describe 'my example app' do
         Timecop.travel(r1.start_time + 30.minutes) do
           put '/profile', user_id: u1.user_id
           expect(body['user_id']).to eq(u1.user_id)
-          expect(body['profit'].to_f).to_not eq(0)
+          expect(body['profit'].to_f).to be > 0
         end
       end
 
@@ -76,7 +76,7 @@ describe 'my example app' do
         Timecop.travel(r1.start_time + 30.minutes) do
           put '/profile', user_id: u1.user_id
           expect(body['user_id']).to eq(u1.user_id)
-          expect(body['profit'].to_f).to eq(0)
+          expect(body['profit'].to_f).to be < 0
         end
       end
 
@@ -121,10 +121,33 @@ describe 'my example app' do
 
   context '/races/:id/horses' do
 
-    it 'should list the odds in a race' do
-      get "/races/#{r1.id}/horses"
-      expect(body.size).to eq(3)
-      expect(body[0]['odds']).to_not be_nil
+    context 'valid' do
+
+      it 'should list the odds in a race' do
+        get "/races/#{r1.id}/horses"
+        expect(body.size).to eq(3)
+        expect(body[0]['odds']).to_not be_nil
+      end
+
+      it 'should list the finish in a race which is over' do
+        Timecop.travel(r1.end_time + 30.minutes) do
+          get "/races/#{r1.id}/horses", results: true
+          expect(body.size).to eq(3)
+          expect(body[0]['odds']).to_not be_nil
+        end
+      end
+
+    end
+
+    context 'invalid' do
+
+      it 'should not list the finish in a race which is not over' do
+        Timecop.travel(r1.end_time - 30.minutes) do
+          get "/races/#{r1.id}/horses", results: true
+          expect(body['error']).to eq('race_not_over')
+        end
+      end
+
     end
 
   end

@@ -3,7 +3,9 @@ require 'sinatra/activerecord'
 require 'dotenv/load'
 require './config/environments'
 
+
 before do
+  Time.zone = 'Pacific Time (US & Canada)'
   content_type :json
 end
 
@@ -72,9 +74,9 @@ get '/races' do
     when :all
       Race.all
     when :future
-      Race.where('start_time > ?', Time.now)
+      Race.where('start_time > ?', Time.zone.now)
     when :past
-      Race.where('start_time < ?', Time.now)
+      Race.where('start_time < ?', Time.zone.now)
     else
       Error.new(error: 'invalid_scope')
     end
@@ -91,9 +93,9 @@ get '/races_today' do
     when :all
       Race.where(date: Date.today)
     when :future
-      Race.where('date = ? and start_time > ?', Date.today, Time.now)
+      Race.where('date = ? and start_time > ?', Date.today, Time.zone.now)
     when :past
-      Race.where('date = ? and start_time < ?', Date.today, Time.now)
+      Race.where('date = ? and start_time < ?', Date.today, Time.zone.now)
     else
       respond Error.new(error: 'invalid_scope')
       return
@@ -104,7 +106,7 @@ end
 
 
 get '/next_race' do
-  races = Race.where('start_time > ?', Time.now)
+  races = Race.where('start_time > ?', Time.zone.now)
 
   respond races.order('start_time asc').first
 end

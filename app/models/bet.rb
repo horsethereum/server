@@ -21,6 +21,6 @@ class Bet < ActiveRecord::Base
     rh = \
       RaceHorseJoin.find_by(race_id: race.id, horse_id: horse.id)
 
-    rh.finish == 1 ? amount * rh.odds : 0
+    rh.finish == 1 ? amount * rh.odds : -amount
   end
 end

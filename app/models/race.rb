@@ -9,7 +9,7 @@ class Race < ActiveRecord::Base
 
 
   def self.update_all!
-    Race.not_settled.where('end_time < ?', Time.now).each do |race|
+    Race.not_settled.where('end_time < ?', Time.zone.now).each do |race|
       race.transaction do
         race.bets.each do |bet|
           bet.update(profit: bet.calculate_profit)
@@ -17,6 +17,11 @@ class Race < ActiveRecord::Base
         race.update(settled: true)
       end
     end
+  end
+
+
+  def over?
+    end_time < Time.zone.now
   end
 
 end
